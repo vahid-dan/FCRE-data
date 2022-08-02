@@ -1,0 +1,516 @@
+
+############################ bita - 07/28/22 13:29:48 EST ############################
+
+Data:
+
+On branch fcre-weir-data
+Your branch is up to date with 'origin/fcre-weir-data'.
+
+nothing to commit, working tree clean
+Already up to date.
+Everything up-to-date
+
+Logs:
+
+Already up to date.
+[bita-logs 5221f33] 07/28/22 13:29:48 EST: Logs
+ 10 files changed, 23 insertions(+), 1350154 deletions(-)
+ delete mode 100644 README.md
+ delete mode 100644 autossh.log
+ delete mode 100644 git-gc.log
+ rewrite git.log (99%)
+ delete mode 100644 monitor.log
+ delete mode 100644 ping-full.log
+ delete mode 100644 ping-stat.log
+ rewrite startup.log (99%)
+ delete mode 100644 usb-reset.log
+ delete mode 100644 wake.log
+To github.com:FLARE-forecast/FCRE-data
+   2a58c85..5221f33  bita-logs -> bita-logs
+[bita-logs ebf1fcd] 07/28/22 13:29:48 EST: Logs
+ 1 file changed, 14 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   5221f33..ebf1fcd  bita-logs -> bita-logs
+
+############################ bita - 07/28/22 18:22:43 EST ############################
+
+Data:
+
+[fcre-weir-data 832bf36] 07/28/22 18:22:43 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   1dfa81a..832bf36  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs aa4a856] 07/28/22 18:22:43 EST: Logs
+ 4 files changed, 189 insertions(+)
+ create mode 100644 autossh.log
+ create mode 100644 monitor.log
+ create mode 100644 ping-full.log
+To github.com:FLARE-forecast/FCRE-data
+   ebf1fcd..aa4a856  bita-logs -> bita-logs
+[bita-logs 6a42c43] 07/28/22 18:22:43 EST: Logs
+ 2 files changed, 20 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   aa4a856..6a42c43  bita-logs -> bita-logs
+
+############################ bita - 07/28/22 18:29:43 EST ############################
+
+Data:
+
+On branch fcre-weir-data
+Your branch is up to date with 'origin/fcre-weir-data'.
+
+nothing to commit, working tree clean
+Already up to date.
+Everything up-to-date
+
+Logs:
+
+Already up to date.
+[bita-logs 513c942] 07/28/22 18:29:43 EST: Logs
+ 4 files changed, 89 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   6a42c43..513c942  bita-logs -> bita-logs
+[bita-logs 37dff3b] 07/28/22 18:29:43 EST: Logs
+ 1 file changed, 4 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   513c942..37dff3b  bita-logs -> bita-logs
+
+############################ bita - 07/29/22 00:22:45 EST ############################
+
+Data:
+
+[fcre-weir-data c6354f0] 07/29/22 00:22:45 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Logs:
+
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[bita-logs c26aad4] 07/29/22 00:22:45 EST: Logs
+ 6 files changed, 280 insertions(+)
+ create mode 100644 ping-stat.log
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[bita-logs a31dcc2] 07/29/22 00:22:45 EST: Logs
+ 2 files changed, 13 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ bita - 07/29/22 08:22:41 EST ############################
+
+Data:
+
+[fcre-weir-data 4566f56] 07/29/22 08:22:41 EST: Git Backup
+ 1 file changed, 32 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   832bf36..4566f56  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 15b8667] 07/29/22 08:22:41 EST: Logs
+ 5 files changed, 282 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   37dff3b..15b8667  bita-logs -> bita-logs
+[bita-logs 9fae797] 07/29/22 08:22:41 EST: Logs
+ 2 files changed, 35 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   15b8667..9fae797  bita-logs -> bita-logs
+
+############################ bita - 07/29/22 09:22:39 EST ############################
+
+Data:
+
+On branch fcre-weir-data
+Your branch is up to date with 'origin/fcre-weir-data'.
+
+nothing to commit, working tree clean
+Already up to date.
+Everything up-to-date
+
+Logs:
+
+Already up to date.
+[bita-logs fcd620e] 07/29/22 09:22:39 EST: Logs
+ 6 files changed, 254 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   9fae797..fcd620e  bita-logs -> bita-logs
+[bita-logs d7fe823] 07/29/22 09:22:39 EST: Logs
+ 2 files changed, 14 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   fcd620e..d7fe823  bita-logs -> bita-logs
+
+############################ bita - 07/29/22 13:22:38 EST ############################
+
+Data:
+
+[fcre-weir-data 3e67c89] 07/29/22 13:22:38 EST: Git Backup
+ 1 file changed, 16 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   4566f56..3e67c89  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 13b5e56] 07/29/22 13:22:38 EST: Logs
+ 5 files changed, 250 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   d7fe823..13b5e56  bita-logs -> bita-logs
+[bita-logs 23e4a56] 07/29/22 13:22:38 EST: Logs
+ 2 files changed, 21 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   13b5e56..23e4a56  bita-logs -> bita-logs
+
+############################ bita - 07/29/22 18:22:38 EST ############################
+
+Data:
+
+[fcre-weir-data 576db66] 07/29/22 18:22:38 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   3e67c89..576db66  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 9cb3d8c] 07/29/22 18:22:38 EST: Logs
+ 5 files changed, 257 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   23e4a56..9cb3d8c  bita-logs -> bita-logs
+[bita-logs fa91c8e] 07/29/22 18:22:38 EST: Logs
+ 2 files changed, 17 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   9cb3d8c..fa91c8e  bita-logs -> bita-logs
+
+############################ bita - 07/30/22 00:22:40 EST ############################
+
+Data:
+
+[fcre-weir-data 971ff9c] 07/30/22 00:22:40 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   576db66..971ff9c  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 6fc591a] 07/30/22 00:22:40 EST: Logs
+ 5 files changed, 252 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   fa91c8e..6fc591a  bita-logs -> bita-logs
+[bita-logs 6d98e16] 07/30/22 00:22:40 EST: Logs
+ 2 files changed, 14 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   6fc591a..6d98e16  bita-logs -> bita-logs
+
+############################ bita - 07/30/22 08:22:41 EST ############################
+
+Data:
+
+[fcre-weir-data b993220] 07/30/22 08:22:41 EST: Git Backup
+ 1 file changed, 32 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:FLARE-forecast/FCRE-data.git
+   971ff9c..b993220  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 790c63b] 07/30/22 08:22:41 EST: Logs
+ 6 files changed, 223 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   6d98e16..790c63b  bita-logs -> bita-logs
+[bita-logs 454236c] 07/30/22 08:22:41 EST: Logs
+ 2 files changed, 14 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   790c63b..454236c  bita-logs -> bita-logs
+
+############################ bita - 07/30/22 09:22:43 EST ############################
+
+Data:
+
+On branch fcre-weir-data
+Your branch is up to date with 'origin/fcre-weir-data'.
+
+nothing to commit, working tree clean
+Already up to date.
+Everything up-to-date
+
+Logs:
+
+Already up to date.
+[bita-logs b814176] 07/30/22 09:22:43 EST: Logs
+ 5 files changed, 243 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   454236c..b814176  bita-logs -> bita-logs
+[bita-logs 1197c03] 07/30/22 09:22:43 EST: Logs
+ 2 files changed, 14 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   b814176..1197c03  bita-logs -> bita-logs
+
+############################ bita - 07/30/22 13:22:39 EST ############################
+
+Data:
+
+[fcre-weir-data efa3384] 07/30/22 13:22:39 EST: Git Backup
+ 1 file changed, 16 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   b993220..efa3384  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs ff13d15] 07/30/22 13:22:39 EST: Logs
+ 5 files changed, 285 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   1197c03..ff13d15  bita-logs -> bita-logs
+[bita-logs 7e9b9d9] 07/30/22 13:22:39 EST: Logs
+ 2 files changed, 17 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   ff13d15..7e9b9d9  bita-logs -> bita-logs
+
+############################ bita - 07/30/22 18:22:40 EST ############################
+
+Data:
+
+[fcre-weir-data 8feaa41] 07/30/22 18:22:40 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   efa3384..8feaa41  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 4a43778] 07/30/22 18:22:40 EST: Logs
+ 5 files changed, 280 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   7e9b9d9..4a43778  bita-logs -> bita-logs
+[bita-logs 769e936] 07/30/22 18:22:40 EST: Logs
+ 1 file changed, 4 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   4a43778..769e936  bita-logs -> bita-logs
+
+############################ bita - 07/31/22 00:22:39 EST ############################
+
+Data:
+
+[fcre-weir-data f954dc2] 07/31/22 00:22:39 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   8feaa41..f954dc2  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs f44a391] 07/31/22 00:22:39 EST: Logs
+ 5 files changed, 190 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   769e936..f44a391  bita-logs -> bita-logs
+[bita-logs 2d3aa76] 07/31/22 00:22:39 EST: Logs
+ 2 files changed, 17 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   f44a391..2d3aa76  bita-logs -> bita-logs
+
+############################ bita - 07/31/22 08:22:39 EST ############################
+
+Data:
+
+[fcre-weir-data 07ee0ed] 07/31/22 08:22:39 EST: Git Backup
+ 1 file changed, 32 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   f954dc2..07ee0ed  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 11d85c5] 07/31/22 08:22:39 EST: Logs
+ 5 files changed, 328 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   2d3aa76..11d85c5  bita-logs -> bita-logs
+[bita-logs b26119e] 07/31/22 08:22:39 EST: Logs
+ 2 files changed, 16 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   11d85c5..b26119e  bita-logs -> bita-logs
+
+############################ bita - 07/31/22 09:22:40 EST ############################
+
+Data:
+
+On branch fcre-weir-data
+Your branch is up to date with 'origin/fcre-weir-data'.
+
+nothing to commit, working tree clean
+Already up to date.
+Everything up-to-date
+
+Logs:
+
+Already up to date.
+[bita-logs 8f872f6] 07/31/22 09:22:40 EST: Logs
+ 5 files changed, 250 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   b26119e..8f872f6  bita-logs -> bita-logs
+[bita-logs dbb3f27] 07/31/22 09:22:40 EST: Logs
+ 2 files changed, 14 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   8f872f6..dbb3f27  bita-logs -> bita-logs
+
+############################ bita - 07/31/22 13:22:42 EST ############################
+
+Data:
+
+[fcre-weir-data 7a62c15] 07/31/22 13:22:42 EST: Git Backup
+ 1 file changed, 16 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Logs:
+
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[bita-logs 5b73fc1] 07/31/22 13:22:42 EST: Logs
+ 6 files changed, 387 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[bita-logs 9559c8c] 07/31/22 13:22:42 EST: Logs
+ 2 files changed, 12 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ bita - 07/31/22 18:22:41 EST ############################
+
+Data:
+
+[fcre-weir-data 90da718] 07/31/22 18:22:41 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   07ee0ed..90da718  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs fe4c554] 07/31/22 18:22:41 EST: Logs
+ 5 files changed, 272 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   dbb3f27..fe4c554  bita-logs -> bita-logs
+[bita-logs 74c9766] 07/31/22 18:22:41 EST: Logs
+ 2 files changed, 24 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   fe4c554..74c9766  bita-logs -> bita-logs
+
+############################ bita - 08/01/22 00:22:42 EST ############################
+
+Data:
+
+[fcre-weir-data 39de059] 08/01/22 00:22:42 EST: Git Backup
+ 1 file changed, 24 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   90da718..39de059  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 6d02775] 08/01/22 00:22:42 EST: Logs
+ 5 files changed, 245 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   74c9766..6d02775  bita-logs -> bita-logs
+[bita-logs 5ca4fe0] 08/01/22 00:22:42 EST: Logs
+ 2 files changed, 24 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   6d02775..5ca4fe0  bita-logs -> bita-logs
+
+############################ bita - 08/01/22 08:22:40 EST ############################
+
+Data:
+
+[fcre-weir-data 2e353c0] 08/01/22 08:22:40 EST: Git Backup
+ 1 file changed, 32 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   39de059..2e353c0  fcre-weir-data -> fcre-weir-data
+
+Logs:
+
+Already up to date.
+[bita-logs 95eadc1] 08/01/22 08:22:40 EST: Logs
+ 5 files changed, 263 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   5ca4fe0..95eadc1  bita-logs -> bita-logs
+[bita-logs 10fe4cf] 08/01/22 08:22:40 EST: Logs
+ 2 files changed, 12 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   95eadc1..10fe4cf  bita-logs -> bita-logs
+
+############################ bita - 08/01/22 09:22:40 EST ############################
+
+Data:
+
+On branch fcre-weir-data
+Your branch is up to date with 'origin/fcre-weir-data'.
+
+nothing to commit, working tree clean
+Already up to date.
+Everything up-to-date
+
+Logs:
+
+Already up to date.
+[bita-logs 87e718a] 08/01/22 09:22:40 EST: Logs
+ 5 files changed, 270 insertions(+)
+To github.com:FLARE-forecast/FCRE-data
+   10fe4cf..87e718a  bita-logs -> bita-logs

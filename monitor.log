@@ -1,0 +1,2607 @@
+
+############################ bita - 07/28/22 18:22:43 EST ############################
+
+ 18:22:43 up 4 min,  1 user,  load average: 0.28, 0.60, 0.30
+
+
+reboot   system boot  5.3.0-53-generic Thu Jul 28 18:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 13:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 09:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 08:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 00:18   still running
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[   10.540880] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   12.461569] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   12.461572] Bluetooth: BNEP filters: protocol multicast
+[   12.461583] Bluetooth: BNEP socket layer initialized
+[   13.445526] openvswitch: Open vSwitch switching datapath
+[   13.790422] device ovs-system entered promiscuous mode
+[   13.859842] device eviCIBR4 entered promiscuous mode
+[   13.870663] device appCIBR4 entered promiscuous mode
+[   13.983231] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   13.983764] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[  225.296478] systemd-journald[330]: File /var/log/journal/32fe158dcd644a39877d2c491579f944/user-1000.journal corrupted or uncleanly shut down, renaming and replacing.
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.244.136.120/28
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2044ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2033ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.091 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.102 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.102 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.091/0.098/0.102/0.009 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING github.com (140.82.112.4) 56(84) bytes of data.
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=1 ttl=49 time=455 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=2 ttl=49 time=185 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=3 ttl=49 time=145 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 145.949/262.223/455.609/137.676 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=126 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=126 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=101 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 101.225/118.023/126.801/11.885 ms
+
+############################ bita - 07/29/22 00:22:45 EST ############################
+
+ 00:22:45 up 4 min,  0 users,  load average: 0.19, 0.33, 0.17
+
+
+reboot   system boot  5.3.0-53-generic Fri Jul 29 00:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 18:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 13:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 09:18   still running
+reboot   system boot  5.3.0-53-generic Thu Jul 28 08:18   still running
+
+
+
+
+
+
+[   12.128351] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   16.781614] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+
+
+[   16.781511] usb usb1-port5: disabled by hub (EMI?), re-enabling...
+[   16.781521] usb 1-5: USB disconnect, device number 6
+[   16.781614] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   16.908896] cdc_acm 1-5:1.12: failed to set dtr/rts
+[   18.364963] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   19.268961] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   19.269089] usb usb1-port5: attempt power cycle
+[   20.484906] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   21.392844] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   21.392957] usb usb1-port5: unable to enumerate USB device
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+
+(process:2189): libnm-WARNING **: 00:22:47.873: no object known for /org/freedesktop/NetworkManager/ActiveConnection/1
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2046ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.090 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.101 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.099 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.090/0.096/0.101/0.012 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2055ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
+
+############################ bita - 07/29/22 08:22:41 EST ############################
+
+ 08:22:41 up 4 min,  0 users,  load average: 0.24, 0.26, 0.12
+
+
+reboot   system boot  5.3.0-53-generic Fri Jul 29 08:18   still running
+reboot   system boot  5.3.0-53-generic Fri Jul 29 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Thu Jul 28 18:18 - 00:31  (06:13)
+reboot   system boot  5.3.0-53-generic Thu Jul 28 13:18 - 00:31  (11:13)
+reboot   system boot  5.3.0-53-generic Thu Jul 28 09:18 - 00:31  (15:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    8.312074] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   34.789308] device eviCIBR4 entered promiscuous mode
+[   34.872678] device appCIBR4 entered promiscuous mode
+[  201.654071] device tnla110003fffff entered promiscuous mode
+[  201.863096] device tnla110002fffff entered promiscuous mode
+[  202.022385] device tnla110006fffff entered promiscuous mode
+[  210.906628] device tnla110001fffff entered promiscuous mode
+[  216.624244] device tnla110003fffff left promiscuous mode
+[  216.773911] device tnla110001fffff left promiscuous mode
+[  218.334160] device tnla110002fffff left promiscuous mode
+[  218.366062] device tnla110006fffff left promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.244.61.207/27
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2035ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.090 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.090 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.102 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.090/0.094/0.102/0.005 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2032ms
+pipe 3
+
+
+PING github.com (140.82.114.4) 56(84) bytes of data.
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=1 ttl=49 time=463 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=2 ttl=49 time=279 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 2 received, 33% packet loss, time 2001ms
+rtt min/avg/max/mdev = 279.633/371.339/463.045/91.706 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=162 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=96.2 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=200 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 96.218/153.138/200.469/43.097 ms
+
+############################ bita - 07/29/22 09:22:39 EST ############################
+
+ 09:22:39 up 4 min,  0 users,  load average: 0.30, 0.28, 0.13
+
+
+reboot   system boot  5.3.0-53-generic Fri Jul 29 09:18   still running
+reboot   system boot  5.3.0-53-generic Fri Jul 29 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Thu Jul 28 18:18 - 00:31  (06:13)
+reboot   system boot  5.3.0-53-generic Thu Jul 28 13:18 - 00:31  (11:13)
+
+
+
+
+Bus 001 Device 006: ID 1410:9031 Novatel Wireless 
+
+
+[    6.893903] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  235.722156] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[  236.730830] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[  236.644895] usb 1-5: config 1 has no interface number 7
+[  236.646160] usb 1-5: New USB device found, idVendor=1410, idProduct=9031, bcdDevice= 3.10
+[  236.646168] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  236.646257] usb 1-5: Product: MiFi USB730L
+[  236.646262] usb 1-5: Manufacturer: Novatel Wireless
+[  236.646271] usb 1-5: SerialNumber: 0123456789ABCDEF
+[  236.682834] cdc_ether 1-5:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-5, CDC Ethernet Device, 00:15:ff:08:07:33
+[  236.685626] cdc_acm 1-5:1.12: ttyACM0: USB ACM device
+[  236.695633] hid-generic 0003:1410:9031.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-5/input14
+[  236.730830] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2030ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.083 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.095 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.094 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2039ms
+rtt min/avg/max/mdev = 0.083/0.090/0.095/0.012 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=49 time=149 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=49 time=138 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=49 time=120 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 120.231/136.032/149.543/12.075 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=266 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=144 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=133 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 133.473/181.766/266.949/60.413 ms
+
+############################ bita - 07/29/22 13:22:38 EST ############################
+
+ 13:22:38 up 4 min,  0 users,  load average: 0.11, 0.40, 0.21
+
+
+reboot   system boot  5.3.0-53-generic Fri Jul 29 13:18   still running
+reboot   system boot  5.3.0-53-generic Fri Jul 29 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Thu Jul 28 18:18 - 00:31  (06:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    6.588763] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[    9.747738] openvswitch: Open vSwitch switching datapath
+[   10.254922] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   10.255189] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   25.096705] device ovs-system entered promiscuous mode
+[   25.148360] device eviCIBR4 entered promiscuous mode
+[   25.244223] device appCIBR4 entered promiscuous mode
+[  189.203079] device tnla110002fffff entered promiscuous mode
+[  199.221158] device tnla110006fffff entered promiscuous mode
+[  199.905368] device tnla110001fffff entered promiscuous mode
+[  209.402787] device tnla110003fffff entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.234.235.250/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+64 bytes from 10.10.100.1: icmp_seq=1 ttl=64 time=850 ms
+64 bytes from 10.10.100.1: icmp_seq=2 ttl=64 time=269 ms
+64 bytes from 10.10.100.1: icmp_seq=3 ttl=64 time=281 ms
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 269.964/467.370/850.720/271.110 ms
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+64 bytes from 10.10.100.2: icmp_seq=1 ttl=64 time=801 ms
+64 bytes from 10.10.100.2: icmp_seq=2 ttl=64 time=313 ms
+64 bytes from 10.10.100.2: icmp_seq=3 ttl=64 time=311 ms
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 311.213/475.532/801.827/230.728 ms
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+64 bytes from 10.10.100.3: icmp_seq=1 ttl=64 time=775 ms
+64 bytes from 10.10.100.3: icmp_seq=2 ttl=64 time=308 ms
+64 bytes from 10.10.100.3: icmp_seq=3 ttl=64 time=299 ms
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 299.295/461.151/775.967/222.639 ms
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.067 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.074 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2046ms
+rtt min/avg/max/mdev = 0.067/0.080/0.101/0.017 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+64 bytes from 10.10.100.6: icmp_seq=1 ttl=64 time=631 ms
+64 bytes from 10.10.100.6: icmp_seq=2 ttl=64 time=183 ms
+64 bytes from 10.10.100.6: icmp_seq=3 ttl=64 time=363 ms
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 183.273/393.063/631.949/184.323 ms
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2034ms
+pipe 3
+
+
+PING github.com (140.82.113.4) 56(84) bytes of data.
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=1 ttl=49 time=141 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=2 ttl=49 time=140 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=3 ttl=49 time=140 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 140.542/140.749/141.085/0.388 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=105 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=124 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=141 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 105.451/123.952/141.435/14.708 ms
+
+############################ bita - 07/29/22 18:22:38 EST ############################
+
+ 18:22:38 up 4 min,  0 users,  load average: 0.20, 0.33, 0.17
+
+
+reboot   system boot  5.3.0-53-generic Fri Jul 29 18:18   still running
+reboot   system boot  5.3.0-53-generic Fri Jul 29 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 00:18 - 00:31  (00:13)
+
+
+
+
+Bus 001 Device 006: ID 1410:9031 Novatel Wireless 
+
+
+[    6.843153] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  211.268539] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[  212.289942] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[  212.207031] usb 1-5: config 1 has no interface number 7
+[  212.208373] usb 1-5: New USB device found, idVendor=1410, idProduct=9031, bcdDevice= 3.10
+[  212.208380] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  212.208385] usb 1-5: Product: MiFi USB730L
+[  212.208390] usb 1-5: Manufacturer: Novatel Wireless
+[  212.208394] usb 1-5: SerialNumber: 0123456789ABCDEF
+[  212.248438] cdc_ether 1-5:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-5, CDC Ethernet Device, 00:15:ff:08:07:33
+[  212.260628] cdc_acm 1-5:1.12: ttyACM0: USB ACM device
+[  212.262432] hid-generic 0003:1410:9031.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-5/input14
+[  212.289942] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.247.70.8/28
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2028ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.083 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.099 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.099 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2039ms
+rtt min/avg/max/mdev = 0.083/0.093/0.099/0.013 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2037ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=49 time=360 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=49 time=393 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=49 time=118 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 118.803/290.993/393.323/122.477 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=130 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=134 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=120 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 120.786/128.350/134.241/5.634 ms
+
+############################ bita - 07/30/22 00:22:40 EST ############################
+
+ 00:22:40 up 4 min,  0 users,  load average: 0.21, 0.25, 0.12
+
+
+reboot   system boot  5.3.0-53-generic Sat Jul 30 00:18   still running
+reboot   system boot  5.3.0-53-generic Fri Jul 29 18:18 - 18:32  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 08:18 - 08:31  (00:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    8.532678] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   10.350478] audit: type=1400 audit(1659158320.183:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince" pid=796 comm="apparmor_parser"
+[   10.739374] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   10.739377] Bluetooth: BNEP filters: protocol multicast
+[   10.739385] Bluetooth: BNEP socket layer initialized
+[   11.559036] openvswitch: Open vSwitch switching datapath
+[   12.159117] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   12.159387] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   26.726590] device ovs-system entered promiscuous mode
+[   26.768581] device eviCIBR4 entered promiscuous mode
+[   26.847056] device appCIBR4 entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.250.157.229/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.086 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.100 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.086/0.095/0.101/0.013 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING github.com (140.82.112.4) 56(84) bytes of data.
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=1 ttl=49 time=127 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=2 ttl=49 time=126 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=3 ttl=49 time=122 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 122.588/125.511/127.085/2.068 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=123 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=126 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=126 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 123.607/125.584/126.930/1.428 ms
+
+############################ bita - 07/30/22 08:22:41 EST ############################
+
+ 08:22:41 up 4 min,  0 users,  load average: 0.21, 0.32, 0.16
+
+
+reboot   system boot  5.3.0-53-generic Sat Jul 30 08:18   still running
+reboot   system boot  5.3.0-53-generic Sat Jul 30 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 18:18 - 18:32  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 09:18 - 09:31  (00:13)
+
+
+
+
+Bus 001 Device 006: ID 1410:9031 Novatel Wireless 
+
+
+[    8.877568] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   91.312624] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   92.351157] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   92.248347] usb 1-5: config 1 has no interface number 7
+[   92.249636] usb 1-5: New USB device found, idVendor=1410, idProduct=9031, bcdDevice= 3.10
+[   92.249644] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   92.249650] usb 1-5: Product: MiFi USB730L
+[   92.249655] usb 1-5: Manufacturer: Novatel Wireless
+[   92.249659] usb 1-5: SerialNumber: 0123456789ABCDEF
+[   92.287517] cdc_ether 1-5:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-5, CDC Ethernet Device, 00:15:ff:08:07:33
+[   92.301102] cdc_acm 1-5:1.12: ttyACM0: USB ACM device
+[   92.303203] hid-generic 0003:1410:9031.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-5/input14
+[   92.351157] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2027ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.089 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.081 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.100 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.081/0.090/0.100/0.007 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING github.com (140.82.112.4) 56(84) bytes of data.
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=1 ttl=49 time=181 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=2 ttl=49 time=154 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=3 ttl=49 time=157 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 154.166/164.405/181.259/12.013 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=107 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=108 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=99.5 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 99.580/105.126/108.570/3.968 ms
+
+############################ bita - 07/30/22 09:22:43 EST ############################
+
+ 09:22:43 up 4 min,  0 users,  load average: 0.26, 0.44, 0.23
+
+
+reboot   system boot  5.3.0-53-generic Sat Jul 30 09:18   still running
+reboot   system boot  5.3.0-53-generic Sat Jul 30 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 18:18 - 18:32  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 13:18 - 13:31  (00:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[   10.765215] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   12.438668] audit: type=1400 audit(1659190723.279:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-xpdfimport" pid=814 comm="apparmor_parser"
+[   12.672100] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   12.672104] Bluetooth: BNEP filters: protocol multicast
+[   12.672112] Bluetooth: BNEP socket layer initialized
+[   13.706671] openvswitch: Open vSwitch switching datapath
+[   14.277747] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   14.277995] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   28.925612] device ovs-system entered promiscuous mode
+[   28.973474] device eviCIBR4 entered promiscuous mode
+[   29.063071] device appCIBR4 entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.239.126.188/29
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2044ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.067 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.090 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2041ms
+rtt min/avg/max/mdev = 0.067/0.086/0.101/0.014 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING github.com (140.82.113.4) 56(84) bytes of data.
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=1 ttl=49 time=134 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=2 ttl=49 time=132 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=3 ttl=49 time=124 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 124.789/130.619/134.171/4.155 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=130 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=136 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=135 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 130.823/134.088/136.018/2.340 ms
+
+############################ bita - 07/30/22 13:22:39 EST ############################
+
+ 13:22:39 up 4 min,  0 users,  load average: 0.14, 0.28, 0.14
+
+
+reboot   system boot  5.3.0-53-generic Sat Jul 30 13:18   still running
+reboot   system boot  5.3.0-53-generic Sat Jul 30 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Fri Jul 29 18:18 - 18:32  (00:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    6.609011] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[    8.795506] audit: type=1400 audit(1659205119.623:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-xpdfimport" pid=803 comm="apparmor_parser"
+[    9.074042] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[    9.074044] Bluetooth: BNEP filters: protocol multicast
+[    9.074051] Bluetooth: BNEP socket layer initialized
+[   10.082281] openvswitch: Open vSwitch switching datapath
+[   10.661458] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   10.661710] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   25.642917] device ovs-system entered promiscuous mode
+[   25.675189] device eviCIBR4 entered promiscuous mode
+[   25.756943] device appCIBR4 entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.246.126.128/24
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2026ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2033ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.090 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.096 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.092 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.090/0.092/0.096/0.011 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING github.com (140.82.114.4) 56(84) bytes of data.
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=1 ttl=49 time=131 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=2 ttl=49 time=115 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=3 ttl=49 time=163 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 115.309/136.825/163.936/20.242 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=109 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=101 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=95.1 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 95.131/101.894/109.263/5.785 ms
+
+############################ bita - 07/30/22 18:22:40 EST ############################
+
+ 18:22:40 up 4 min,  0 users,  load average: 0.05, 0.25, 0.14
+
+
+reboot   system boot  5.3.0-53-generic Sat Jul 30 18:18   still running
+reboot   system boot  5.3.0-53-generic Sat Jul 30 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 00:18 - 00:31  (00:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    6.304276] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   10.978621] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   33.786087] device ovs-system entered promiscuous mode
+[   33.835995] device eviCIBR4 entered promiscuous mode
+[   33.911834] device appCIBR4 entered promiscuous mode
+[  245.880902] device tnla110002fffff entered promiscuous mode
+[  246.055298] device tnla110001fffff entered promiscuous mode
+[  246.308217] device tnla110003fffff entered promiscuous mode
+[  251.485407] device tnla110002fffff left promiscuous mode
+[  251.671766] device tnla110001fffff left promiscuous mode
+[  251.972446] device tnla110003fffff left promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.229.141.0/23
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.081 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.095 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2040ms
+rtt min/avg/max/mdev = 0.081/0.092/0.101/0.011 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2015ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+64 bytes from 10.10.100.6: icmp_seq=1 ttl=64 time=589 ms
+64 bytes from 10.10.100.6: icmp_seq=2 ttl=64 time=522 ms
+64 bytes from 10.10.100.6: icmp_seq=3 ttl=64 time=256 ms
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 256.958/456.263/589.057/143.504 ms
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2021ms
+pipe 3
+
+
+PING github.com (140.82.114.4) 56(84) bytes of data.
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=1 ttl=47 time=120 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=2 ttl=47 time=137 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=3 ttl=47 time=144 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 120.468/134.007/144.175/9.976 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=111 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=120 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=101 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 101.067/110.806/120.243/7.836 ms
+
+############################ bita - 07/31/22 00:22:39 EST ############################
+
+ 00:22:39 up 4 min,  0 users,  load average: 0.20, 0.37, 0.19
+
+
+reboot   system boot  5.3.0-53-generic Sun Jul 31 00:18   still running
+reboot   system boot  5.3.0-53-generic Sat Jul 30 18:18 - 18:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 08:18 - 08:31  (00:13)
+
+
+
+
+Bus 001 Device 006: ID 1410:9031 Novatel Wireless 
+
+
+[    6.324207] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   62.049893] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   62.956118] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   62.856463] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   62.856467] usb 1-5: Product: MiFi USB730L
+[   62.856471] usb 1-5: Manufacturer: Novatel Wireless
+[   62.856475] usb 1-5: SerialNumber: 0123456789ABCDEF
+[   62.892786] cdc_ether 1-5:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-5, CDC Ethernet Device, 00:15:ff:08:07:33
+[   62.903103] cdc_acm 1-5:1.12: ttyACM0: USB ACM device
+[   62.906775] hid-generic 0003:1410:9031.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-5/input14
+[   62.956118] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   95.477693] IPv6: ipv6_create_tempaddr: regeneration time exceeded - disabled temporary address support
+[  127.919777] device tnla110006fffff entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.239.2.165/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+64 bytes from 10.10.100.1: icmp_seq=1 ttl=64 time=1014 ms
+64 bytes from 10.10.100.1: icmp_seq=2 ttl=64 time=454 ms
+64 bytes from 10.10.100.1: icmp_seq=3 ttl=64 time=1058 ms
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 454.269/842.667/1058.860/275.225 ms, pipe 2
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+64 bytes from 10.10.100.2: icmp_seq=1 ttl=64 time=3156 ms
+64 bytes from 10.10.100.2: icmp_seq=2 ttl=64 time=2178 ms
+64 bytes from 10.10.100.2: icmp_seq=3 ttl=64 time=1163 ms
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2029ms
+rtt min/avg/max/mdev = 1163.983/2166.202/3156.292/813.401 ms, pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2026ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.091 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.074 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.100 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.074/0.088/0.100/0.013 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+64 bytes from 10.10.100.6: icmp_seq=1 ttl=64 time=1040 ms
+64 bytes from 10.10.100.6: icmp_seq=2 ttl=64 time=355 ms
+64 bytes from 10.10.100.6: icmp_seq=3 ttl=64 time=296 ms
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2016ms
+rtt min/avg/max/mdev = 296.115/564.196/1040.935/337.977 ms, pipe 2
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+
+
+PING github.com (140.82.114.4) 56(84) bytes of data.
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=1 ttl=49 time=166 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=2 ttl=49 time=154 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=3 ttl=49 time=228 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 154.726/183.211/228.894/32.629 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=126 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=126 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=115 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 115.958/123.094/126.700/5.054 ms
+
+############################ bita - 07/31/22 08:22:39 EST ############################
+
+ 08:22:39 up 4 min,  0 users,  load average: 0.54, 0.53, 0.25
+
+
+reboot   system boot  5.3.0-53-generic Sun Jul 31 08:18   still running
+reboot   system boot  5.3.0-53-generic Sun Jul 31 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 18:18 - 18:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 09:18 - 09:31  (00:13)
+
+
+
+
+Bus 001 Device 006: ID 1410:9031 Novatel Wireless 
+
+
+[    6.168368] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  210.019655] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[  211.020524] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[  210.941160] usb 1-5: New USB device found, idVendor=1410, idProduct=9031, bcdDevice= 3.10
+[  210.941167] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  210.941172] usb 1-5: Product: MiFi USB730L
+[  210.941176] usb 1-5: Manufacturer: Novatel Wireless
+[  210.941181] usb 1-5: SerialNumber: 0123456789ABCDEF
+[  210.975991] cdc_ether 1-5:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-5, CDC Ethernet Device, 00:15:ff:08:07:33
+[  210.981192] cdc_acm 1-5:1.12: ttyACM0: USB ACM device
+[  210.983741] hid-generic 0003:1410:9031.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-5/input14
+[  211.020524] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  229.139513] device tnla110002fffff entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.226.221.213/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2049ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+64 bytes from 10.10.100.2: icmp_seq=1 ttl=64 time=533 ms
+64 bytes from 10.10.100.2: icmp_seq=2 ttl=64 time=266 ms
+64 bytes from 10.10.100.2: icmp_seq=3 ttl=64 time=249 ms
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 249.820/349.758/533.388/130.016 ms
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+64 bytes from 10.10.100.3: icmp_seq=1 ttl=64 time=916 ms
+64 bytes from 10.10.100.3: icmp_seq=2 ttl=64 time=313 ms
+64 bytes from 10.10.100.3: icmp_seq=3 ttl=64 time=333 ms
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 313.011/520.867/916.143/279.627 ms
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.090 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.077 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.099 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2024ms
+rtt min/avg/max/mdev = 0.077/0.088/0.099/0.014 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2034ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
+
+############################ bita - 07/31/22 09:22:40 EST ############################
+
+ 09:22:40 up 4 min,  0 users,  load average: 0.45, 0.35, 0.16
+
+
+reboot   system boot  5.3.0-53-generic Sun Jul 31 09:18   still running
+reboot   system boot  5.3.0-53-generic Sun Jul 31 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 18:18 - 18:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 13:18 - 13:31  (00:13)
+
+
+
+
+Bus 001 Device 006: ID 1410:9031 Novatel Wireless 
+
+
+[    6.664433] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  217.006315] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[  218.017412] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  218.164500] IPv6: ADDRCONF(NETDEV_CHANGE): enx0015ff080733: link becomes ready
+
+
+[  217.921572] usb 1-5: Manufacturer: Novatel Wireless
+[  217.921576] usb 1-5: SerialNumber: 0123456789ABCDEF
+[  217.948079] device tnla110001fffff left promiscuous mode
+[  217.956838] cdc_ether 1-5:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-5, CDC Ethernet Device, 00:15:ff:08:07:33
+[  217.962535] cdc_acm 1-5:1.12: ttyACM0: USB ACM device
+[  217.969650] hid-generic 0003:1410:9031.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-5/input14
+[  218.017412] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[  218.164500] IPv6: ADDRCONF(NETDEV_CHANGE): enx0015ff080733: link becomes ready
+[  218.966871] device tnla110002fffff left promiscuous mode
+[  219.692676] device tnla110006fffff left promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.226.221.213/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2028ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2041ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2049ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.091 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.102 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.103 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.091/0.098/0.103/0.012 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+
+
+PING github.com (140.82.112.4) 56(84) bytes of data.
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=1 ttl=49 time=138 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=2 ttl=49 time=121 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=3 ttl=49 time=137 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 121.144/132.398/138.162/7.958 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=98.4 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=109 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=124 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 98.459/111.120/124.920/10.832 ms
+
+############################ bita - 07/31/22 13:22:42 EST ############################
+
+ 13:22:42 up 4 min,  0 users,  load average: 0.16, 0.31, 0.15
+
+
+reboot   system boot  5.3.0-53-generic Sun Jul 31 13:18   still running
+reboot   system boot  5.3.0-53-generic Sun Jul 31 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 00:18 - 00:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sat Jul 30 18:18 - 18:31  (00:13)
+
+
+
+
+
+
+[    8.546553] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   12.668525] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   13.562955] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   15.747679] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   17.719677] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   19.931966] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   21.278092] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   23.249859] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   24.335131] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   26.061482] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   27.967032] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   28.034923] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   28.939950] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   30.684702] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   31.784672] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   34.520478] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   35.765296] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   37.432196] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   38.513013] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   41.818258] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+
+
+[   38.513013] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+[   41.818005] usb usb1-port5: disabled by hub (EMI?), re-enabling...
+[   41.818019] usb 1-5: USB disconnect, device number 18
+[   41.818258] cdc_ether 1-5:1.0 enx0015ff080733: unregister 'cdc_ether' usb-0000:00:15.0-5, CDC Ethernet Device
+[   43.262384] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   44.162375] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   44.162504] usb usb1-port5: attempt power cycle
+[   45.378376] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   46.278380] usb usb1-port5: Cannot enable. Maybe the USB cable is bad?
+[   46.278504] usb usb1-port5: unable to enumerate USB device
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+
+(process:2632): libnm-WARNING **: 13:22:45.657: no object known for /org/freedesktop/NetworkManager/ActiveConnection/9
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2052ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.083 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.096 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.099 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2039ms
+rtt min/avg/max/mdev = 0.083/0.092/0.099/0.013 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
+
+############################ bita - 07/31/22 18:22:41 EST ############################
+
+ 18:22:41 up 4 min,  0 users,  load average: 0.60, 0.37, 0.15
+
+
+reboot   system boot  5.3.0-53-generic Sun Jul 31 18:18   still running
+reboot   system boot  5.3.0-53-generic Sun Jul 31 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 08:18 - 08:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 00:18 - 00:31  (00:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    7.423550] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   10.356387] Bluetooth: BNEP socket layer initialized
+[   11.361396] openvswitch: Open vSwitch switching datapath
+[   11.830996] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   11.831262] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   34.750627] device ovs-system entered promiscuous mode
+[   34.791601] device eviCIBR4 entered promiscuous mode
+[   34.927447] device appCIBR4 entered promiscuous mode
+[  208.416008] device tnla110002fffff entered promiscuous mode
+[  228.326983] device tnla110003fffff entered promiscuous mode
+[  235.414068] device tnla110003fffff left promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.242.137.25/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2041ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+64 bytes from 10.10.100.2: icmp_seq=1 ttl=64 time=949 ms
+64 bytes from 10.10.100.2: icmp_seq=2 ttl=64 time=361 ms
+64 bytes from 10.10.100.2: icmp_seq=3 ttl=64 time=357 ms
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 357.680/556.223/949.250/277.917 ms
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+64 bytes from 10.10.100.3: icmp_seq=1 ttl=64 time=1012 ms
+64 bytes from 10.10.100.3: icmp_seq=2 ttl=64 time=503 ms
+64 bytes from 10.10.100.3: icmp_seq=3 ttl=64 time=539 ms
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2013ms
+rtt min/avg/max/mdev = 503.116/685.097/1012.651/232.093 ms
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.064 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.101 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2036ms
+rtt min/avg/max/mdev = 0.064/0.088/0.101/0.020 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING github.com (140.82.114.3) 56(84) bytes of data.
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=1 ttl=49 time=179 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=2 ttl=49 time=383 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=3 ttl=49 time=136 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 136.911/233.548/383.882/107.737 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=128 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=155 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=131 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 128.198/138.421/155.573/12.209 ms
+
+############################ bita - 08/01/22 00:22:42 EST ############################
+
+ 00:22:42 up 4 min,  0 users,  load average: 0.34, 0.36, 0.17
+
+
+reboot   system boot  5.3.0-53-generic Mon Aug  1 00:18   still running
+reboot   system boot  5.3.0-53-generic Sun Jul 31 18:18 - 18:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 13:18 - 13:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 09:18 - 09:31  (00:13)
+reboot   system boot  5.3.0-53-generic Sun Jul 31 08:18 - 08:31  (00:13)
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    6.991859] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[   10.754172] audit: type=1400 audit(1659331121.595:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-xpdfimport" pid=801 comm="apparmor_parser"
+[   11.089495] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   11.089498] Bluetooth: BNEP filters: protocol multicast
+[   11.089505] Bluetooth: BNEP socket layer initialized
+[   12.092653] openvswitch: Open vSwitch switching datapath
+[   12.596982] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   12.597250] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   30.827542] device ovs-system entered promiscuous mode
+[   30.871127] device eviCIBR4 entered promiscuous mode
+[   30.954117] device appCIBR4 entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.249.182.183/28
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2051ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.070 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.100 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2042ms
+rtt min/avg/max/mdev = 0.070/0.090/0.101/0.016 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=49 time=181 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=49 time=138 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=49 time=151 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 138.861/157.074/181.242/17.812 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=126 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=153 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=128 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 126.596/136.105/153.151/12.080 ms
+
+############################ bita - 08/01/22 08:22:40 EST ############################
+
+ 08:22:40 up 4 min,  0 users,  load average: 0.16, 0.29, 0.14
+
+
+reboot   system boot  5.3.0-53-generic Mon Aug  1 08:18   still running
+
+wtmp begins Mon Aug  1 00:31:45 2022
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    6.322203] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[    9.557783] Bluetooth: BNEP filters: protocol multicast
+[    9.557792] Bluetooth: BNEP socket layer initialized
+[   10.499585] openvswitch: Open vSwitch switching datapath
+[   11.041214] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   11.041464] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   25.705868] device ovs-system entered promiscuous mode
+[   25.740904] device eviCIBR4 entered promiscuous mode
+[   25.826118] device appCIBR4 entered promiscuous mode
+[  188.049427] device tnla110002fffff entered promiscuous mode
+[  196.684917] device tnla110006fffff entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.227.217.80/27
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+64 bytes from 10.10.100.1: icmp_seq=1 ttl=64 time=1337 ms
+64 bytes from 10.10.100.1: icmp_seq=2 ttl=64 time=541 ms
+64 bytes from 10.10.100.1: icmp_seq=3 ttl=64 time=521 ms
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2016ms
+rtt min/avg/max/mdev = 521.793/800.193/1337.074/379.719 ms, pipe 2
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+64 bytes from 10.10.100.2: icmp_seq=1 ttl=64 time=791 ms
+64 bytes from 10.10.100.2: icmp_seq=2 ttl=64 time=217 ms
+64 bytes from 10.10.100.2: icmp_seq=3 ttl=64 time=335 ms
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 217.472/448.388/791.762/247.571 ms
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.059 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.068 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.095 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2028ms
+rtt min/avg/max/mdev = 0.059/0.074/0.095/0.015 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.6 (10.10.100.6) 56(84) bytes of data.
+64 bytes from 10.10.100.6: icmp_seq=1 ttl=64 time=784 ms
+64 bytes from 10.10.100.6: icmp_seq=2 ttl=64 time=364 ms
+64 bytes from 10.10.100.6: icmp_seq=3 ttl=64 time=314 ms
+
+--- 10.10.100.6 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 314.093/487.741/784.742/211.013 ms
+
+
+PING 10.10.100.7 (10.10.100.7) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.7 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2052ms
+pipe 3
+
+
+PING github.com (140.82.112.3) 56(84) bytes of data.
+64 bytes from lb-140-82-112-3-iad.github.com (140.82.112.3): icmp_seq=1 ttl=49 time=117 ms
+64 bytes from lb-140-82-112-3-iad.github.com (140.82.112.3): icmp_seq=2 ttl=49 time=138 ms
+64 bytes from lb-140-82-112-3-iad.github.com (140.82.112.3): icmp_seq=3 ttl=49 time=154 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 117.005/136.498/154.356/15.298 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=281 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=125 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=120 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 120.111/175.683/281.764/75.039 ms
+
+############################ bita - 08/01/22 09:22:40 EST ############################
+
+ 09:22:40 up 4 min,  0 users,  load average: 0.17, 0.33, 0.17
+
+
+reboot   system boot  5.3.0-53-generic Mon Aug  1 09:18   still running
+reboot   system boot  5.3.0-53-generic Mon Aug  1 08:18 - 08:32  (00:13)
+
+wtmp begins Mon Aug  1 00:31:45 2022
+
+
+
+
+Bus 001 Device 003: ID 1410:9031 Novatel Wireless 
+
+
+[    6.058582] cdc_ether 1-5:1.0 enx0015ff080733: renamed from eth0
+
+
+[    9.406566] Bluetooth: BNEP filters: protocol multicast
+[    9.406574] Bluetooth: BNEP socket layer initialized
+[   10.378183] openvswitch: Open vSwitch switching datapath
+[   10.901961] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX
+[   10.974036] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   25.696553] device ovs-system entered promiscuous mode
+[   25.738533] device eviCIBR4 entered promiscuous mode
+[   25.810401] device appCIBR4 entered promiscuous mode
+[   78.619739] device tnla110002fffff entered promiscuous mode
+[   85.533131] device tnla110002fffff left promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   13G   15G  47% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   32G   25G  57% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff080733:
+10.226.69.145/30
+
+
+
+
+enp2s0:
+192.168.1.5/24
+
+
+PING 10.10.100.1 (10.10.100.1) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+
+
+PING 10.10.100.2 (10.10.100.2) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.2 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+
+
+PING 10.10.100.3 (10.10.100.3) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.3 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+
+PING 10.10.100.4 (10.10.100.4) 56(84) bytes of data.
+64 bytes from 10.10.100.4: icmp_seq=1 ttl=64 time=0.089 ms
+64 bytes from 10.10.100.4: icmp_seq=2 ttl=64 time=0.083 ms
+64 bytes from 10.10.100.4: icmp_seq=3 ttl=64 time=0.101 ms
+
+--- 10.10.100.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2038ms
+rtt min/avg/max/mdev = 0.083/0.091/0.101/0.007 ms
+
+
+PING 10.10.100.5 (10.10.100.5) 56(84) bytes of data.
+From 10.10.100.4 icmp_seq=1 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=2 Destination Host Unreachable
+From 10.10.100.4 icmp_seq=3 Destination Host Unreachable
+
+--- 10.10.100.5 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+
+

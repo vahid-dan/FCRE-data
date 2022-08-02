@@ -1,0 +1,178 @@
+[master 436feab18] Thu Jul 28 13:23:18 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   905d6522f..71ce94f03  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Thu Jul 28 13:23:18 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   71ce94f03..0029773aa  master -> master
+[master f40ff9f44] Thu Jul 28 18:23:13 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   0029773aa..07298ab41  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Thu Jul 28 18:23:13 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   07298ab41..3ef7c9395  master -> master
+[master 1fc19184b] Fri Jul 29 00:23:15 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[master b75fcef12] Fri Jul 29 08:23:11 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:FLARE-forecast/FCRE-data.git
+ ! [rejected]            master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/FCRE-data.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[master 58f398525] Fri Jul 29 09:23:09 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   3ef7c9395..9762dabc0  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Fri Jul 29 00:23:15 EST 2022
+Applying: Fri Jul 29 08:23:11 EST 2022
+Applying: Fri Jul 29 09:23:09 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   9762dabc0..2ce463354  master -> master
+[master 5c9018699] Fri Jul 29 13:23:09 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   2ce463354..43c8e1910  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Fri Jul 29 13:23:09 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   43c8e1910..034e7951f  master -> master
+[master 534270398] Fri Jul 29 18:23:08 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   034e7951f..6329fb429  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Fri Jul 29 18:23:08 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   6329fb429..2ee3a035d  master -> master
+[master 72b4b5f07] Sat Jul 30 00:23:10 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   2ee3a035d..0e7ade3b6  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sat Jul 30 00:23:10 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   0e7ade3b6..a38a1d380  master -> master
+[master 323936114] Sat Jul 30 08:23:11 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   a38a1d380..229f41987  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sat Jul 30 08:23:11 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   229f41987..52a779fba  master -> master
+[master fa680a956] Sat Jul 30 09:23:13 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   52a779fba..bd112fb09  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sat Jul 30 09:23:13 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   bd112fb09..44e8c4c38  master -> master
+[master 7678f17c8] Sat Jul 30 13:23:09 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   44e8c4c38..6b1dfdfab  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sat Jul 30 13:23:09 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   6b1dfdfab..4c90e0558  master -> master
+[master 48ee8fdbd] Sat Jul 30 18:23:10 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   4c90e0558..0893566e2  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sat Jul 30 18:23:10 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   0893566e2..be70e246b  master -> master
+[master 255f916e0] Sun Jul 31 00:23:09 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   be70e246b..564c7c42f  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sun Jul 31 00:23:09 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   564c7c42f..71bd4a90c  master -> master
+[master 4bd875344] Sun Jul 31 08:23:10 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:FLARE-forecast/FCRE-data.git
+ ! [rejected]            master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/FCRE-data.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[master 218864270] Sun Jul 31 09:23:10 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   71bd4a90c..7da0da511  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sun Jul 31 08:23:10 EST 2022
+Applying: Sun Jul 31 09:23:10 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   7da0da511..ca723c8ed  master -> master
+[master df1437219] Sun Jul 31 13:23:12 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[master 2daf72139] Sun Jul 31 18:23:13 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   ca723c8ed..51281f3da  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sun Jul 31 13:23:12 EST 2022
+Applying: Sun Jul 31 18:23:13 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   51281f3da..bbc770cb0  master -> master
+[master f9c5b7b19] Mon Aug  1 00:23:12 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   bbc770cb0..efe8b9d52  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Mon Aug  1 00:23:12 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   efe8b9d52..7560cc4ff  master -> master
+[master 86ac9f891] Mon Aug  1 08:23:10 EST 2022
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   7560cc4ff..037f94841  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Mon Aug  1 08:23:10 EST 2022
+To github.com:FLARE-forecast/FCRE-data.git
+   037f94841..921979964  master -> master
