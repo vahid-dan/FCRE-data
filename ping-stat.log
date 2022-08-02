@@ -1,0 +1,3275 @@
+
+############## carina - 07/24/20 18:10:17 EDT -0400 ##############
+
+2020-07-24 18:10:21 3 packets transmitted, 3 received, 0% packet loss, time 4004ms
+2020-07-24 18:10:21 rtt min/avg/max/mdev = 47.923/53.219/56.706/3.811 ms
+
+############## carina - 07/24/20 18:11:06 EDT -0400 ##############
+
+2020-07-24 18:11:10 3 packets transmitted, 3 received, 0% packet loss, time 4005ms
+2020-07-24 18:11:10 rtt min/avg/max/mdev = 47.909/57.903/64.487/7.184 ms
+
+############## carina - 07/24/20 23:54:45 EDT -0400 ##############
+
+2020-07-25 05:43:55 350 packets transmitted, 350 received, 0% packet loss, time 20949472ms
+2020-07-25 05:43:55 rtt min/avg/max/mdev = 34.114/62.052/241.606/25.691 ms
+
+############## carina - 07/25/20 05:54:45 EDT -0400 ##############
+
+2020-07-25 11:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20949077ms
+2020-07-25 11:43:54 rtt min/avg/max/mdev = 36.054/55.693/383.164/22.458 ms
+
+############## carina - 07/25/20 11:54:45 EDT -0400 ##############
+
+2020-07-25 17:44:56 350 packets transmitted, 346 received, 1% packet loss, time 20950679ms
+2020-07-25 17:44:56 rtt min/avg/max/mdev = 36.496/163.224/1772.434/235.831 ms
+
+############## carina - 07/25/20 17:54:45 EDT -0400 ##############
+
+2020-07-25 22:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20948979ms
+2020-07-25 22:43:54 rtt min/avg/max/mdev = 30.365/64.788/198.463/25.639 ms
+
+############## carina - 07/25/20 23:54:44 EST -0500 ##############
+
+2020-07-26 05:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20950065ms
+2020-07-26 05:43:54 rtt min/avg/max/mdev = 32.961/45.326/80.103/6.352 ms
+
+############## carina - 07/26/20 11:54:47 EST -0500 ##############
+
+2020-07-26 17:45:00 350 packets transmitted, 343 received, 2% packet loss, time 20953532ms
+2020-07-26 17:45:00 rtt min/avg/max/mdev = 35.755/129.156/2238.238/260.388 ms
+
+############## carina - 07/26/20 17:54:46 EST -0500 ##############
+
+2020-07-26 23:43:56 350 packets transmitted, 350 received, 0% packet loss, time 20949786ms
+2020-07-26 23:43:56 rtt min/avg/max/mdev = 32.022/68.863/5155.546/274.873 ms
+
+############## carina - 07/26/20 23:54:45 EST -0500 ##############
+
+2020-07-27 05:43:55 350 packets transmitted, 350 received, 0% packet loss, time 20949956ms
+2020-07-27 05:43:55 rtt min/avg/max/mdev = 30.944/43.953/128.618/7.306 ms
+
+############## carina - 07/27/20 05:54:44 EST -0500 ##############
+
+2020-07-27 11:43:53 350 packets transmitted, 350 received, 0% packet loss, time 20948948ms
+2020-07-27 11:43:53 rtt min/avg/max/mdev = 48.576/71.082/1306.374/69.666 ms
+
+############## carina - 07/27/20 11:54:46 EST -0500 ##############
+
+2020-07-27 17:43:55 350 packets transmitted, 350 received, 0% packet loss, time 20949243ms
+2020-07-27 17:43:55 rtt min/avg/max/mdev = 32.862/136.362/1599.489/207.936 ms
+
+############## carina - 07/27/20 17:54:44 EST -0500 ##############
+
+2020-07-27 23:43:53 350 packets transmitted, 350 received, 0% packet loss, time 20949103ms
+2020-07-27 23:43:53 rtt min/avg/max/mdev = 35.722/51.974/134.592/15.681 ms
+
+############## carina - 07/27/20 23:54:43 EST -0500 ##############
+
+2020-07-28 05:43:53 350 packets transmitted, 350 received, 0% packet loss, time 20949232ms
+2020-07-28 05:43:53 rtt min/avg/max/mdev = 34.125/45.171/85.633/6.407 ms
+
+############## carina - 07/28/20 05:54:44 EST -0500 ##############
+
+2020-07-28 11:43:53 350 packets transmitted, 350 received, 0% packet loss, time 20948642ms
+2020-07-28 11:43:53 rtt min/avg/max/mdev = 31.792/49.158/115.902/11.033 ms
+
+############## carina - 07/28/20 11:54:46 EST -0500 ##############
+
+2020-07-28 17:43:57 350 packets transmitted, 350 received, 0% packet loss, time 20950505ms
+2020-07-28 17:43:57 rtt min/avg/max/mdev = 37.190/55.946/610.227/34.638 ms
+
+############## carina - 07/28/20 17:54:46 EST -0500 ##############
+
+2020-07-28 23:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20948635ms
+2020-07-28 23:43:54 rtt min/avg/max/mdev = 41.625/65.422/212.724/13.839 ms
+
+############## carina - 07/28/20 23:54:43 EST -0500 ##############
+
+2020-07-29 05:43:52 350 packets transmitted, 350 received, 0% packet loss, time 20948317ms
+2020-07-29 05:43:52 rtt min/avg/max/mdev = 31.296/45.674/75.282/6.977 ms
+
+############## carina - 07/29/20 05:54:45 EST -0500 ##############
+
+2020-07-29 11:44:54 350 packets transmitted, 349 received, 0% packet loss, time 20949281ms
+2020-07-29 11:44:54 rtt min/avg/max/mdev = 31.024/49.774/100.369/10.076 ms
+
+############## carina - 07/29/20 11:54:45 EST -0500 ##############
+
+2020-07-29 17:44:53 350 packets transmitted, 348 received, 0% packet loss, time 20948674ms
+2020-07-29 17:44:53 rtt min/avg/max/mdev = 46.321/79.273/1442.995/80.276 ms
+
+############## carina - 07/29/20 17:54:51 EST -0500 ##############
+
+2020-07-29 23:45:01 350 packets transmitted, 349 received, 0% packet loss, time 20949355ms
+2020-07-29 23:45:01 rtt min/avg/max/mdev = 34.943/58.002/2679.751/141.298 ms
+
+############## carina - 07/29/20 23:54:47 EST -0500 ##############
+
+2020-07-30 05:43:56 350 packets transmitted, 350 received, 0% packet loss, time 20949259ms
+2020-07-30 05:43:56 rtt min/avg/max/mdev = 30.621/50.286/1194.224/61.988 ms
+
+############## carina - 07/30/20 05:54:55 EST -0500 ##############
+
+2020-07-30 11:44:03 350 packets transmitted, 350 received, 0% packet loss, time 20948444ms
+2020-07-30 11:44:03 rtt min/avg/max/mdev = 31.044/53.259/1743.346/91.152 ms
+
+############## carina - 07/30/20 11:54:44 EST -0500 ##############
+
+2020-07-30 17:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20949168ms
+2020-07-30 17:43:54 rtt min/avg/max/mdev = 34.935/53.671/576.702/30.215 ms
+
+############## carina - 07/30/20 17:54:45 EST -0500 ##############
+
+2020-07-30 23:44:54 350 packets transmitted, 349 received, 0% packet loss, time 20948851ms
+2020-07-30 23:44:54 rtt min/avg/max/mdev = 49.005/120.565/1697.102/183.644 ms
+
+############## carina - 07/30/20 23:54:44 EST -0500 ##############
+
+2020-07-31 05:44:53 350 packets transmitted, 349 received, 0% packet loss, time 20949232ms
+2020-07-31 05:44:53 rtt min/avg/max/mdev = 39.531/65.258/227.637/19.494 ms
+
+############## carina - 07/31/20 13:20:10 EST -0500 ##############
+
+############## carina - 07/31/20 13:20:10 EST -0500 ##############
+
+
+############## carina - 07/31/20 17:54:43 EST -0500 ##############
+
+2020-07-31 23:43:52 350 packets transmitted, 350 received, 0% packet loss, time 20949209ms
+2020-07-31 23:43:52 rtt min/avg/max/mdev = 42.626/77.047/393.662/28.181 ms
+
+############## carina - 07/31/20 23:54:44 EST -0500 ##############
+
+2020-08-01 05:45:49 350 packets transmitted, 350 received, 0% packet loss, time 21064664ms
+2020-08-01 05:45:49 rtt min/avg/max/mdev = 31.082/52.261/196.085/22.681 ms
+
+############## carina - 08/01/20 05:54:50 EST -0500 ##############
+
+2020-08-01 11:46:51 350 packets transmitted, 339 received, 3% packet loss, time 20950211ms
+2020-08-01 11:46:51 rtt min/avg/max/mdev = 38.367/551.354/85115.952/4817.422 ms, pipe 2
+
+############## carina - 08/01/20 11:55:14 EST -0500 ##############
+
+2020-08-01 17:45:41 350 packets transmitted, 315 received, 10% packet loss, time 20966382ms
+2020-08-01 17:45:41 rtt min/avg/max/mdev = 55.568/445.641/5162.704/616.810 ms
+
+############## carina - 08/01/20 17:54:43 EST -0500 ##############
+
+2020-08-01 23:44:53 350 packets transmitted, 348 received, 0% packet loss, time 20949502ms
+2020-08-01 23:44:53 rtt min/avg/max/mdev = 36.183/78.109/1237.226/119.676 ms
+
+############## carina - 08/01/20 23:54:43 EST -0500 ##############
+
+2020-08-02 05:43:53 350 packets transmitted, 350 received, 0% packet loss, time 20949060ms
+2020-08-02 05:43:53 rtt min/avg/max/mdev = 32.148/48.846/141.189/8.591 ms
+
+############## carina - 08/02/20 05:54:43 EST -0500 ##############
+
+2020-08-02 11:44:59 350 packets transmitted, 342 received, 2% packet loss, time 20955796ms
+2020-08-02 11:44:59 rtt min/avg/max/mdev = 37.753/160.770/4919.778/345.578 ms
+
+############## carina - 08/02/20 11:55:10 EST -0500 ##############
+
+2020-08-02 17:44:20 350 packets transmitted, 350 received, 0% packet loss, time 20949605ms
+2020-08-02 17:44:20 rtt min/avg/max/mdev = 32.460/55.045/138.655/16.101 ms
+
+############## carina - 08/02/20 17:54:45 EST -0500 ##############
+
+2020-08-02 23:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20948867ms
+2020-08-02 23:43:54 rtt min/avg/max/mdev = 33.248/53.159/141.726/15.133 ms
+
+############## carina - 08/02/20 23:54:44 EST -0500 ##############
+
+2020-08-03 05:43:53 350 packets transmitted, 350 received, 0% packet loss, time 20948672ms
+2020-08-03 05:43:53 rtt min/avg/max/mdev = 41.065/61.019/145.740/16.375 ms
+
+############## carina - 08/03/20 05:54:45 EST -0500 ##############
+
+2020-08-03 11:44:53 350 packets transmitted, 346 received, 1% packet loss, time 20948186ms
+2020-08-03 11:44:53 rtt min/avg/max/mdev = 41.021/95.708/1464.302/118.513 ms
+
+############## carina - 08/03/20 11:55:08 EST -0500 ##############
+
+2020-08-03 17:45:21 350 packets transmitted, 347 received, 0% packet loss, time 20952215ms
+2020-08-03 17:45:21 rtt min/avg/max/mdev = 35.345/71.087/696.668/53.129 ms
+
+############## carina - 08/03/20 23:54:45 EST -0500 ##############
+
+2020-08-04 05:43:55 350 packets transmitted, 350 received, 0% packet loss, time 20949288ms
+2020-08-04 05:43:55 rtt min/avg/max/mdev = 38.663/54.191/453.049/22.976 ms
+
+############## carina - 08/04/20 11:55:09 EST -0500 ##############
+
+2020-08-04 17:44:18 350 packets transmitted, 350 received, 0% packet loss, time 20948736ms
+2020-08-04 17:44:18 rtt min/avg/max/mdev = 38.676/56.959/156.432/15.359 ms
+
+############## carina - 08/04/20 23:54:46 EST -0500 ##############
+
+2020-08-05 05:43:55 350 packets transmitted, 350 received, 0% packet loss, time 20949282ms
+2020-08-05 05:43:55 rtt min/avg/max/mdev = 31.703/44.133/118.347/7.597 ms
+
+############## carina - 08/05/20 11:55:08 EST -0500 ##############
+
+2020-08-05 17:45:18 350 packets transmitted, 349 received, 0% packet loss, time 20949732ms
+2020-08-05 17:45:18 rtt min/avg/max/mdev = 32.708/63.177/350.206/27.978 ms
+
+############## carina - 08/05/20 23:54:44 EST -0500 ##############
+
+2020-08-06 05:47:16 350 packets transmitted, 349 received, 0% packet loss, time 20949068ms
+2020-08-06 05:47:16 rtt min/avg/max/mdev = 39.661/351.400/101409.187/5417.317 ms, pipe 2
+
+############## carina - 08/06/20 11:55:09 EST -0500 ##############
+
+2020-08-06 17:44:24 350 packets transmitted, 350 received, 0% packet loss, time 20955017ms
+2020-08-06 17:44:24 rtt min/avg/max/mdev = 34.418/59.389/1102.611/57.934 ms
+
+############## carina - 08/06/20 23:54:46 EST -0500 ##############
+
+2020-08-07 05:44:00 350 packets transmitted, 350 received, 0% packet loss, time 20954373ms
+2020-08-07 05:44:00 rtt min/avg/max/mdev = 28.191/52.278/111.443/12.578 ms
+
+############## carina - 08/07/20 11:55:13 EST -0500 ##############
+
+2020-08-07 17:45:27 350 packets transmitted, 349 received, 0% packet loss, time 20954731ms
+2020-08-07 17:45:27 rtt min/avg/max/mdev = 30.029/87.201/4009.102/233.847 ms
+
+############## carina - 08/07/20 23:54:46 EST -0500 ##############
+
+2020-08-08 05:43:57 350 packets transmitted, 350 received, 0% packet loss, time 20950916ms
+2020-08-08 05:43:57 rtt min/avg/max/mdev = 30.958/44.284/95.878/7.230 ms
+
+############## carina - 08/08/20 11:55:09 EST -0500 ##############
+
+2020-08-08 17:44:24 350 packets transmitted, 350 received, 0% packet loss, time 20955113ms
+2020-08-08 17:44:24 rtt min/avg/max/mdev = 29.482/61.013/232.388/26.712 ms
+
+############## carina - 08/08/20 23:54:45 EST -0500 ##############
+
+2020-08-09 05:44:00 350 packets transmitted, 350 received, 0% packet loss, time 20954258ms
+2020-08-09 05:44:00 rtt min/avg/max/mdev = 28.104/41.294/118.370/7.957 ms
+
+############## carina - 08/09/20 11:55:10 EST -0500 ##############
+
+2020-08-09 17:44:21 350 packets transmitted, 350 received, 0% packet loss, time 20951533ms
+2020-08-09 17:44:21 rtt min/avg/max/mdev = 31.436/55.711/428.503/28.298 ms
+
+############## carina - 08/09/20 23:54:47 EST -0500 ##############
+
+2020-08-10 05:44:02 350 packets transmitted, 350 received, 0% packet loss, time 20955085ms
+2020-08-10 05:44:02 rtt min/avg/max/mdev = 27.986/40.251/96.704/6.788 ms
+
+############## carina - 08/10/20 11:55:10 EST -0500 ##############
+
+2020-08-10 17:44:26 350 packets transmitted, 350 received, 0% packet loss, time 20955247ms
+2020-08-10 17:44:26 rtt min/avg/max/mdev = 32.836/57.005/2026.003/106.838 ms
+
+############## carina - 08/10/20 23:54:46 EST -0500 ##############
+
+2020-08-11 05:44:02 350 packets transmitted, 350 received, 0% packet loss, time 20955583ms
+2020-08-11 05:44:02 rtt min/avg/max/mdev = 29.267/41.266/135.808/8.762 ms
+
+############## carina - 08/11/20 11:55:11 EST -0500 ##############
+
+2020-08-11 17:44:25 350 packets transmitted, 350 received, 0% packet loss, time 20954205ms
+2020-08-11 17:44:25 rtt min/avg/max/mdev = 31.512/53.179/1259.583/68.215 ms
+
+############## carina - 08/11/20 23:54:45 EST -0500 ##############
+
+2020-08-12 05:44:01 350 packets transmitted, 350 received, 0% packet loss, time 20955417ms
+2020-08-12 05:44:01 rtt min/avg/max/mdev = 28.328/43.914/242.833/13.518 ms
+
+############## carina - 08/12/20 11:55:13 EST -0500 ##############
+
+############## carina - 08/12/20 11:55:13 EST -0500 ##############
+
+
+############## carina - 08/12/20 23:56:11 EST -0500 ##############
+
+############## carina - 08/12/20 23:56:11 EST -0500 ##############
+
+
+############## carina - 08/13/20 11:55:11 EST -0500 ##############
+
+2020-08-13 17:44:20 350 packets transmitted, 350 received, 0% packet loss, time 20948882ms
+2020-08-13 17:44:20 rtt min/avg/max/mdev = 33.176/82.367/1180.826/85.158 ms
+
+############## carina - 08/13/20 23:54:48 EST -0500 ##############
+
+2020-08-14 05:43:57 350 packets transmitted, 350 received, 0% packet loss, time 20949111ms
+2020-08-14 05:43:57 rtt min/avg/max/mdev = 34.820/70.061/571.153/49.788 ms
+
+############## carina - 08/14/20 11:55:11 EST -0500 ##############
+
+2020-08-14 17:45:22 350 packets transmitted, 332 received, 5% packet loss, time 20951418ms
+2020-08-14 17:45:22 rtt min/avg/max/mdev = 35.279/128.551/2821.723/270.604 ms
+
+############## carina - 08/14/20 23:54:45 EST -0500 ##############
+
+2020-08-15 05:43:54 350 packets transmitted, 350 received, 0% packet loss, time 20948740ms
+2020-08-15 05:43:54 rtt min/avg/max/mdev = 44.386/57.740/178.819/8.938 ms
+
+############## carina - 08/15/20 11:55:11 EST -0500 ##############
+
+2020-08-15 17:53:17 350 packets transmitted, 309 received, 11% packet loss, time 20965639ms
+2020-08-15 17:53:17 rtt min/avg/max/mdev = 48.831/6714.369/260184.331/28234.276 ms, pipe 5
+
+############## carina - 08/15/20 23:54:45 EST -0500 ##############
+
+2020-08-16 05:44:55 350 packets transmitted, 347 received, 0% packet loss, time 20949363ms
+2020-08-16 05:44:55 rtt min/avg/max/mdev = 39.345/62.082/332.056/26.428 ms
+
+############## carina - 08/16/20 12:01:11 EST -0500 ##############
+
+2020-08-16 23:41:29 700 packets transmitted, 699 received, 0% packet loss, time 41957883ms
+2020-08-16 23:41:29 rtt min/avg/max/mdev = 45.857/73.482/379.928/24.867 ms
+
+############## carina - 08/17/20 00:00:47 EST -0500 ##############
+
+2020-08-17 11:41:12 700 packets transmitted, 695 received, +1 errors, 0% packet loss, time 41965325ms
+2020-08-17 11:41:12 rtt min/avg/max/mdev = 41.180/66.835/1555.500/69.023 ms
+
+############## carina - 08/17/20 12:01:11 EST -0500 ##############
+
+2020-08-17 23:41:29 700 packets transmitted, 698 received, 0% packet loss, time 41958017ms
+2020-08-17 23:41:29 rtt min/avg/max/mdev = 40.447/86.171/2102.225/128.258 ms
+
+############## carina - 08/17/20 23:55:46 EST -0500 ##############
+
+2020-08-18 11:35:03 700 packets transmitted, 700 received, 0% packet loss, time 41956824ms
+2020-08-18 11:35:03 rtt min/avg/max/mdev = 34.283/55.733/319.055/19.356 ms
+
+############## carina - 08/18/20 11:56:13 EST -0500 ##############
+
+2020-08-18 23:36:31 700 packets transmitted, 699 received, 0% packet loss, time 41957683ms
+2020-08-18 23:36:31 rtt min/avg/max/mdev = 38.492/63.493/344.801/23.970 ms
+
+############## carina - 08/18/20 23:55:56 EST -0500 ##############
+
+2020-08-19 11:35:14 700 packets transmitted, 700 received, 0% packet loss, time 41957699ms
+2020-08-19 11:35:14 rtt min/avg/max/mdev = 33.742/56.095/386.889/18.860 ms
+
+############## carina - 08/19/20 11:56:13 EST -0500 ##############
+
+2020-08-19 23:36:31 700 packets transmitted, 698 received, 0% packet loss, time 41957513ms
+2020-08-19 23:36:31 rtt min/avg/max/mdev = 34.592/73.719/4297.126/161.799 ms
+
+############## carina - 08/19/20 23:55:44 EST -0500 ##############
+
+2020-08-20 11:35:03 700 packets transmitted, 700 received, 0% packet loss, time 41958095ms
+2020-08-20 11:35:03 rtt min/avg/max/mdev = 33.359/53.725/391.264/17.617 ms
+
+############## carina - 08/20/20 11:56:13 EST -0500 ##############
+
+2020-08-20 23:36:31 700 packets transmitted, 698 received, 0% packet loss, time 41957507ms
+2020-08-20 23:36:31 rtt min/avg/max/mdev = 30.759/59.584/325.722/17.348 ms
+
+############## carina - 08/20/20 23:55:44 EST -0500 ##############
+
+2020-08-21 11:35:02 700 packets transmitted, 700 received, 0% packet loss, time 41957295ms
+2020-08-21 11:35:02 rtt min/avg/max/mdev = 33.794/51.836/137.521/12.103 ms
+
+############## carina - 08/21/20 11:56:13 EST -0500 ##############
+
+2020-08-21 23:35:31 700 packets transmitted, 700 received, 0% packet loss, time 41957918ms
+2020-08-21 23:35:31 rtt min/avg/max/mdev = 34.738/79.761/5570.746/259.585 ms
+
+############## carina - 08/21/20 23:55:48 EST -0500 ##############
+
+############## carina - 08/21/20 23:55:48 EST -0500 ##############
+
+
+############## carina - 08/22/20 11:56:14 EST -0500 ##############
+
+2020-08-22 23:36:39 700 packets transmitted, 690 received, 1% packet loss, time 41964985ms
+2020-08-22 23:36:39 rtt min/avg/max/mdev = 33.340/70.012/552.834/47.767 ms
+
+############## carina - 08/22/20 23:55:51 EST -0500 ##############
+
+2020-08-23 11:35:08 700 packets transmitted, 700 received, 0% packet loss, time 41957100ms
+2020-08-23 11:35:08 rtt min/avg/max/mdev = 31.486/53.980/2292.344/86.382 ms
+
+############## carina - 08/23/20 11:56:13 EST -0500 ##############
+
+############## carina - 08/23/20 11:56:13 EST -0500 ##############
+
+
+############## carina - 08/23/20 23:57:08 EST -0500 ##############
+
+2020-08-24 11:37:28 700 packets transmitted, 699 received, 0% packet loss, time 41960044ms
+2020-08-24 11:37:28 rtt min/avg/max/mdev = 31.302/49.848/461.405/22.779 ms
+
+############## carina - 08/25/20 00:21:14 EST -0500 ##############
+
+2020-08-25 12:01:36 700 packets transmitted, 697 received, 0% packet loss, time 41961847ms
+2020-08-25 12:01:36 rtt min/avg/max/mdev = 32.578/56.360/1857.840/72.876 ms
+
+############## carina - 08/25/20 12:15:43 EST -0500 ##############
+
+2020-08-25 23:59:13 700 packets transmitted, 689 received, 1% packet loss, time 41957649ms
+2020-08-25 23:59:13 rtt min/avg/max/mdev = 35.672/248.240/126434.496/4811.063 ms, pipe 3
+
+############## carina - 08/26/20 00:21:14 EST -0500 ##############
+
+2020-08-26 12:01:34 700 packets transmitted, 698 received, 0% packet loss, time 41959597ms
+2020-08-26 12:01:34 rtt min/avg/max/mdev = 37.701/67.016/2318.358/105.116 ms
+
+############## carina - 08/26/20 12:15:44 EST -0500 ##############
+
+2020-08-26 23:59:32 700 packets transmitted, 541 received, 22% packet loss, time 42168285ms
+2020-08-26 23:59:32 rtt min/avg/max/mdev = 33.013/114.380/4602.633/322.826 ms
+
+############## carina - 08/27/20 00:21:17 EST -0500 ##############
+
+2020-08-27 12:00:34 700 packets transmitted, 700 received, 0% packet loss, time 41956989ms
+2020-08-27 12:00:34 rtt min/avg/max/mdev = 32.560/48.507/128.852/11.836 ms
+
+############## carina - 08/27/20 12:15:45 EST -0500 ##############
+
+2020-08-27 23:56:02 700 packets transmitted, 699 received, 0% packet loss, time 41956757ms
+2020-08-27 23:56:02 rtt min/avg/max/mdev = 40.021/70.070/268.869/27.513 ms
+
+############## carina - 08/28/20 00:21:14 EST -0500 ##############
+
+2020-08-28 12:00:31 700 packets transmitted, 700 received, 0% packet loss, time 41957061ms
+2020-08-28 12:00:31 rtt min/avg/max/mdev = 34.531/55.210/564.297/25.540 ms
+
+############## carina - 08/28/20 12:15:46 EST -0500 ##############
+
+2020-08-28 23:56:04 700 packets transmitted, 698 received, 0% packet loss, time 41957994ms
+2020-08-28 23:56:04 rtt min/avg/max/mdev = 35.969/74.683/287.447/29.217 ms
+
+############## carina - 08/29/20 00:21:15 EST -0500 ##############
+
+2020-08-29 12:00:33 700 packets transmitted, 700 received, 0% packet loss, time 41957711ms
+2020-08-29 12:00:33 rtt min/avg/max/mdev = 33.348/63.489/463.860/26.448 ms
+
+############## carina - 08/29/20 12:15:45 EST -0500 ##############
+
+2020-08-29 23:55:02 700 packets transmitted, 700 received, 0% packet loss, time 41956613ms
+2020-08-29 23:55:02 rtt min/avg/max/mdev = 33.784/55.574/194.741/17.050 ms
+
+############## carina - 08/30/20 00:21:15 EST -0500 ##############
+
+2020-08-30 12:01:32 700 packets transmitted, 699 received, 0% packet loss, time 41956593ms
+2020-08-30 12:01:32 rtt min/avg/max/mdev = 31.063/54.735/299.634/22.365 ms
+
+############## carina - 08/30/20 12:15:47 EST -0500 ##############
+
+2020-08-30 23:56:04 700 packets transmitted, 697 received, 0% packet loss, time 41957562ms
+2020-08-30 23:56:04 rtt min/avg/max/mdev = 31.754/75.041/326.914/32.133 ms
+
+############## carina - 08/31/20 00:21:16 EST -0500 ##############
+
+2020-08-31 12:00:33 700 packets transmitted, 700 received, 0% packet loss, time 41957279ms
+2020-08-31 12:00:33 rtt min/avg/max/mdev = 33.195/58.495/541.199/24.172 ms
+
+############## carina - 08/31/20 12:15:42 EST -0500 ##############
+
+2020-08-31 23:55:58 700 packets transmitted, 697 received, 0% packet loss, time 41955930ms
+2020-08-31 23:55:58 rtt min/avg/max/mdev = 35.909/81.196/177.783/32.248 ms
+
+############## carina - 09/01/20 00:21:24 EST -0500 ##############
+
+2020-09-01 12:00:40 700 packets transmitted, 700 received, 0% packet loss, time 41955929ms
+2020-09-01 12:00:40 rtt min/avg/max/mdev = 31.247/50.793/129.693/15.256 ms
+
+############## carina - 09/01/20 12:15:45 EST -0500 ##############
+
+2020-09-01 23:59:58 700 packets transmitted, 693 received, 1% packet loss, time 42182121ms
+2020-09-01 23:59:58 rtt min/avg/max/mdev = 39.686/151.655/35736.504/1360.659 ms
+
+############## carina - 09/02/20 00:21:17 EST -0500 ##############
+
+2020-09-02 12:09:15 700 packets transmitted, 627 received, 10% packet loss, time 41991021ms
+2020-09-02 12:09:15 rtt min/avg/max/mdev = 35.211/1199.759/243639.708/13702.029 ms, pipe 5
+
+############## carina - 09/02/20 12:17:10 EST -0500 ##############
+
+############## carina - 09/02/20 12:17:10 EST -0500 ##############
+
+
+############## carina - 09/03/20 08:12:13 EST -0500 ##############
+
+############## carina - 09/03/20 08:12:13 EST -0500 ##############
+
+
+############## carina - 09/03/20 12:15:44 EST -0500 ##############
+
+2020-09-03 23:55:03 700 packets transmitted, 700 received, 0% packet loss, time 41958921ms
+2020-09-03 23:55:03 rtt min/avg/max/mdev = 32.070/64.721/311.971/41.907 ms
+
+############## carina - 09/04/20 00:21:16 EST -0500 ##############
+
+2020-09-04 12:00:34 700 packets transmitted, 700 received, 0% packet loss, time 41957416ms
+2020-09-04 12:00:34 rtt min/avg/max/mdev = 29.322/48.987/351.358/20.634 ms
+
+############## carina - 09/04/20 12:15:45 EST -0500 ##############
+
+2020-09-04 23:56:02 700 packets transmitted, 697 received, 0% packet loss, time 41957132ms
+2020-09-04 23:56:02 rtt min/avg/max/mdev = 35.425/104.247/2124.038/186.943 ms
+
+############## carina - 09/05/20 00:21:18 EST -0500 ##############
+
+2020-09-05 12:01:39 700 packets transmitted, 688 received, 1% packet loss, time 41960697ms
+2020-09-05 12:01:39 rtt min/avg/max/mdev = 29.093/91.810/4116.450/276.573 ms
+
+############## carina - 09/05/20 12:15:51 EST -0500 ##############
+
+2020-09-05 23:56:09 700 packets transmitted, 690 received, 1% packet loss, time 41958744ms
+2020-09-05 23:56:09 rtt min/avg/max/mdev = 30.799/203.247/7004.943/631.107 ms
+
+############## carina - 09/06/20 00:21:17 EST -0500 ##############
+
+2020-09-06 12:01:37 700 packets transmitted, 692 received, 1% packet loss, time 41959599ms
+2020-09-06 12:01:37 rtt min/avg/max/mdev = 28.920/83.156/18138.674/688.755 ms
+
+############## carina - 09/06/20 12:15:48 EST -0500 ##############
+
+2020-09-06 23:56:04 700 packets transmitted, 698 received, 0% packet loss, time 41956582ms
+2020-09-06 23:56:04 rtt min/avg/max/mdev = 33.057/98.191/1034.324/96.049 ms
+
+############## carina - 09/07/20 00:21:18 EST -0500 ##############
+
+2020-09-07 12:00:35 700 packets transmitted, 700 received, 0% packet loss, time 41957163ms
+2020-09-07 12:00:35 rtt min/avg/max/mdev = 27.908/60.276/531.704/49.514 ms
+
+############## carina - 09/07/20 12:15:48 EST -0500 ##############
+
+############## carina - 09/07/20 12:15:48 EST -0500 ##############
+
+
+############## carina - 09/08/20 00:21:19 EST -0500 ##############
+
+2020-09-08 12:01:40 700 packets transmitted, 697 received, 0% packet loss, time 41960740ms
+2020-09-08 12:01:40 rtt min/avg/max/mdev = 30.767/86.233/296.332/56.144 ms
+
+############## carina - 09/08/20 12:15:48 EST -0500 ##############
+
+2020-09-08 23:56:09 700 packets transmitted, 698 received, 0% packet loss, time 41960706ms
+2020-09-08 23:56:09 rtt min/avg/max/mdev = 30.409/90.233/5103.652/228.491 ms
+
+############## carina - 09/09/20 12:27:44 EST -0500 ##############
+
+2020-09-10 00:08:17 700 packets transmitted, 631 received, 9% packet loss, time 41972656ms
+2020-09-10 00:08:17 rtt min/avg/max/mdev = 33.706/96.544/1897.844/166.187 ms
+
+############## carina - 09/10/20 00:21:18 EST -0500 ##############
+
+2020-09-10 12:00:37 700 packets transmitted, 700 received, 0% packet loss, time 41958700ms
+2020-09-10 12:00:37 rtt min/avg/max/mdev = 32.049/51.920/1696.541/66.305 ms
+
+############## carina - 09/10/20 12:15:45 EST -0500 ##############
+
+2020-09-10 23:55:02 700 packets transmitted, 700 received, 0% packet loss, time 41957121ms
+2020-09-10 23:55:02 rtt min/avg/max/mdev = 32.882/59.432/1300.123/54.407 ms
+
+############## carina - 09/11/20 00:21:19 EST -0500 ##############
+
+2020-09-11 12:01:38 700 packets transmitted, 699 received, 0% packet loss, time 41958530ms
+2020-09-11 12:01:38 rtt min/avg/max/mdev = 31.458/63.202/876.930/70.617 ms
+
+############## carina - 09/11/20 12:15:45 EST -0500 ##############
+
+2020-09-11 23:55:03 700 packets transmitted, 700 received, 0% packet loss, time 41957826ms
+2020-09-11 23:55:03 rtt min/avg/max/mdev = 34.118/98.553/2379.608/149.860 ms
+
+############## carina - 09/12/20 00:21:19 EST -0500 ##############
+
+2020-09-12 12:01:38 700 packets transmitted, 697 received, 0% packet loss, time 41959365ms
+2020-09-12 12:01:38 rtt min/avg/max/mdev = 28.286/51.423/324.525/26.929 ms
+
+############## carina - 09/12/20 12:15:52 EST -0500 ##############
+
+2020-09-12 23:56:09 700 packets transmitted, 698 received, 0% packet loss, time 41957438ms
+2020-09-12 23:56:09 rtt min/avg/max/mdev = 33.338/80.908/2021.932/104.587 ms
+
+############## carina - 09/13/20 00:21:19 EST -0500 ##############
+
+2020-09-13 12:01:37 700 packets transmitted, 696 received, 0% packet loss, time 41958140ms
+2020-09-13 12:01:37 rtt min/avg/max/mdev = 29.448/61.584/672.112/57.885 ms
+
+############## carina - 09/13/20 12:15:45 EST -0500 ##############
+
+2020-09-13 23:55:56 700 packets transmitted, 692 received, 1% packet loss, time 41950948ms
+2020-09-13 23:55:56 rtt min/avg/max/mdev = 31.426/101.115/1164.742/125.386 ms
+
+############## carina - 09/14/20 00:21:20 EST -0500 ##############
+
+2020-09-14 12:01:40 700 packets transmitted, 696 received, 0% packet loss, time 41960122ms
+2020-09-14 12:01:40 rtt min/avg/max/mdev = 28.832/50.435/716.647/31.994 ms
+
+############## carina - 09/14/20 12:15:44 EST -0500 ##############
+
+2020-09-14 23:56:06 700 packets transmitted, 682 received, 2% packet loss, time 41961755ms
+2020-09-14 23:56:06 rtt min/avg/max/mdev = 35.499/85.899/4066.546/158.571 ms
+
+############## carina - 09/15/20 00:21:20 EST -0500 ##############
+
+2020-09-15 12:10:04 700 packets transmitted, 686 received, 2% packet loss, time 41965226ms
+2020-09-15 12:10:04 rtt min/avg/max/mdev = 32.889/1224.873/279092.961/15372.970 ms, pipe 5
+
+############## carina - 09/15/20 12:17:08 EST -0500 ##############
+
+2020-09-15 23:57:26 700 packets transmitted, 681 received, 2% packet loss, time 41958216ms
+2020-09-15 23:57:26 rtt min/avg/max/mdev = 34.780/118.120/7622.975/364.430 ms
+
+############## carina - 09/17/20 00:21:22 EST -0500 ##############
+
+2020-09-17 12:01:41 700 packets transmitted, 694 received, 0% packet loss, time 41959618ms
+2020-09-17 12:01:41 rtt min/avg/max/mdev = 33.681/94.279/6895.461/333.277 ms
+
+############## carina - 09/18/20 00:21:22 EST -0500 ##############
+
+2020-09-18 12:01:40 700 packets transmitted, 699 received, 0% packet loss, time 41958915ms
+2020-09-18 12:01:40 rtt min/avg/max/mdev = 31.129/105.629/4323.683/374.224 ms
+
+############## carina - 09/19/20 00:21:23 EST -0500 ##############
+
+2020-09-19 12:00:41 700 packets transmitted, 700 received, 0% packet loss, time 41958434ms
+2020-09-19 12:00:41 rtt min/avg/max/mdev = 29.563/105.357/6820.626/393.277 ms
+
+############## carina - 09/20/20 00:21:22 EST -0500 ##############
+
+2020-09-20 12:01:41 700 packets transmitted, 697 received, 0% packet loss, time 41958487ms
+2020-09-20 12:01:41 rtt min/avg/max/mdev = 27.573/55.135/1865.538/75.536 ms
+
+############## carina - 09/21/20 00:21:23 EST -0500 ##############
+
+2020-09-21 12:01:43 700 packets transmitted, 697 received, 0% packet loss, time 41959827ms
+2020-09-21 12:01:43 rtt min/avg/max/mdev = 29.497/60.931/884.866/50.201 ms
+
+############## carina - 09/22/20 00:21:23 EST -0500 ##############
+
+2020-09-22 12:00:42 700 packets transmitted, 700 received, 0% packet loss, time 41958621ms
+2020-09-22 12:00:42 rtt min/avg/max/mdev = 34.771/57.076/263.139/16.577 ms
+
+############## carina - 09/23/20 00:21:23 EST -0500 ##############
+
+2020-09-23 12:00:41 700 packets transmitted, 700 received, 0% packet loss, time 41958236ms
+2020-09-23 12:00:41 rtt min/avg/max/mdev = 29.969/61.069/199.363/15.771 ms
+
+############## carina - 09/24/20 00:21:27 EST -0500 ##############
+
+2020-09-24 12:00:46 700 packets transmitted, 700 received, 0% packet loss, time 41958885ms
+2020-09-24 12:00:46 rtt min/avg/max/mdev = 27.028/41.735/136.234/7.666 ms
+
+############## carina - 09/26/20 12:15:48 EST -0500 ##############
+
+2020-09-26 23:55:06 700 packets transmitted, 700 received, 0% packet loss, time 41957660ms
+2020-09-26 23:55:06 rtt min/avg/max/mdev = 36.746/62.982/601.214/33.744 ms
+
+############## carina - 09/27/20 00:21:29 EST -0500 ##############
+
+2020-09-27 12:00:47 700 packets transmitted, 700 received, 0% packet loss, time 41958005ms
+2020-09-27 12:00:47 rtt min/avg/max/mdev = 37.380/62.362/1589.440/67.252 ms
+
+############## carina - 09/27/20 12:15:44 EST -0500 ##############
+
+2020-09-27 23:55:02 700 packets transmitted, 700 received, 0% packet loss, time 41957894ms
+2020-09-27 23:55:02 rtt min/avg/max/mdev = 35.362/66.994/402.749/30.499 ms
+
+############## carina - 09/28/20 00:21:23 EST -0500 ##############
+
+2020-09-28 12:00:41 700 packets transmitted, 700 received, 0% packet loss, time 41957651ms
+2020-09-28 12:00:41 rtt min/avg/max/mdev = 38.477/66.067/776.549/51.522 ms
+
+############## carina - 09/28/20 12:15:42 EST -0500 ##############
+
+2020-09-28 23:55:59 700 packets transmitted, 699 received, 0% packet loss, time 41956695ms
+2020-09-28 23:55:59 rtt min/avg/max/mdev = 35.115/79.893/1514.616/85.254 ms
+
+############## carina - 09/29/20 00:21:24 EST -0500 ##############
+
+2020-09-29 12:00:42 700 packets transmitted, 700 received, 0% packet loss, time 41957561ms
+2020-09-29 12:00:42 rtt min/avg/max/mdev = 35.030/55.224/223.072/18.130 ms
+
+############## carina - 09/29/20 12:17:15 EST -0500 ##############
+
+2020-09-29 23:57:34 700 packets transmitted, 698 received, 0% packet loss, time 41958549ms
+2020-09-29 23:57:34 rtt min/avg/max/mdev = 30.267/167.288/8149.889/469.301 ms
+
+############## carina - 09/30/20 00:21:26 EST -0500 ##############
+
+2020-09-30 12:00:43 700 packets transmitted, 700 received, 0% packet loss, time 41956963ms
+2020-09-30 12:00:43 rtt min/avg/max/mdev = 35.763/56.384/420.886/24.811 ms
+
+############## carina - 09/30/20 12:15:44 EST -0500 ##############
+
+2020-09-30 23:56:01 700 packets transmitted, 699 received, 0% packet loss, time 41957491ms
+2020-09-30 23:56:01 rtt min/avg/max/mdev = 35.687/95.227/823.304/130.132 ms
+
+############## carina - 10/06/20 00:21:29 EST -0500 ##############
+
+2020-10-06 12:01:54 700 packets transmitted, 671 received, 4% packet loss, time 41965160ms
+2020-10-06 12:01:54 rtt min/avg/max/mdev = 45.243/106.780/8552.128/348.252 ms
+
+############## carina - 10/06/20 12:15:40 EST -0500 ##############
+
+2020-10-06 23:55:57 700 packets transmitted, 693 received, 1% packet loss, time 41957369ms
+2020-10-06 23:55:57 rtt min/avg/max/mdev = 44.898/77.404/681.008/39.400 ms
+
+############## carina - 10/07/20 00:21:29 EST -0500 ##############
+
+2020-10-07 12:00:45 700 packets transmitted, 700 received, 0% packet loss, time 41956436ms
+2020-10-07 12:00:45 rtt min/avg/max/mdev = 46.099/74.403/1444.652/59.869 ms
+
+############## carina - 10/08/20 00:21:29 EST -0500 ##############
+
+2020-10-08 12:01:49 700 packets transmitted, 682 received, 2% packet loss, time 41960442ms
+2020-10-08 12:01:49 rtt min/avg/max/mdev = 46.646/74.740/922.463/61.074 ms
+
+############## carina - 10/09/20 00:21:30 EST -0500 ##############
+
+2020-10-09 12:02:43 700 packets transmitted, 644 received, 8% packet loss, time 42012777ms
+2020-10-09 12:02:43 rtt min/avg/max/mdev = 34.185/71.302/1549.814/108.305 ms
+
+############## carina - 10/10/20 00:21:29 EST -0500 ##############
+
+2020-10-10 13:09:27 700 packets transmitted, 447 received, 36% packet loss, time 41958975ms
+2020-10-10 13:09:27 rtt min/avg/max/mdev = 36.515/11025.397/2059268.462/123111.481 ms, pipe 35
+
+############## carina - 10/11/20 00:21:30 EST -0500 ##############
+
+2020-10-11 12:51:21 700 packets transmitted, 254 received, 63% packet loss, time 41950067ms
+2020-10-11 12:51:21 rtt min/avg/max/mdev = 41.138/41632.299/1520333.555/-26573254775954.-157 ms, pipe 26
+
+############## carina - 10/12/20 00:21:31 EST -0500 ##############
+
+2020-10-12 12:09:40 700 packets transmitted, 657 received, 6% packet loss, time 41965564ms
+2020-10-12 12:09:40 rtt min/avg/max/mdev = 34.358/1539.699/262095.165/15425.594 ms, pipe 5
+
+############## carina - 10/13/20 00:21:30 EST -0500 ##############
+
+2020-10-14 00:03:29 1420 packets transmitted, 1381 received, 2% packet loss, time 85182864ms
+2020-10-14 00:03:29 rtt min/avg/max/mdev = 35.729/306.047/67902.746/2189.010 ms, pipe 2
+
+############## carina - 10/14/20 00:21:31 EST -0500 ##############
+
+2020-10-15 00:07:47 1420 packets transmitted, 1169 received, 17% packet loss, time 85516714ms
+2020-10-15 00:07:47 rtt min/avg/max/mdev = 34.428/93.472/2857.585/159.820 ms
+
+############## carina - 10/16/20 00:21:31 EST -0500 ##############
+
+2020-10-17 00:05:42 1420 packets transmitted, 1321 received, 6% packet loss, time 85197514ms
+2020-10-17 00:05:42 rtt min/avg/max/mdev = 36.059/268.253/126720.845/4876.094 ms, pipe 3
+
+############## carina - 10/17/20 00:21:31 EST -0500 ##############
+
+2020-10-18 00:02:08 1420 packets transmitted, 1415 received, 0% packet loss, time 85176398ms
+2020-10-18 00:02:08 rtt min/avg/max/mdev = 31.043/64.069/1871.388/64.368 ms
+
+############## carina - 10/18/20 00:21:32 EST -0500 ##############
+
+2020-10-19 00:05:51 1420 packets transmitted, 1376 received, 3% packet loss, time 85194251ms
+2020-10-19 00:05:51 rtt min/avg/max/mdev = 36.151/525.569/132676.145/6939.657 ms, pipe 3
+
+############## carina - 10/25/20 00:21:34 EST -0500 ##############
+
+2020-10-26 00:05:46 1420 packets transmitted, 1397 received, 1% packet loss, time 85185395ms
+2020-10-26 00:05:46 rtt min/avg/max/mdev = 27.134/670.782/132872.854/8172.897 ms, pipe 3
+
+############## carina - 10/26/20 00:21:35 EST -0500 ##############
+
+2020-10-27 00:08:26 1420 packets transmitted, 1125 received, 20% packet loss, time 85298286ms
+2020-10-27 00:08:26 rtt min/avg/max/mdev = 31.041/1585.170/156079.948/12401.239 ms, pipe 3
+
+############## carina - 10/27/20 00:21:35 EST -0500 ##############
+
+############## carina - 10/27/20 00:21:35 EST -0500 ##############
+
+
+############## carina - 10/28/20 00:21:35 EST -0500 ##############
+
+2020-10-29 00:06:03 1420 packets transmitted, 1341 received, 5% packet loss, time 85203419ms
+2020-10-29 00:06:03 rtt min/avg/max/mdev = 28.519/336.594/131964.868/5226.469 ms, pipe 3
+
+############## carina - 10/29/20 00:21:36 EST -0500 ##############
+
+2020-10-30 00:02:15 1420 packets transmitted, 1416 received, 0% packet loss, time 85179836ms
+2020-10-30 00:02:15 rtt min/avg/max/mdev = 30.477/60.533/360.266/21.295 ms
+
+############## carina - 10/30/20 00:21:35 EST -0500 ##############
+
+2020-10-31 00:02:11 1420 packets transmitted, 1419 received, 0% packet loss, time 85175144ms
+2020-10-31 00:02:11 rtt min/avg/max/mdev = 27.609/53.424/758.822/26.763 ms
+
+############## carina - 10/31/20 00:21:37 EST -0500 ##############
+
+2020-11-01 00:04:32 1420 packets transmitted, 1404 received, 1% packet loss, time 85178499ms
+2020-11-01 00:04:32 rtt min/avg/max/mdev = 30.142/151.862/98189.187/2816.958 ms, pipe 2
+
+############## carina - 11/01/20 00:21:37 EST -0500 ##############
+
+2020-11-02 00:04:03 1420 packets transmitted, 1403 received, 1% packet loss, time 85184481ms
+2020-11-02 00:04:03 rtt min/avg/max/mdev = 29.655/127.494/80767.770/2217.037 ms, pipe 2
+
+############## carina - 11/03/20 00:21:38 EST -0500 ##############
+
+2020-11-04 00:02:21 1420 packets transmitted, 1388 received, 2% packet loss, time 85182791ms
+2020-11-04 00:02:21 rtt min/avg/max/mdev = 32.199/64.210/9879.469/279.944 ms
+
+############## carina - 11/04/20 00:21:40 EST -0500 ##############
+
+2020-11-05 00:01:16 1420 packets transmitted, 1420 received, 0% packet loss, time 85175630ms
+2020-11-05 00:01:16 rtt min/avg/max/mdev = 28.170/50.799/184.519/16.397 ms
+
+############## carina - 11/05/20 00:21:40 EST -0500 ##############
+
+2020-11-06 00:05:44 1420 packets transmitted, 1416 received, 0% packet loss, time 85181230ms
+2020-11-06 00:05:44 rtt min/avg/max/mdev = 28.405/232.748/131664.452/4841.956 ms, pipe 3
+
+############## carina - 11/06/20 00:21:41 EST -0500 ##############
+
+2020-11-07 00:01:16 1420 packets transmitted, 1420 received, 0% packet loss, time 85175182ms
+2020-11-07 00:01:16 rtt min/avg/max/mdev = 29.198/52.908/444.820/27.536 ms
+
+############## carina - 11/07/20 00:21:40 EST -0500 ##############
+
+2020-11-08 00:01:16 1420 packets transmitted, 1420 received, 0% packet loss, time 85176169ms
+2020-11-08 00:01:16 rtt min/avg/max/mdev = 27.542/53.461/662.101/27.018 ms
+
+############## carina - 11/08/20 00:21:42 EST -0500 ##############
+
+2020-11-09 00:02:23 1420 packets transmitted, 1407 received, 0% packet loss, time 85180610ms
+2020-11-09 00:02:23 rtt min/avg/max/mdev = 28.475/58.247/5558.995/148.428 ms
+
+############## carina - 11/09/20 00:21:41 EST -0500 ##############
+
+2020-11-10 00:02:17 1420 packets transmitted, 1419 received, 0% packet loss, time 85176000ms
+2020-11-10 00:02:17 rtt min/avg/max/mdev = 28.407/52.320/297.448/18.180 ms
+
+############## carina - 11/10/20 00:21:43 EST -0500 ##############
+
+2020-11-11 00:02:17 1420 packets transmitted, 1418 received, 0% packet loss, time 85174245ms
+2020-11-11 00:02:17 rtt min/avg/max/mdev = 30.711/53.516/1895.548/54.987 ms
+
+############## carina - 11/11/20 00:21:43 EST -0500 ##############
+
+2020-11-12 00:02:21 1420 packets transmitted, 1418 received, 0% packet loss, time 85177561ms
+2020-11-12 00:02:21 rtt min/avg/max/mdev = 27.764/46.967/155.823/13.218 ms
+
+############## carina - 11/12/20 00:21:43 EST -0500 ##############
+
+2020-11-13 00:01:19 1420 packets transmitted, 1420 received, 0% packet loss, time 85175621ms
+2020-11-13 00:01:19 rtt min/avg/max/mdev = 27.874/53.263/302.639/23.200 ms
+
+############## carina - 11/13/20 00:21:45 EST -0500 ##############
+
+2020-11-14 00:02:24 1420 packets transmitted, 1416 received, 0% packet loss, time 85179333ms
+2020-11-14 00:02:24 rtt min/avg/max/mdev = 32.810/57.851/3358.585/90.321 ms
+
+############## carina - 11/14/20 00:21:42 EST -0500 ##############
+
+2020-11-15 00:01:18 1420 packets transmitted, 1420 received, 0% packet loss, time 85174995ms
+2020-11-15 00:01:18 rtt min/avg/max/mdev = 29.433/54.008/254.068/18.812 ms
+
+############## carina - 11/15/20 00:21:44 EST -0500 ##############
+
+2020-11-16 00:02:19 1420 packets transmitted, 1418 received, 0% packet loss, time 85174678ms
+2020-11-16 00:02:19 rtt min/avg/max/mdev = 29.384/62.417/427.428/40.370 ms
+
+############## carina - 11/16/20 00:21:50 EST -0500 ##############
+
+2020-11-17 00:01:25 1420 packets transmitted, 1420 received, 0% packet loss, time 85175136ms
+2020-11-17 00:01:25 rtt min/avg/max/mdev = 30.039/54.683/1916.518/53.431 ms
+
+############## carina - 11/17/20 00:21:45 EST -0500 ##############
+
+2020-11-18 00:03:49 1420 packets transmitted, 1383 received, +1 duplicates, 2% packet loss, time 85191135ms
+2020-11-18 00:03:49 rtt min/avg/max/mdev = 28.179/111.258/66115.666/1781.065 ms, pipe 2
+
+############## carina - 11/18/20 00:21:45 EST -0500 ##############
+
+2020-11-19 00:01:20 1420 packets transmitted, 1420 received, 0% packet loss, time 85175356ms
+2020-11-19 00:01:20 rtt min/avg/max/mdev = 31.648/68.390/283.242/17.369 ms
+
+############## carina - 11/19/20 00:21:48 EST -0500 ##############
+
+2020-11-20 00:02:23 1420 packets transmitted, 1419 received, 0% packet loss, time 85175248ms
+2020-11-20 00:02:23 rtt min/avg/max/mdev = 29.645/52.381/401.003/19.852 ms
+
+############## carina - 11/20/20 00:21:48 EST -0500 ##############
+
+2020-11-21 00:01:25 1420 packets transmitted, 1420 received, 0% packet loss, time 85176865ms
+2020-11-21 00:01:25 rtt min/avg/max/mdev = 29.467/51.318/266.049/13.248 ms
+
+############## carina - 11/21/20 00:21:48 EST -0500 ##############
+
+2020-11-22 00:01:24 1420 packets transmitted, 1420 received, 0% packet loss, time 85176330ms
+2020-11-22 00:01:24 rtt min/avg/max/mdev = 27.563/52.993/869.855/33.576 ms
+
+############## carina - 11/22/20 00:21:49 EST -0500 ##############
+
+2020-11-23 00:02:24 1420 packets transmitted, 1418 received, 0% packet loss, time 85175044ms
+2020-11-23 00:02:24 rtt min/avg/max/mdev = 28.466/62.081/430.685/27.289 ms
+
+############## carina - 11/23/20 00:21:49 EST -0500 ##############
+
+2020-11-24 00:02:30 1420 packets transmitted, 1412 received, 0% packet loss, time 85181355ms
+2020-11-24 00:02:30 rtt min/avg/max/mdev = 29.532/53.621/257.249/16.494 ms
+
+############## carina - 11/24/20 00:21:50 EST -0500 ##############
+
+2020-11-25 00:02:30 1420 packets transmitted, 1413 received, 0% packet loss, time 85180689ms
+2020-11-25 00:02:30 rtt min/avg/max/mdev = 28.479/65.260/766.339/50.063 ms
+
+############## carina - 11/25/20 00:21:51 EST -0500 ##############
+
+2020-11-26 00:02:54 1420 packets transmitted, 1337 received, 5% packet loss, time 85203379ms
+2020-11-26 00:02:54 rtt min/avg/max/mdev = 30.990/80.692/10151.600/299.188 ms
+
+############## carina - 11/26/20 00:21:52 EST -0500 ##############
+
+2020-11-27 00:02:28 1420 packets transmitted, 1419 received, 0% packet loss, time 85175465ms
+2020-11-27 00:02:28 rtt min/avg/max/mdev = 30.118/62.382/394.190/24.668 ms
+
+############## carina - 11/27/20 00:21:51 EST -0500 ##############
+
+2020-11-28 00:02:38 1420 packets transmitted, 1368 received, 3% packet loss, time 85187572ms
+2020-11-28 00:02:39 rtt min/avg/max/mdev = 29.246/69.293/1537.165/56.446 ms
+
+############## carina - 11/28/20 00:21:52 EST -0500 ##############
+
+2020-11-29 00:02:27 1420 packets transmitted, 1405 received, 1% packet loss, time 85175594ms
+2020-11-29 00:02:27 rtt min/avg/max/mdev = 28.649/63.603/674.591/30.454 ms
+
+############## carina - 11/29/20 00:21:54 EST -0500 ##############
+
+2020-11-30 00:02:45 1420 packets transmitted, 1370 received, 3% packet loss, time 85190354ms
+2020-11-30 00:02:45 rtt min/avg/max/mdev = 29.546/69.518/595.181/38.676 ms
+
+############## carina - 11/30/20 00:21:54 EST -0500 ##############
+
+2020-12-01 00:02:35 1420 packets transmitted, 1375 received, 3% packet loss, time 85180564ms
+2020-12-01 00:02:35 rtt min/avg/max/mdev = 29.703/87.898/2929.191/200.403 ms
+
+############## carina - 12/01/20 00:21:54 EST -0500 ##############
+
+2020-12-02 00:05:57 1420 packets transmitted, 1340 received, 5% packet loss, time 85201189ms
+2020-12-02 00:05:57 rtt min/avg/max/mdev = 29.213/533.490/120696.926/6351.507 ms, pipe 2
+
+############## carina - 12/02/20 00:21:56 EST -0500 ##############
+
+2020-12-03 00:04:02 1420 packets transmitted, 1376 received, 3% packet loss, time 85187079ms
+2020-12-03 00:04:02 rtt min/avg/max/mdev = 29.291/116.020/69345.606/1884.221 ms, pipe 2
+
+############## carina - 12/03/20 00:21:57 EST -0500 ##############
+
+2020-12-04 00:02:34 1420 packets transmitted, 1419 received, 0% packet loss, time 85176989ms
+2020-12-04 00:02:34 rtt min/avg/max/mdev = 28.849/52.029/482.953/23.773 ms
+
+############## carina - 12/05/20 00:21:58 EST -0500 ##############
+
+2020-12-06 00:02:37 1420 packets transmitted, 1405 received, 1% packet loss, time 85178953ms
+2020-12-06 00:02:37 rtt min/avg/max/mdev = 28.653/67.811/2483.545/88.267 ms
+
+############## carina - 12/06/20 00:21:59 EST -0500 ##############
+
+2020-12-07 00:02:35 1420 packets transmitted, 1416 received, 0% packet loss, time 85176849ms
+2020-12-07 00:02:35 rtt min/avg/max/mdev = 30.977/60.791/1873.960/54.520 ms
+
+############## carina - 12/07/20 00:22:01 EST -0500 ##############
+
+2020-12-08 00:02:36 1420 packets transmitted, 1413 received, 0% packet loss, time 85175165ms
+2020-12-08 00:02:36 rtt min/avg/max/mdev = 28.239/55.507/2050.963/71.397 ms
+
+############## carina - 12/08/20 00:22:03 EST -0500 ##############
+
+2020-12-09 00:02:45 1420 packets transmitted, 1392 received, 1% packet loss, time 85182358ms
+2020-12-09 00:02:45 rtt min/avg/max/mdev = 34.011/69.726/1950.720/105.104 ms
+
+############## carina - 12/09/20 00:22:04 EST -0500 ##############
+
+2020-12-10 00:03:15 1420 packets transmitted, 1359 received, 4% packet loss, time 85210919ms
+2020-12-10 00:03:15 rtt min/avg/max/mdev = 32.869/64.075/442.698/28.614 ms
+
+############## carina - 12/10/20 00:22:03 EST -0500 ##############
+
+############## carina - 12/10/20 00:22:03 EST -0500 ##############
+
+
+############## carina - 12/11/20 00:22:07 EST -0500 ##############
+
+2020-12-12 00:02:57 1420 packets transmitted, 1341 received, 5% packet loss, time 85189696ms
+2020-12-12 00:02:57 rtt min/avg/max/mdev = 41.993/72.394/295.055/21.237 ms
+
+############## carina - 12/12/20 00:22:05 EST -0500 ##############
+
+2020-12-13 00:02:45 1420 packets transmitted, 1398 received, 1% packet loss, time 85179258ms
+2020-12-13 00:02:45 rtt min/avg/max/mdev = 35.406/62.176/2137.049/63.417 ms
+
+############## carina - 12/13/20 00:22:05 EST -0500 ##############
+
+2020-12-14 00:02:41 1420 packets transmitted, 1409 received, 0% packet loss, time 85176211ms
+2020-12-14 00:02:41 rtt min/avg/max/mdev = 32.235/56.804/2899.894/77.264 ms
+
+############## carina - 12/14/20 00:22:07 EST -0500 ##############
+
+2020-12-15 00:02:55 1420 packets transmitted, 1391 received, 2% packet loss, time 85188431ms
+2020-12-15 00:02:55 rtt min/avg/max/mdev = 35.287/88.186/7979.418/298.242 ms
+
+############## carina - 12/15/20 00:22:08 EST -0500 ##############
+
+2020-12-16 00:02:44 1420 packets transmitted, 1413 received, 0% packet loss, time 85176694ms
+2020-12-16 00:02:44 rtt min/avg/max/mdev = 35.359/77.995/1627.473/102.679 ms
+
+############## carina - 12/16/20 00:22:09 EST -0500 ##############
+
+2020-12-17 00:01:43 1420 packets transmitted, 1420 received, 0% packet loss, time 85173920ms
+2020-12-17 00:01:43 rtt min/avg/max/mdev = 35.043/59.275/1473.859/55.559 ms
+
+############## carina - 12/18/20 00:22:12 EST -0500 ##############
+
+############## carina - 12/18/20 00:22:12 EST -0500 ##############
+
+
+############## carina - 12/19/20 00:22:12 EST -0500 ##############
+
+2020-12-20 00:08:09 1420 packets transmitted, 977 received, 31% packet loss, time 85367936ms
+2020-12-20 00:08:09 rtt min/avg/max/mdev = 32.299/545.119/94332.593/4568.531 ms, pipe 2
+
+############## carina - 12/20/20 00:22:14 EST -0500 ##############
+
+2020-12-21 00:11:00 1420 packets transmitted, 773 received, 45% packet loss, time 85463548ms
+2020-12-21 00:11:00 rtt min/avg/max/mdev = 81.828/1126.399/131384.996/6769.811 ms, pipe 3
+
+############## carina - 12/22/20 00:22:15 EST -0500 ##############
+
+############## carina - 12/22/20 00:22:15 EST -0500 ##############
+
+
+############## carina - 12/23/20 00:22:17 EST -0500 ##############
+
+############## carina - 12/23/20 00:22:17 EST -0500 ##############
+
+
+############## carina - 12/24/20 00:22:17 EST -0500 ##############
+
+############## carina - 12/24/20 00:22:17 EST -0500 ##############
+
+
+############## carina - 12/25/20 00:22:18 EST -0500 ##############
+
+2020-12-26 00:02:54 1420 packets transmitted, 1419 received, 0% packet loss, time 85175614ms
+2020-12-26 00:02:54 rtt min/avg/max/mdev = 31.389/51.778/543.344/33.075 ms
+
+############## carina - 12/26/20 00:22:20 EST -0500 ##############
+
+2020-12-27 00:02:55 1420 packets transmitted, 1417 received, 0% packet loss, time 85175022ms
+2020-12-27 00:02:55 rtt min/avg/max/mdev = 29.476/49.707/565.398/21.735 ms
+
+############## carina - 12/27/20 00:22:22 EST -0500 ##############
+
+2020-12-28 00:08:06 1420 packets transmitted, 781 received, 45% packet loss, time 85276676ms
+2020-12-28 00:08:06 rtt min/avg/max/mdev = 29.756/783.664/133492.807/7719.664 ms, pipe 3
+
+############## carina - 12/28/20 00:22:24 EST -0500 ##############
+
+############## carina - 12/28/20 00:22:24 EST -0500 ##############
+
+
+############## carina - 12/29/20 00:22:40 EST -0500 ##############
+
+############## carina - 12/29/20 00:22:40 EST -0500 ##############
+
+
+############## carina - 12/30/20 00:22:10 EST -0500 ##############
+
+############## carina - 12/30/20 00:22:10 EST -0500 ##############
+
+
+############## carina - 12/31/20 00:22:28 EST -0500 ##############
+
+############## carina - 12/31/20 00:22:28 EST -0500 ##############
+
+
+############## carina - 01/01/21 00:22:29 EST -0500 ##############
+
+############## carina - 01/01/21 00:22:29 EST -0500 ##############
+
+
+############## carina - 01/02/21 00:22:47 EST -0500 ##############
+
+2021-01-03 00:06:00 1420 packets transmitted, 9 received, 99% packet loss, time 85333584ms
+2021-01-03 00:06:00 rtt min/avg/max/mdev = 74.676/507.378/2381.204/700.544 ms
+
+############## carina - 01/03/21 00:22:44 EST -0500 ##############
+
+2021-01-04 00:01:56 --- 8.8.8.8 ping statistics ---
+2021-01-04 00:01:56 1420 packets transmitted, 0 received, 100% packet loss, time 85142237ms
+
+############## carina - 01/04/21 00:22:45 EST -0500 ##############
+
+############## carina - 01/04/21 00:22:45 EST -0500 ##############
+
+
+############## carina - 01/05/21 00:22:47 EST -0500 ##############
+
+############## carina - 01/05/21 00:22:47 EST -0500 ##############
+
+
+############## carina - 01/06/21 00:22:35 EST -0500 ##############
+
+############## carina - 01/06/21 00:22:35 EST -0500 ##############
+
+
+############## carina - 01/07/21 00:22:48 EST -0500 ##############
+
+############## carina - 01/07/21 00:22:48 EST -0500 ##############
+
+
+############## carina - 02/08/21 14:30:43 EST -0500 ##############
+
+############## carina - 02/08/21 14:30:43 EST -0500 ##############
+
+
+############## carina - 03/18/21 08:09:54 EST -0500 ##############
+
+############## carina - 03/18/21 08:09:54 EST -0500 ##############
+
+
+############## carina - 03/29/21 00:24:00 EST -0500 ##############
+
+2021-03-29 23:59:11 284 packets transmitted, 284 received, 0% packet loss, time 84910967ms
+2021-03-29 23:59:11 rtt min/avg/max/mdev = 40.261/59.132/174.372/13.516 ms
+
+############## carina - 03/30/21 00:24:01 EST -0500 ##############
+
+2021-03-30 23:59:12 284 packets transmitted, 284 received, 0% packet loss, time 84911760ms
+2021-03-30 23:59:12 rtt min/avg/max/mdev = 36.483/64.952/473.585/32.589 ms
+
+############## carina - 03/31/21 00:24:02 EST -0500 ##############
+
+2021-03-31 23:59:11 284 packets transmitted, 284 received, 0% packet loss, time 84909719ms
+2021-03-31 23:59:11 rtt min/avg/max/mdev = 36.671/85.307/1472.540/154.203 ms
+
+############## carina - 04/01/21 00:24:01 EST -0500 ##############
+
+2021-04-01 23:59:12 284 packets transmitted, 284 received, 0% packet loss, time 84911052ms
+2021-04-01 23:59:12 rtt min/avg/max/mdev = 36.306/852.143/225148.988/13333.070 ms
+
+############## carina - 04/02/21 00:24:03 EST -0500 ##############
+
+2021-04-02 23:59:14 284 packets transmitted, 284 received, 0% packet loss, time 84910593ms
+2021-04-02 23:59:14 rtt min/avg/max/mdev = 35.461/62.319/644.573/41.489 ms
+
+############## carina - 04/03/21 00:24:04 EST -0500 ##############
+
+2021-04-03 23:59:14 284 packets transmitted, 284 received, 0% packet loss, time 84909914ms
+2021-04-03 23:59:14 rtt min/avg/max/mdev = 40.734/62.809/270.765/24.824 ms
+
+############## carina - 04/04/21 00:24:04 EST -0500 ##############
+
+2021-04-04 23:59:15 284 packets transmitted, 284 received, 0% packet loss, time 84910411ms
+2021-04-04 23:59:15 rtt min/avg/max/mdev = 33.367/62.097/252.549/16.650 ms
+
+############## carina - 04/05/21 00:24:05 EST -0500 ##############
+
+2021-04-05 23:59:17 284 packets transmitted, 284 received, 0% packet loss, time 84911936ms
+2021-04-05 23:59:17 rtt min/avg/max/mdev = 37.377/59.686/124.270/12.315 ms
+
+############## carina - 04/06/21 00:24:06 EST -0500 ##############
+
+2021-04-06 23:59:17 284 packets transmitted, 284 received, 0% packet loss, time 84911320ms
+2021-04-06 23:59:17 rtt min/avg/max/mdev = 37.965/60.200/191.493/15.599 ms
+
+############## carina - 04/07/21 00:24:06 EST -0500 ##############
+
+2021-04-07 23:59:18 284 packets transmitted, 284 received, 0% packet loss, time 84911662ms
+2021-04-07 23:59:18 rtt min/avg/max/mdev = 36.813/59.829/111.089/11.881 ms
+
+############## carina - 04/09/21 00:24:07 EST -0500 ##############
+
+2021-04-09 23:59:18 284 packets transmitted, 284 received, 0% packet loss, time 84910376ms
+2021-04-09 23:59:18 rtt min/avg/max/mdev = 37.113/59.705/105.907/10.510 ms
+
+############## carina - 04/10/21 00:24:07 EST -0500 ##############
+
+2021-04-10 23:59:18 284 packets transmitted, 284 received, 0% packet loss, time 84911531ms
+2021-04-10 23:59:18 rtt min/avg/max/mdev = 37.650/60.546/228.493/15.546 ms
+
+############## carina - 04/11/21 00:24:06 EST -0500 ##############
+
+2021-04-11 23:59:17 284 packets transmitted, 284 received, 0% packet loss, time 84910631ms
+2021-04-11 23:59:17 rtt min/avg/max/mdev = 35.871/62.792/237.849/16.478 ms
+
+############## carina - 04/12/21 00:24:10 EST -0500 ##############
+
+2021-04-13 00:04:20 284 packets transmitted, 283 received, 0% packet loss, time 84910344ms
+2021-04-13 00:04:20 rtt min/avg/max/mdev = 38.668/68.699/212.632/19.154 ms
+
+############## carina - 04/13/21 00:24:07 EST -0500 ##############
+
+2021-04-13 23:59:17 284 packets transmitted, 284 received, 0% packet loss, time 84910021ms
+2021-04-13 23:59:17 rtt min/avg/max/mdev = 36.906/65.021/572.930/36.737 ms
+
+############## carina - 04/14/21 00:24:07 EST -0500 ##############
+
+2021-04-14 23:59:18 284 packets transmitted, 284 received, 0% packet loss, time 84910907ms
+2021-04-14 23:59:18 rtt min/avg/max/mdev = 35.980/64.267/469.512/28.756 ms
+
+############## carina - 04/15/21 00:24:09 EST -0500 ##############
+
+2021-04-15 23:59:20 284 packets transmitted, 284 received, 0% packet loss, time 84911372ms
+2021-04-15 23:59:20 rtt min/avg/max/mdev = 36.047/60.676/254.528/17.221 ms
+
+############## carina - 04/16/21 00:24:08 EST -0500 ##############
+
+2021-04-16 23:59:19 284 packets transmitted, 284 received, 0% packet loss, time 84910896ms
+2021-04-16 23:59:19 rtt min/avg/max/mdev = 34.774/58.253/123.201/11.607 ms
+
+############## carina - 04/17/21 00:24:09 EST -0500 ##############
+
+2021-04-17 23:59:21 284 packets transmitted, 284 received, 0% packet loss, time 84911635ms
+2021-04-17 23:59:21 rtt min/avg/max/mdev = 36.501/64.173/536.741/35.561 ms
+
+############## carina - 04/18/21 00:24:08 EST -0500 ##############
+
+2021-04-18 23:59:19 284 packets transmitted, 284 received, 0% packet loss, time 84911188ms
+2021-04-18 23:59:19 rtt min/avg/max/mdev = 40.761/67.325/291.773/21.574 ms
+
+############## carina - 04/19/21 00:24:09 EST -0500 ##############
+
+2021-04-20 00:04:28 284 packets transmitted, 283 received, 0% packet loss, time 84919469ms
+2021-04-20 00:04:28 rtt min/avg/max/mdev = 37.087/63.916/476.641/38.259 ms
+
+############## carina - 04/20/21 00:24:10 EST -0500 ##############
+
+2021-04-20 23:59:21 284 packets transmitted, 284 received, 0% packet loss, time 84910754ms
+2021-04-20 23:59:21 rtt min/avg/max/mdev = 37.385/61.515/143.053/17.638 ms
+
+############## carina - 04/21/21 00:24:09 EST -0500 ##############
+
+2021-04-21 23:59:20 284 packets transmitted, 284 received, 0% packet loss, time 84909994ms
+2021-04-21 23:59:20 rtt min/avg/max/mdev = 36.066/60.143/143.830/15.580 ms
+
+############## carina - 04/22/21 00:24:10 EST -0500 ##############
+
+2021-04-23 00:04:21 284 packets transmitted, 283 received, 0% packet loss, time 84910584ms
+2021-04-23 00:04:21 rtt min/avg/max/mdev = 34.342/62.030/318.738/22.830 ms
+
+############## carina - 04/23/21 00:24:11 EST -0500 ##############
+
+2021-04-23 23:59:21 284 packets transmitted, 284 received, 0% packet loss, time 84909656ms
+2021-04-23 23:59:21 rtt min/avg/max/mdev = 30.150/62.386/250.437/21.655 ms
+
+############## carina - 04/24/21 00:24:12 EST -0500 ##############
+
+2021-04-24 23:59:23 284 packets transmitted, 284 received, 0% packet loss, time 84910129ms
+2021-04-24 23:59:23 rtt min/avg/max/mdev = 36.310/66.957/452.336/31.196 ms
+
+############## carina - 04/25/21 00:24:13 EST -0500 ##############
+
+2021-04-25 23:59:24 284 packets transmitted, 284 received, 0% packet loss, time 84910501ms
+2021-04-25 23:59:24 rtt min/avg/max/mdev = 35.815/61.775/276.723/19.031 ms
+
+############## carina - 04/26/21 00:24:13 EST -0500 ##############
+
+2021-04-26 23:59:24 284 packets transmitted, 284 received, 0% packet loss, time 84911125ms
+2021-04-26 23:59:24 rtt min/avg/max/mdev = 34.128/61.917/362.596/23.335 ms
+
+############## carina - 04/27/21 00:24:15 EST -0500 ##############
+
+2021-04-27 23:59:26 284 packets transmitted, 284 received, 0% packet loss, time 84911221ms
+2021-04-27 23:59:26 rtt min/avg/max/mdev = 29.833/63.077/196.587/19.561 ms
+
+############## carina - 04/28/21 00:24:14 EST -0500 ##############
+
+2021-04-28 23:59:25 284 packets transmitted, 284 received, 0% packet loss, time 84911141ms
+2021-04-28 23:59:25 rtt min/avg/max/mdev = 34.147/63.000/179.448/16.796 ms
+
+############## carina - 04/30/21 00:24:14 EST -0500 ##############
+
+2021-04-30 23:59:24 284 packets transmitted, 284 received, 0% packet loss, time 84910397ms
+2021-04-30 23:59:24 rtt min/avg/max/mdev = 37.218/65.812/479.864/30.368 ms
+
+############## carina - 05/01/21 00:24:14 EST -0500 ##############
+
+2021-05-02 00:04:25 284 packets transmitted, 282 received, 0% packet loss, time 84910932ms
+2021-05-02 00:04:25 rtt min/avg/max/mdev = 40.604/68.263/344.346/25.334 ms
+
+############## carina - 05/02/21 00:24:16 EST -0500 ##############
+
+2021-05-03 00:04:41 284 packets transmitted, 283 received, 0% packet loss, time 84924474ms
+2021-05-03 00:04:41 rtt min/avg/max/mdev = 41.365/63.697/238.826/19.719 ms
+
+############## carina - 05/03/21 00:24:14 EST -0500 ##############
+
+2021-05-04 00:04:25 284 packets transmitted, 281 received, 1% packet loss, time 84910733ms
+2021-05-04 00:04:25 rtt min/avg/max/mdev = 42.830/65.664/517.221/39.852 ms
+
+############## carina - 05/04/21 00:24:18 EST -0500 ##############
+
+2021-05-05 00:04:29 284 packets transmitted, 278 received, 2% packet loss, time 84910465ms
+2021-05-05 00:04:29 rtt min/avg/max/mdev = 35.628/101.727/8639.547/523.821 ms
+
+############## carina - 05/05/21 00:24:15 EST -0500 ##############
+
+2021-05-05 23:59:26 284 packets transmitted, 284 received, 0% packet loss, time 84910345ms
+2021-05-05 23:59:26 rtt min/avg/max/mdev = 40.325/62.714/211.906/17.915 ms
+
+############## carina - 05/06/21 00:24:16 EST -0500 ##############
+
+2021-05-07 00:04:26 284 packets transmitted, 283 received, 0% packet loss, time 84910473ms
+2021-05-07 00:04:26 rtt min/avg/max/mdev = 38.812/59.442/102.876/10.469 ms
+
+############## carina - 05/07/21 00:24:17 EST -0500 ##############
+
+2021-05-08 00:04:28 284 packets transmitted, 281 received, 1% packet loss, time 84910927ms
+2021-05-08 00:04:28 rtt min/avg/max/mdev = 36.263/59.904/174.635/14.737 ms
+
+############## carina - 05/08/21 00:24:21 EST -0500 ##############
+
+2021-05-09 00:04:31 284 packets transmitted, 282 received, 0% packet loss, time 84910434ms
+2021-05-09 00:04:31 rtt min/avg/max/mdev = 38.473/64.207/716.608/50.051 ms
+
+############## carina - 05/09/21 00:24:16 EST -0500 ##############
+
+2021-05-10 00:04:27 284 packets transmitted, 283 received, 0% packet loss, time 84910382ms
+2021-05-10 00:04:27 rtt min/avg/max/mdev = 37.127/62.984/205.711/19.623 ms
+
+############## carina - 05/10/21 00:24:17 EST -0500 ##############
+
+2021-05-10 23:59:27 284 packets transmitted, 284 received, 0% packet loss, time 84909960ms
+2021-05-10 23:59:27 rtt min/avg/max/mdev = 40.542/63.696/489.673/36.441 ms
+
+############## carina - 05/11/21 00:24:17 EST -0500 ##############
+
+2021-05-11 23:59:29 284 packets transmitted, 284 received, 0% packet loss, time 84911845ms
+2021-05-11 23:59:29 rtt min/avg/max/mdev = 38.811/63.512/541.284/31.588 ms
+
+############## carina - 05/12/21 00:24:17 EST -0500 ##############
+
+2021-05-12 23:59:29 284 packets transmitted, 284 received, 0% packet loss, time 84910417ms
+2021-05-12 23:59:29 rtt min/avg/max/mdev = 40.148/70.109/1137.091/78.822 ms
+
+############## carina - 05/13/21 00:24:17 EST -0500 ##############
+
+2021-05-14 00:04:28 284 packets transmitted, 282 received, 0% packet loss, time 84910769ms
+2021-05-14 00:04:28 rtt min/avg/max/mdev = 38.692/65.994/474.185/32.941 ms
+
+############## carina - 05/14/21 00:24:19 EST -0500 ##############
+
+2021-05-15 00:04:31 284 packets transmitted, 280 received, 1% packet loss, time 84911814ms
+2021-05-15 00:04:31 rtt min/avg/max/mdev = 37.574/165.339/14629.217/1061.258 ms
+
+############## carina - 05/15/21 00:24:18 EST -0500 ##############
+
+2021-05-16 00:04:58 284 packets transmitted, 276 received, 2% packet loss, time 84922495ms
+2021-05-16 00:04:58 rtt min/avg/max/mdev = 41.918/994.374/158403.524/11126.058 ms
+
+############## carina - 05/16/21 00:24:19 EST -0500 ##############
+
+2021-05-17 00:06:43 284 packets transmitted, 243 received, 14% packet loss, time 84925109ms
+2021-05-17 00:06:43 rtt min/avg/max/mdev = 42.348/5460.626/209460.210/23269.503 ms
+
+############## carina - 05/17/21 00:24:21 EST -0500 ##############
+
+2021-05-18 00:04:59 284 packets transmitted, 236 received, 16% packet loss, time 84937093ms
+2021-05-18 00:04:59 rtt min/avg/max/mdev = 44.174/776.732/119031.832/8215.402 ms
+
+############## carina - 05/18/21 00:24:20 EST -0500 ##############
+
+2021-05-19 00:07:18 284 packets transmitted, 265 received, 6% packet loss, time 84910414ms
+2021-05-19 00:07:18 rtt min/avg/max/mdev = 43.684/2562.647/233921.023/18394.586 ms
+
+############## carina - 05/19/21 00:24:19 EST -0500 ##############
+
+2021-05-20 00:04:31 284 packets transmitted, 275 received, 3% packet loss, time 84911801ms
+2021-05-20 00:04:31 rtt min/avg/max/mdev = 40.449/1253.724/115611.425/9112.472 ms
+
+############## carina - 05/20/21 00:24:20 EST -0500 ##############
+
+2021-05-21 00:05:40 284 packets transmitted, 260 received, 8% packet loss, time 84912251ms
+2021-05-21 00:05:40 rtt min/avg/max/mdev = 42.205/1113.305/183966.167/11742.265 ms
+
+############## carina - 05/21/21 00:24:20 EST -0500 ##############
+
+2021-05-22 00:04:31 284 packets transmitted, 275 received, 3% packet loss, time 84911241ms
+2021-05-22 00:04:31 rtt min/avg/max/mdev = 37.874/549.802/123798.747/7463.156 ms
+
+############## carina - 05/22/21 00:24:21 EST -0500 ##############
+
+2021-05-23 00:04:33 284 packets transmitted, 276 received, 2% packet loss, time 84912117ms
+2021-05-23 00:04:33 rtt min/avg/max/mdev = 45.892/301.789/34444.080/2404.424 ms
+
+############## carina - 05/23/21 00:24:19 EST -0500 ##############
+
+2021-05-24 00:04:36 284 packets transmitted, 281 received, 1% packet loss, time 84916769ms
+2021-05-24 00:04:36 rtt min/avg/max/mdev = 38.534/79.438/1534.308/131.893 ms
+
+############## carina - 05/24/21 00:24:20 EST -0500 ##############
+
+2021-05-25 00:04:31 284 packets transmitted, 281 received, 1% packet loss, time 84911245ms
+2021-05-25 00:04:31 rtt min/avg/max/mdev = 42.034/88.161/5993.212/353.684 ms
+
+############## carina - 05/25/21 00:24:21 EST -0500 ##############
+
+2021-05-26 00:04:32 284 packets transmitted, 280 received, 1% packet loss, time 84910331ms
+2021-05-26 00:04:32 rtt min/avg/max/mdev = 42.085/440.628/89061.723/5344.027 ms
+
+############## carina - 05/26/21 00:24:22 EST -0500 ##############
+
+2021-05-27 00:04:34 284 packets transmitted, 275 received, 3% packet loss, time 84911897ms
+2021-05-27 00:04:34 rtt min/avg/max/mdev = 42.674/372.010/39465.423/2779.788 ms
+
+############## carina - 05/27/21 00:24:22 EST -0500 ##############
+
+2021-05-28 00:09:00 284 packets transmitted, 254 received, 10% packet loss, time 84912467ms
+2021-05-28 00:09:00 rtt min/avg/max/mdev = 38.555/4588.083/282663.729/24936.658 ms
+
+############## carina - 05/28/21 00:24:20 EST -0500 ##############
+
+############## carina - 05/28/21 00:24:20 EST -0500 ##############
+
+
+############## carina - 05/29/21 00:24:21 EST -0500 ##############
+
+############## carina - 05/29/21 00:24:21 EST -0500 ##############
+
+
+############## carina - 05/30/21 00:24:22 EST -0500 ##############
+
+2021-05-31 00:04:42 284 packets transmitted, 279 received, 1% packet loss, time 84919621ms
+2021-05-31 00:04:42 rtt min/avg/max/mdev = 41.782/563.513/73150.046/5355.410 ms
+
+############## carina - 05/31/21 00:24:22 EST -0500 ##############
+
+2021-06-01 00:04:33 284 packets transmitted, 278 received, 2% packet loss, time 84911309ms
+2021-06-01 00:04:33 rtt min/avg/max/mdev = 44.985/1019.916/104514.165/7719.951 ms
+
+############## carina - 06/01/21 00:24:22 EST -0500 ##############
+
+2021-06-02 00:04:33 284 packets transmitted, 278 received, 2% packet loss, time 84911204ms
+2021-06-02 00:04:33 rtt min/avg/max/mdev = 43.342/85.152/1297.900/90.866 ms
+
+############## carina - 06/02/21 00:24:23 EST -0500 ##############
+
+2021-06-03 00:04:34 284 packets transmitted, 279 received, 1% packet loss, time 84910834ms
+2021-06-03 00:04:34 rtt min/avg/max/mdev = 38.449/298.932/59872.317/3573.703 ms
+
+############## carina - 06/03/21 00:24:23 EST -0500 ##############
+
+2021-06-04 00:04:35 284 packets transmitted, 273 received, 3% packet loss, time 84912004ms
+2021-06-04 00:04:35 rtt min/avg/max/mdev = 38.359/236.719/35949.431/2175.942 ms
+
+############## carina - 06/04/21 00:24:25 EST -0500 ##############
+
+2021-06-05 00:09:49 284 packets transmitted, 241 received, 15% packet loss, time 85202119ms
+2021-06-05 00:09:49 rtt min/avg/max/mdev = 42.095/1021.793/161260.777/10676.052 ms
+
+############## carina - 06/05/21 00:24:23 EST -0500 ##############
+
+2021-06-06 00:04:37 284 packets transmitted, 235 received, 17% packet loss, time 84913499ms
+2021-06-06 00:04:37 rtt min/avg/max/mdev = 41.430/757.351/110726.320/7319.821 ms
+
+############## carina - 06/06/21 00:24:24 EST -0500 ##############
+
+2021-06-07 00:07:07 284 packets transmitted, 269 received, 5% packet loss, time 84933071ms
+2021-06-07 00:07:07 rtt min/avg/max/mdev = 42.122/2664.310/214965.252/16875.025 ms
+
+############## carina - 06/09/21 00:24:26 EST -0500 ##############
+
+2021-06-10 00:04:49 284 packets transmitted, 267 received, 5% packet loss, time 84922874ms
+2021-06-10 00:04:49 rtt min/avg/max/mdev = 42.912/1103.157/104472.919/8264.162 ms
+
+############## carina - 06/10/21 00:24:25 EST -0500 ##############
+
+2021-06-11 00:05:51 284 packets transmitted, 260 received, 8% packet loss, time 84919674ms
+2021-06-11 00:05:51 rtt min/avg/max/mdev = 39.073/2356.848/183057.660/16938.319 ms
+
+############## carina - 06/12/21 00:24:26 EST -0500 ##############
+
+2021-06-13 00:05:58 284 packets transmitted, 267 received, 5% packet loss, time 84914095ms
+2021-06-13 00:05:58 rtt min/avg/max/mdev = 41.930/3515.142/188793.346/20605.853 ms
+
+############## carina - 06/14/21 00:24:26 EST -0500 ##############
+
+2021-06-15 00:04:40 284 packets transmitted, 262 received, 7% packet loss, time 84914341ms
+2021-06-15 00:04:40 rtt min/avg/max/mdev = 42.248/1109.470/95890.244/7349.119 ms
+
+############## carina - 07/08/21 00:24:32 EST -0500 ##############
+
+2021-07-09 00:04:51 284 packets transmitted, 283 received, 0% packet loss, time 84919455ms
+2021-07-09 00:04:51 rtt min/avg/max/mdev = 34.916/84.821/630.218/64.325 ms
+
+############## carina - 07/09/21 00:24:33 EST -0500 ##############
+
+2021-07-10 00:05:01 284 packets transmitted, 283 received, 0% packet loss, time 84928398ms
+2021-07-10 00:05:01 rtt min/avg/max/mdev = 32.788/61.748/237.168/35.913 ms
+
+############## carina - 07/10/21 00:24:32 EST -0500 ##############
+
+2021-07-11 00:05:19 284 packets transmitted, 280 received, 1% packet loss, time 84947189ms
+2021-07-11 00:05:19 rtt min/avg/max/mdev = 34.416/73.115/233.751/47.650 ms
+
+############## carina - 07/11/21 00:24:31 EST -0500 ##############
+
+2021-07-12 00:04:51 284 packets transmitted, 283 received, 0% packet loss, time 84919115ms
+2021-07-12 00:04:51 rtt min/avg/max/mdev = 29.287/75.696/254.851/50.131 ms
+
+############## carina - 07/12/21 00:24:32 EST -0500 ##############
+
+2021-07-13 00:04:56 284 packets transmitted, 280 received, 1% packet loss, time 84923670ms
+2021-07-13 00:04:56 rtt min/avg/max/mdev = 36.237/116.164/2206.328/157.397 ms
+
+############## carina - 07/13/21 00:24:32 EST -0500 ##############
+
+2021-07-14 00:04:52 284 packets transmitted, 283 received, 0% packet loss, time 84919891ms
+2021-07-14 00:04:52 rtt min/avg/max/mdev = 36.321/81.442/346.930/52.707 ms
+
+############## carina - 07/14/21 00:24:32 EST -0500 ##############
+
+2021-07-15 00:09:03 284 packets transmitted, 259 received, 8% packet loss, time 85170784ms
+2021-07-15 00:09:03 rtt min/avg/max/mdev = 35.899/99.326/363.146/59.820 ms
+
+############## carina - 07/19/21 00:24:34 EST -0500 ##############
+
+2021-07-20 00:04:59 284 packets transmitted, 281 received, 1% packet loss, time 84924250ms
+2021-07-20 00:04:59 rtt min/avg/max/mdev = 36.507/73.719/245.245/45.943 ms
+
+############## carina - 07/20/21 00:24:35 EST -0500 ##############
+
+2021-07-20 23:59:54 284 packets transmitted, 284 received, 0% packet loss, time 84919164ms
+2021-07-20 23:59:54 rtt min/avg/max/mdev = 36.986/73.012/582.034/60.360 ms
+
+############## carina - 07/21/21 00:24:35 EST -0500 ##############
+
+2021-07-21 23:59:55 284 packets transmitted, 284 received, 0% packet loss, time 84920594ms
+2021-07-21 23:59:55 rtt min/avg/max/mdev = 34.944/76.428/1269.506/86.956 ms
+
+############## carina - 07/22/21 00:24:35 EST -0500 ##############
+
+2021-07-22 23:59:54 284 packets transmitted, 284 received, 0% packet loss, time 84919713ms
+2021-07-22 23:59:54 rtt min/avg/max/mdev = 35.987/73.447/1222.930/79.441 ms
+
+############## carina - 07/23/21 00:24:34 EST -0500 ##############
+
+2021-07-23 23:59:53 284 packets transmitted, 284 received, 0% packet loss, time 84918857ms
+2021-07-23 23:59:53 rtt min/avg/max/mdev = 36.171/72.797/284.272/47.400 ms
+
+############## carina - 07/24/21 00:24:35 EST -0500 ##############
+
+2021-07-25 00:05:09 284 packets transmitted, 282 received, 0% packet loss, time 84933215ms
+2021-07-25 00:05:09 rtt min/avg/max/mdev = 36.269/64.825/249.333/35.007 ms
+
+############## carina - 07/25/21 00:24:36 EST -0500 ##############
+
+2021-07-25 23:59:55 284 packets transmitted, 284 received, 0% packet loss, time 84918767ms
+2021-07-25 23:59:55 rtt min/avg/max/mdev = 34.925/72.248/274.757/47.798 ms
+
+############## carina - 07/27/21 00:24:35 EST -0500 ##############
+
+2021-07-28 00:05:09 284 packets transmitted, 283 received, 0% packet loss, time 84933724ms
+2021-07-28 00:05:09 rtt min/avg/max/mdev = 35.416/56.080/319.726/24.439 ms
+
+############## carina - 07/28/21 00:24:37 EST -0500 ##############
+
+2021-07-28 23:59:57 284 packets transmitted, 284 received, 0% packet loss, time 84920285ms
+2021-07-28 23:59:57 rtt min/avg/max/mdev = 35.881/86.562/1348.240/93.120 ms
+
+############## carina - 07/29/21 00:24:37 EST -0500 ##############
+
+2021-07-29 23:59:55 284 packets transmitted, 284 received, 0% packet loss, time 84918349ms
+2021-07-29 23:59:55 rtt min/avg/max/mdev = 35.714/65.631/244.040/39.124 ms
+
+############## carina - 07/30/21 00:24:38 EST -0500 ##############
+
+2021-07-30 23:59:58 284 packets transmitted, 284 received, 0% packet loss, time 84919138ms
+2021-07-30 23:59:58 rtt min/avg/max/mdev = 35.858/71.873/1528.025/96.753 ms
+
+############## carina - 07/31/21 00:24:40 EST -0500 ##############
+
+2021-07-31 23:59:59 284 packets transmitted, 284 received, 0% packet loss, time 84918723ms
+2021-07-31 23:59:59 rtt min/avg/max/mdev = 36.307/77.080/220.372/48.145 ms
+
+############## carina - 08/01/21 00:24:37 EST -0500 ##############
+
+2021-08-01 23:59:58 284 packets transmitted, 284 received, 0% packet loss, time 84921257ms
+2021-08-01 23:59:59 rtt min/avg/max/mdev = 36.100/70.729/217.217/44.571 ms
+
+############## carina - 08/02/21 00:24:37 EST -0500 ##############
+
+2021-08-02 23:59:55 284 packets transmitted, 284 received, 0% packet loss, time 84918804ms
+2021-08-02 23:59:56 rtt min/avg/max/mdev = 37.058/66.039/235.309/40.701 ms
+
+############## carina - 08/03/21 00:24:39 EST -0500 ##############
+
+2021-08-03 23:59:58 284 packets transmitted, 284 received, 0% packet loss, time 84919255ms
+2021-08-03 23:59:58 rtt min/avg/max/mdev = 33.090/65.282/256.948/39.582 ms
+
+############## carina - 08/04/21 00:24:38 EST -0500 ##############
+
+2021-08-04 23:59:58 284 packets transmitted, 284 received, 0% packet loss, time 84919863ms
+2021-08-04 23:59:58 rtt min/avg/max/mdev = 31.634/61.016/243.496/36.483 ms
+
+############## carina - 08/05/21 00:24:38 EST -0500 ##############
+
+2021-08-05 23:59:57 284 packets transmitted, 284 received, 0% packet loss, time 84918987ms
+2021-08-05 23:59:57 rtt min/avg/max/mdev = 35.036/66.951/251.922/42.704 ms
+
+############## carina - 08/06/21 00:24:38 EST -0500 ##############
+
+2021-08-06 23:59:58 284 packets transmitted, 284 received, 0% packet loss, time 84919415ms
+2021-08-06 23:59:58 rtt min/avg/max/mdev = 33.056/74.181/243.127/47.718 ms
+
+############## carina - 08/07/21 00:24:38 EST -0500 ##############
+
+2021-08-07 23:59:57 284 packets transmitted, 284 received, 0% packet loss, time 84918934ms
+2021-08-07 23:59:57 rtt min/avg/max/mdev = 32.004/67.849/231.269/42.510 ms
+
+############## carina - 08/08/21 00:24:38 EST -0500 ##############
+
+2021-08-09 00:05:03 284 packets transmitted, 283 received, 0% packet loss, time 84924442ms
+2021-08-09 00:05:03 rtt min/avg/max/mdev = 35.246/67.704/255.392/43.158 ms
+
+############## carina - 08/09/21 00:24:40 EST -0500 ##############
+
+2021-08-10 00:05:14 284 packets transmitted, 283 received, 0% packet loss, time 84934156ms
+2021-08-10 00:05:14 rtt min/avg/max/mdev = 33.753/70.118/202.897/44.360 ms
+
+############## carina - 08/10/21 00:24:39 EST -0500 ##############
+
+2021-08-10 23:59:59 284 packets transmitted, 284 received, 0% packet loss, time 84919827ms
+2021-08-10 23:59:59 rtt min/avg/max/mdev = 35.167/381.722/86749.435/5135.165 ms
+
+############## carina - 08/12/21 00:24:39 EST -0500 ##############
+
+2021-08-13 00:00:00 284 packets transmitted, 284 received, 0% packet loss, time 84920436ms
+2021-08-13 00:00:00 rtt min/avg/max/mdev = 30.835/67.863/249.237/42.959 ms
+
+############## carina - 08/13/21 00:24:40 EST -0500 ##############
+
+2021-08-13 23:59:59 284 packets transmitted, 284 received, 0% packet loss, time 84919428ms
+2021-08-13 23:59:59 rtt min/avg/max/mdev = 34.389/80.466/1461.525/91.572 ms
+
+############## carina - 08/14/21 00:24:40 EST -0500 ##############
+
+2021-08-15 00:00:00 284 packets transmitted, 284 received, 0% packet loss, time 84919519ms
+2021-08-15 00:00:00 rtt min/avg/max/mdev = 34.910/61.789/204.237/33.680 ms
+
+############## carina - 08/15/21 00:24:40 EST -0500 ##############
+
+2021-08-16 00:05:07 284 packets transmitted, 283 received, 0% packet loss, time 84926458ms
+2021-08-16 00:05:07 rtt min/avg/max/mdev = 34.337/82.988/1539.567/96.557 ms
+
+############## carina - 08/17/21 00:24:40 EST -0500 ##############
+
+2021-08-18 00:05:15 284 packets transmitted, 282 received, 0% packet loss, time 84934534ms
+2021-08-18 00:05:15 rtt min/avg/max/mdev = 33.102/195.306/35531.692/2111.274 ms
+
+############## carina - 08/18/21 00:24:41 EST -0500 ##############
+
+2021-08-19 00:00:00 284 packets transmitted, 284 received, 0% packet loss, time 84918905ms
+2021-08-19 00:00:00 rtt min/avg/max/mdev = 33.811/66.620/246.694/42.442 ms
+
+############## carina - 08/19/21 00:24:41 EST -0500 ##############
+
+2021-08-20 00:05:00 284 packets transmitted, 282 received, 0% packet loss, time 84918995ms
+2021-08-20 00:05:00 rtt min/avg/max/mdev = 33.038/73.125/566.483/55.732 ms
+
+############## carina - 08/20/21 00:24:42 EST -0500 ##############
+
+2021-08-21 00:00:01 284 packets transmitted, 284 received, 0% packet loss, time 84918818ms
+2021-08-21 00:00:01 rtt min/avg/max/mdev = 34.257/68.278/1840.590/111.942 ms
+
+############## carina - 08/21/21 00:24:41 EST -0500 ##############
+
+2021-08-22 00:05:26 284 packets transmitted, 277 received, 2% packet loss, time 84945919ms
+2021-08-22 00:05:27 rtt min/avg/max/mdev = 34.266/60.870/724.111/50.388 ms
+
+############## carina - 08/22/21 00:24:41 EST -0500 ##############
+
+2021-08-23 00:05:20 284 packets transmitted, 275 received, 3% packet loss, time 84939315ms
+2021-08-23 00:05:20 rtt min/avg/max/mdev = 36.368/489.235/118579.881/7134.167 ms
+
+############## carina - 08/23/21 00:24:44 EST -0500 ##############
+
+2021-08-24 00:05:24 284 packets transmitted, 277 received, 2% packet loss, time 84939986ms
+2021-08-24 00:05:24 rtt min/avg/max/mdev = 35.004/58.908/189.239/26.573 ms
+
+############## carina - 08/24/21 00:24:43 EST -0500 ##############
+
+2021-08-25 00:05:11 284 packets transmitted, 280 received, 1% packet loss, time 84928273ms
+2021-08-25 00:05:11 rtt min/avg/max/mdev = 37.180/286.248/61765.506/3680.890 ms
+
+############## carina - 08/25/21 00:24:42 EST -0500 ##############
+
+2021-08-26 00:05:09 284 packets transmitted, 281 received, 1% packet loss, time 84927158ms
+2021-08-26 00:05:09 rtt min/avg/max/mdev = 32.896/125.076/15974.713/947.976 ms
+
+############## carina - 08/26/21 00:24:42 EST -0500 ##############
+
+2021-08-27 00:00:01 284 packets transmitted, 284 received, 0% packet loss, time 84918886ms
+2021-08-27 00:00:01 rtt min/avg/max/mdev = 37.740/71.743/498.610/52.619 ms
+
+############## carina - 08/27/21 00:24:43 EST -0500 ##############
+
+2021-08-28 00:05:11 284 packets transmitted, 283 received, 0% packet loss, time 84927491ms
+2021-08-28 00:05:11 rtt min/avg/max/mdev = 36.013/276.921/45226.402/2794.918 ms
+
+############## carina - 08/28/21 00:24:43 EST -0500 ##############
+
+2021-08-29 00:05:10 284 packets transmitted, 283 received, 0% packet loss, time 84926396ms
+2021-08-29 00:05:10 rtt min/avg/max/mdev = 35.110/76.870/257.740/49.030 ms
+
+############## carina - 08/29/21 00:24:43 EST -0500 ##############
+
+2021-08-30 00:00:02 284 packets transmitted, 284 received, 0% packet loss, time 84918304ms
+2021-08-30 00:00:02 rtt min/avg/max/mdev = 36.857/70.275/211.789/41.067 ms
+
+############## carina - 08/30/21 00:24:44 EST -0500 ##############
+
+2021-08-31 00:05:16 284 packets transmitted, 282 received, 0% packet loss, time 84932069ms
+2021-08-31 00:05:16 rtt min/avg/max/mdev = 33.561/492.735/120619.696/7166.265 ms
+
+############## carina - 08/31/21 00:24:44 EST -0500 ##############
+
+2021-09-01 00:05:12 284 packets transmitted, 280 received, 1% packet loss, time 84927562ms
+2021-09-01 00:05:12 rtt min/avg/max/mdev = 38.222/71.135/292.498/43.957 ms
+
+############## carina - 09/01/21 00:24:45 EST -0500 ##############
+
+2021-09-02 00:05:08 284 packets transmitted, 281 received, 1% packet loss, time 84923607ms
+2021-09-02 00:05:08 rtt min/avg/max/mdev = 38.595/64.252/221.762/33.796 ms
+
+############## carina - 09/02/21 00:24:44 EST -0500 ##############
+
+2021-09-03 00:05:13 284 packets transmitted, 278 received, 2% packet loss, time 84928505ms
+2021-09-03 00:05:13 rtt min/avg/max/mdev = 35.086/1366.016/115498.973/11751.789 ms
+
+############## carina - 09/03/21 00:24:45 EST -0500 ##############
+
+2021-09-04 00:05:14 284 packets transmitted, 282 received, 0% packet loss, time 84929134ms
+2021-09-04 00:05:14 rtt min/avg/max/mdev = 34.455/707.934/120830.528/7807.887 ms
+
+############## carina - 09/04/21 00:24:45 EST -0500 ##############
+
+2021-09-05 00:05:18 284 packets transmitted, 283 received, 0% packet loss, time 84933194ms
+2021-09-05 00:05:18 rtt min/avg/max/mdev = 36.676/74.349/848.736/65.507 ms
+
+############## carina - 09/05/21 00:24:48 EST -0500 ##############
+
+2021-09-06 00:00:07 284 packets transmitted, 284 received, 0% packet loss, time 84919772ms
+2021-09-06 00:00:07 rtt min/avg/max/mdev = 37.250/59.296/196.451/27.769 ms
+
+############## carina - 09/06/21 00:24:45 EST -0500 ##############
+
+2021-09-07 00:05:19 284 packets transmitted, 282 received, 0% packet loss, time 84933067ms
+2021-09-07 00:05:19 rtt min/avg/max/mdev = 37.350/478.411/118035.173/7012.926 ms
+
+############## carina - 09/07/21 00:24:46 EST -0500 ##############
+
+2021-09-08 00:00:04 284 packets transmitted, 284 received, 0% packet loss, time 84917887ms
+2021-09-08 00:00:04 rtt min/avg/max/mdev = 35.353/67.598/592.646/53.057 ms
+
+############## carina - 09/08/21 00:24:45 EST -0500 ##############
+
+2021-09-09 00:00:03 284 packets transmitted, 284 received, 0% packet loss, time 84918491ms
+2021-09-09 00:00:03 rtt min/avg/max/mdev = 35.686/69.413/193.160/39.081 ms
+
+############## carina - 09/09/21 00:24:46 EST -0500 ##############
+
+2021-09-10 00:05:22 284 packets transmitted, 276 received, 2% packet loss, time 84936451ms
+2021-09-10 00:05:22 rtt min/avg/max/mdev = 37.542/1354.150/115514.679/10898.412 ms
+
+############## carina - 09/10/21 00:24:45 EST -0500 ##############
+
+2021-09-11 00:05:24 284 packets transmitted, 275 received, 3% packet loss, time 84938547ms
+2021-09-11 00:05:24 rtt min/avg/max/mdev = 34.485/545.479/99089.547/6105.040 ms
+
+############## carina - 09/11/21 00:24:47 EST -0500 ##############
+
+2021-09-12 00:00:07 284 packets transmitted, 284 received, 0% packet loss, time 84919391ms
+2021-09-12 00:00:07 rtt min/avg/max/mdev = 36.197/61.151/184.283/32.307 ms
+
+############## carina - 09/12/21 00:24:47 EST -0500 ##############
+
+2021-09-13 00:05:20 284 packets transmitted, 283 received, 0% packet loss, time 84932974ms
+2021-09-13 00:05:20 rtt min/avg/max/mdev = 37.074/62.252/175.920/31.807 ms
+
+############## carina - 09/13/21 00:24:47 EST -0500 ##############
+
+2021-09-14 00:00:06 284 packets transmitted, 284 received, 0% packet loss, time 84918814ms
+2021-09-14 00:00:06 rtt min/avg/max/mdev = 37.514/71.229/616.879/58.636 ms
+
+############## carina - 09/14/21 00:24:47 EST -0500 ##############
+
+2021-09-15 00:00:06 284 packets transmitted, 284 received, 0% packet loss, time 84919253ms
+2021-09-15 00:00:06 rtt min/avg/max/mdev = 36.821/65.181/303.991/38.533 ms
+
+############## carina - 09/15/21 00:24:49 EST -0500 ##############
+
+2021-09-16 00:05:20 284 packets transmitted, 283 received, 0% packet loss, time 84930465ms
+2021-09-16 00:05:20 rtt min/avg/max/mdev = 34.838/55.312/168.674/25.315 ms
+
+############## carina - 09/16/21 00:24:48 EST -0500 ##############
+
+2021-09-17 00:00:08 284 packets transmitted, 284 received, 0% packet loss, time 84919930ms
+2021-09-17 00:00:08 rtt min/avg/max/mdev = 34.091/55.491/171.426/25.839 ms
+
+############## carina - 09/17/21 00:24:48 EST -0500 ##############
+
+2021-09-18 00:05:45 284 packets transmitted, 281 received, 1% packet loss, time 84956387ms
+2021-09-18 00:05:45 rtt min/avg/max/mdev = 30.834/57.082/236.859/27.518 ms
+
+############## carina - 09/18/21 00:24:45 EST -0500 ##############
+
+2021-09-19 00:05:19 284 packets transmitted, 280 received, 1% packet loss, time 84934214ms
+2021-09-19 00:05:19 rtt min/avg/max/mdev = 33.517/58.051/311.790/32.336 ms
+
+############## carina - 09/25/21 00:24:48 EST -0500 ##############
+
+############## carina - 09/25/21 00:24:48 EST -0500 ##############
+
+
+############## carina - 09/27/21 00:24:50 EST -0500 ##############
+
+2021-09-28 00:05:47 284 packets transmitted, 279 received, 1% packet loss, time 84957427ms
+2021-09-28 00:05:47 rtt min/avg/max/mdev = 28.480/49.574/161.162/16.926 ms
+
+############## carina - 09/28/21 00:24:49 EST -0500 ##############
+
+2021-09-29 00:05:09 284 packets transmitted, 283 received, 0% packet loss, time 84920149ms
+2021-09-29 00:05:09 rtt min/avg/max/mdev = 28.316/46.603/180.199/16.316 ms
+
+############## carina - 10/02/21 00:24:50 EST -0500 ##############
+
+2021-10-03 00:00:09 284 packets transmitted, 284 received, 0% packet loss, time 84919354ms
+2021-10-03 00:00:09 rtt min/avg/max/mdev = 29.828/47.880/165.478/19.155 ms
+
+############## carina - 10/03/21 00:24:50 EST -0500 ##############
+
+2021-10-04 00:04:52 284 packets transmitted, 283 received, 0% packet loss, time 84902261ms
+2021-10-04 00:04:52 rtt min/avg/max/mdev = 30.968/48.424/181.476/18.738 ms
+
+############## carina - 10/04/21 00:24:50 EST -0500 ##############
+
+2021-10-05 00:00:09 284 packets transmitted, 284 received, 0% packet loss, time 84919541ms
+2021-10-05 00:00:09 rtt min/avg/max/mdev = 29.279/47.179/117.301/13.425 ms
+
+############## carina - 10/05/21 00:24:50 EST -0500 ##############
+
+2021-10-06 00:00:10 284 packets transmitted, 284 received, 0% packet loss, time 84919921ms
+2021-10-06 00:00:10 rtt min/avg/max/mdev = 29.834/47.650/127.900/13.421 ms
+
+############## carina - 10/06/21 00:24:50 EST -0500 ##############
+
+2021-10-07 00:00:08 284 packets transmitted, 284 received, 0% packet loss, time 84917931ms
+2021-10-07 00:00:08 rtt min/avg/max/mdev = 30.438/47.538/164.941/14.642 ms
+
+############## carina - 10/07/21 00:24:50 EST -0500 ##############
+
+2021-10-08 00:00:10 284 packets transmitted, 284 received, 0% packet loss, time 84920107ms
+2021-10-08 00:00:10 rtt min/avg/max/mdev = 28.429/49.514/159.038/18.044 ms
+
+############## carina - 10/08/21 00:24:51 EST -0500 ##############
+
+2021-10-09 00:00:10 284 packets transmitted, 284 received, 0% packet loss, time 84919507ms
+2021-10-09 00:00:10 rtt min/avg/max/mdev = 29.092/48.442/128.162/14.661 ms
+
+############## carina - 10/09/21 00:24:50 EST -0500 ##############
+
+2021-10-10 00:00:10 284 packets transmitted, 284 received, 0% packet loss, time 84919832ms
+2021-10-10 00:00:10 rtt min/avg/max/mdev = 29.403/46.752/165.389/14.054 ms
+
+############## carina - 10/10/21 00:24:51 EST -0500 ##############
+
+2021-10-11 00:00:11 284 packets transmitted, 284 received, 0% packet loss, time 84919829ms
+2021-10-11 00:00:11 rtt min/avg/max/mdev = 29.730/47.991/168.172/17.253 ms
+
+############## carina - 10/11/21 00:24:50 EST -0500 ##############
+
+2021-10-12 00:00:11 284 packets transmitted, 284 received, 0% packet loss, time 84920604ms
+2021-10-12 00:00:11 rtt min/avg/max/mdev = 31.660/49.311/155.478/14.534 ms
+
+############## carina - 10/12/21 00:24:51 EST -0500 ##############
+
+2021-10-13 00:00:04 284 packets transmitted, 284 received, 0% packet loss, time 84913251ms
+2021-10-13 00:00:04 rtt min/avg/max/mdev = 29.650/46.697/118.029/12.390 ms
+
+############## carina - 10/13/21 00:24:50 EST -0500 ##############
+
+2021-10-14 00:00:09 284 packets transmitted, 284 received, 0% packet loss, time 84918990ms
+2021-10-14 00:00:09 rtt min/avg/max/mdev = 28.029/55.098/306.259/25.335 ms
+
+############## carina - 10/14/21 00:24:53 EST -0500 ##############
+
+2021-10-14 23:59:59 284 packets transmitted, 284 received, 0% packet loss, time 84906063ms
+2021-10-14 23:59:59 rtt min/avg/max/mdev = 33.931/45.800/136.156/13.416 ms
+
+############## carina - 10/15/21 00:24:52 EST -0500 ##############
+
+2021-10-16 00:00:12 284 packets transmitted, 284 received, 0% packet loss, time 84919561ms
+2021-10-16 00:00:12 rtt min/avg/max/mdev = 31.922/47.677/172.710/16.207 ms
+
+############## carina - 10/16/21 00:24:52 EST -0500 ##############
+
+2021-10-17 00:00:11 284 packets transmitted, 284 received, 0% packet loss, time 84919658ms
+2021-10-17 00:00:11 rtt min/avg/max/mdev = 30.260/47.427/295.602/20.763 ms
+
+############## carina - 10/17/21 00:24:52 EST -0500 ##############
+
+2021-10-18 00:00:04 284 packets transmitted, 284 received, 0% packet loss, time 84911288ms
+2021-10-18 00:00:04 rtt min/avg/max/mdev = 31.441/47.009/130.673/14.589 ms
+
+############## carina - 10/18/21 00:24:53 EST -0500 ##############
+
+2021-10-19 00:00:12 284 packets transmitted, 284 received, 0% packet loss, time 84919747ms
+2021-10-19 00:00:12 rtt min/avg/max/mdev = 28.742/46.941/168.257/16.956 ms
+
+############## carina - 10/19/21 00:24:52 EST -0500 ##############
+
+2021-10-20 00:00:12 284 packets transmitted, 284 received, 0% packet loss, time 84919619ms
+2021-10-20 00:00:12 rtt min/avg/max/mdev = 28.852/44.763/138.080/12.472 ms
+
+############## carina - 10/20/21 00:24:53 EST -0500 ##############
+
+2021-10-21 00:00:12 284 packets transmitted, 284 received, 0% packet loss, time 84919682ms
+2021-10-21 00:00:12 rtt min/avg/max/mdev = 29.393/48.687/150.046/16.539 ms
+
+############## carina - 10/21/21 00:24:53 EST -0500 ##############
+
+2021-10-22 00:00:12 284 packets transmitted, 284 received, 0% packet loss, time 84919351ms
+2021-10-22 00:00:12 rtt min/avg/max/mdev = 29.015/48.058/159.597/15.420 ms
+
+############## carina - 10/22/21 00:24:54 EST -0500 ##############
+
+2021-10-23 00:00:11 284 packets transmitted, 284 received, 0% packet loss, time 84916776ms
+2021-10-23 00:00:11 rtt min/avg/max/mdev = 32.873/46.278/159.104/13.717 ms
+
+############## carina - 10/23/21 00:24:53 EST -0500 ##############
+
+2021-10-24 00:00:14 284 packets transmitted, 284 received, 0% packet loss, time 84920298ms
+2021-10-24 00:00:14 rtt min/avg/max/mdev = 28.819/48.715/245.851/22.203 ms
+
+############## carina - 10/24/21 00:24:54 EST -0500 ##############
+
+2021-10-25 00:00:14 284 packets transmitted, 284 received, 0% packet loss, time 84920330ms
+2021-10-25 00:00:14 rtt min/avg/max/mdev = 30.530/45.394/151.285/13.952 ms
+
+############## carina - 10/25/21 00:24:54 EST -0500 ##############
+
+2021-10-26 00:05:06 284 packets transmitted, 283 received, 0% packet loss, time 84911392ms
+2021-10-26 00:05:06 rtt min/avg/max/mdev = 29.610/45.791/159.562/13.929 ms
+
+############## carina - 10/26/21 00:24:55 EST -0500 ##############
+
+2021-10-26 23:59:57 284 packets transmitted, 284 received, 0% packet loss, time 84902026ms
+2021-10-26 23:59:57 rtt min/avg/max/mdev = 30.223/46.668/124.481/14.640 ms
+
+############## carina - 10/27/21 00:24:54 EST -0500 ##############
+
+2021-10-27 23:59:56 284 packets transmitted, 284 received, 0% packet loss, time 84901909ms
+2021-10-27 23:59:56 rtt min/avg/max/mdev = 29.947/50.432/643.286/40.288 ms
+
+############## carina - 10/28/21 00:24:56 EST -0500 ##############
+
+2021-10-28 23:59:58 284 packets transmitted, 284 received, 0% packet loss, time 84901898ms
+2021-10-28 23:59:58 rtt min/avg/max/mdev = 28.701/49.404/426.448/26.766 ms
+
+############## carina - 10/31/21 00:24:55 EST -0500 ##############
+
+2021-10-29 01:59:56 64 bytes from 8.8.8.8: icmp_seq=20 ttl=54 time=44.4 ms
+2021-10-29 02:04:56 64 bytes from 8.8.8.8: icmp_seq=21 ttl=54 time=59.0 ms
+
+############## carina - 11/01/21 00:24:56 EST -0500 ##############
+
+2021-11-02 00:00:16 284 packets transmitted, 284 received, 0% packet loss, time 84920393ms
+2021-11-02 00:00:16 rtt min/avg/max/mdev = 28.055/49.375/163.301/18.894 ms
+
+############## carina - 11/02/21 00:24:56 EST -0500 ##############
+
+2021-11-03 00:00:16 284 packets transmitted, 284 received, 0% packet loss, time 84919261ms
+2021-11-03 00:00:16 rtt min/avg/max/mdev = 30.633/47.008/159.908/15.405 ms
+
+############## carina - 11/03/21 00:24:57 EST -0500 ##############
+
+2021-11-04 00:05:17 284 packets transmitted, 283 received, 0% packet loss, time 84919612ms
+2021-11-04 00:05:17 rtt min/avg/max/mdev = 31.732/50.594/363.529/26.899 ms
+
+############## carina - 11/04/21 00:24:57 EST -0500 ##############
+
+2021-11-05 00:00:15 284 packets transmitted, 284 received, 0% packet loss, time 84918174ms
+2021-11-05 00:00:15 rtt min/avg/max/mdev = 30.149/46.200/189.770/17.933 ms
+
+############## carina - 11/05/21 00:25:00 EST -0500 ##############
+
+2021-11-06 00:00:20 284 packets transmitted, 284 received, 0% packet loss, time 84919379ms
+2021-11-06 00:00:20 rtt min/avg/max/mdev = 30.926/46.567/116.258/12.387 ms
+
+############## carina - 11/06/21 00:25:00 EST -0500 ##############
+
+2021-11-07 00:00:20 284 packets transmitted, 284 received, 0% packet loss, time 84920184ms
+2021-11-07 00:00:20 rtt min/avg/max/mdev = 29.657/44.181/116.163/10.586 ms
+
+############## carina - 11/07/21 00:25:00 EST -0500 ##############
+
+2021-11-08 00:00:19 284 packets transmitted, 284 received, 0% packet loss, time 84918814ms
+2021-11-08 00:00:19 rtt min/avg/max/mdev = 29.591/47.615/156.308/18.846 ms
+
+############## carina - 11/08/21 00:25:01 EST -0500 ##############
+
+2021-11-09 00:00:21 284 packets transmitted, 284 received, 0% packet loss, time 84919668ms
+2021-11-09 00:00:21 rtt min/avg/max/mdev = 30.736/48.041/148.252/18.880 ms
+
+############## carina - 11/09/21 00:25:01 EST -0500 ##############
+
+2021-11-10 00:00:21 284 packets transmitted, 284 received, 0% packet loss, time 84919107ms
+2021-11-10 00:00:21 rtt min/avg/max/mdev = 29.854/45.140/119.608/11.708 ms
+
+############## carina - 11/10/21 00:25:01 EST -0500 ##############
+
+2021-11-11 00:00:20 284 packets transmitted, 284 received, 0% packet loss, time 84918887ms
+2021-11-11 00:00:20 rtt min/avg/max/mdev = 27.589/47.082/148.608/16.693 ms
+
+############## carina - 11/11/21 00:25:02 EST -0500 ##############
+
+2021-11-12 00:00:21 284 packets transmitted, 284 received, 0% packet loss, time 84919126ms
+2021-11-12 00:00:21 rtt min/avg/max/mdev = 28.479/48.245/137.699/16.655 ms
+
+############## carina - 11/12/21 00:25:03 EST -0500 ##############
+
+2021-11-13 00:00:23 284 packets transmitted, 284 received, 0% packet loss, time 84919707ms
+2021-11-13 00:00:23 rtt min/avg/max/mdev = 30.375/47.650/261.826/18.695 ms
+
+############## carina - 11/13/21 00:25:02 EST -0500 ##############
+
+2021-11-14 00:00:21 284 packets transmitted, 284 received, 0% packet loss, time 84918980ms
+2021-11-14 00:00:21 rtt min/avg/max/mdev = 28.310/45.412/133.828/13.246 ms
+
+############## carina - 11/14/21 00:25:03 EST -0500 ##############
+
+2021-11-15 00:00:22 284 packets transmitted, 284 received, 0% packet loss, time 84919217ms
+2021-11-15 00:00:22 rtt min/avg/max/mdev = 29.185/45.476/120.293/12.542 ms
+
+############## carina - 11/15/21 00:25:05 EST -0500 ##############
+
+2021-11-16 00:00:24 284 packets transmitted, 284 received, 0% packet loss, time 84918756ms
+2021-11-16 00:00:24 rtt min/avg/max/mdev = 33.070/47.458/232.390/20.076 ms
+
+############## carina - 11/16/21 00:25:05 EST -0500 ##############
+
+2021-11-17 00:00:24 284 packets transmitted, 284 received, 0% packet loss, time 84918528ms
+2021-11-17 00:00:24 rtt min/avg/max/mdev = 33.270/47.806/152.427/14.548 ms
+
+############## carina - 11/17/21 00:25:05 EST -0500 ##############
+
+2021-11-18 00:00:25 284 packets transmitted, 284 received, 0% packet loss, time 84919104ms
+2021-11-18 00:00:25 rtt min/avg/max/mdev = 33.008/43.873/120.302/10.400 ms
+
+############## carina - 11/18/21 00:25:06 EST -0500 ##############
+
+2021-11-19 00:00:26 284 packets transmitted, 284 received, 0% packet loss, time 84920125ms
+2021-11-19 00:00:26 rtt min/avg/max/mdev = 31.696/44.573/124.104/11.811 ms
+
+############## carina - 11/19/21 00:25:06 EST -0500 ##############
+
+2021-11-20 00:00:26 284 packets transmitted, 284 received, 0% packet loss, time 84919279ms
+2021-11-20 00:00:26 rtt min/avg/max/mdev = 32.082/52.020/199.822/16.895 ms
+
+############## carina - 11/20/21 00:25:07 EST -0500 ##############
+
+2021-11-21 00:00:27 284 packets transmitted, 284 received, 0% packet loss, time 84919598ms
+2021-11-21 00:00:27 rtt min/avg/max/mdev = 32.024/45.605/120.308/13.242 ms
+
+############## carina - 11/21/21 00:25:08 EST -0500 ##############
+
+2021-11-22 00:00:28 284 packets transmitted, 284 received, 0% packet loss, time 84919369ms
+2021-11-22 00:00:28 rtt min/avg/max/mdev = 28.367/50.980/647.969/39.956 ms
+
+############## carina - 11/22/21 00:25:11 EST -0500 ##############
+
+2021-11-23 00:00:31 284 packets transmitted, 284 received, 0% packet loss, time 84919443ms
+2021-11-23 00:00:31 rtt min/avg/max/mdev = 31.288/46.239/290.325/18.814 ms
+
+############## carina - 11/23/21 00:25:10 EST -0500 ##############
+
+2021-11-24 00:00:30 284 packets transmitted, 284 received, 0% packet loss, time 84919249ms
+2021-11-24 00:00:30 rtt min/avg/max/mdev = 30.248/46.854/127.736/15.512 ms
+
+############## carina - 11/24/21 00:25:11 EST -0500 ##############
+
+2021-11-25 00:00:30 284 packets transmitted, 284 received, 0% packet loss, time 84918736ms
+2021-11-25 00:00:30 rtt min/avg/max/mdev = 29.073/46.213/121.717/14.629 ms
+
+############## carina - 11/25/21 00:25:13 EST -0500 ##############
+
+2021-11-26 00:00:33 284 packets transmitted, 284 received, 0% packet loss, time 84920451ms
+2021-11-26 00:00:33 rtt min/avg/max/mdev = 29.531/49.624/127.764/18.069 ms
+
+############## carina - 11/26/21 00:25:16 EST -0500 ##############
+
+2021-11-27 00:00:35 284 packets transmitted, 284 received, 0% packet loss, time 84919267ms
+2021-11-27 00:00:35 rtt min/avg/max/mdev = 28.361/46.416/121.480/13.948 ms
+
+############## carina - 11/27/21 00:25:15 EST -0500 ##############
+
+2021-11-28 00:00:34 284 packets transmitted, 284 received, 0% packet loss, time 84918531ms
+2021-11-28 00:00:34 rtt min/avg/max/mdev = 30.335/47.014/173.725/17.761 ms
+
+############## carina - 11/28/21 00:25:16 EST -0500 ##############
+
+2021-11-29 00:00:35 284 packets transmitted, 284 received, 0% packet loss, time 84919518ms
+2021-11-29 00:00:35 rtt min/avg/max/mdev = 30.511/49.050/127.668/17.470 ms
+
+############## carina - 11/29/21 00:25:17 EST -0500 ##############
+
+2021-11-30 00:00:37 284 packets transmitted, 284 received, 0% packet loss, time 84919781ms
+2021-11-30 00:00:37 rtt min/avg/max/mdev = 28.835/47.580/388.960/24.010 ms
+
+############## carina - 11/30/21 00:25:18 EST -0500 ##############
+
+2021-12-01 00:00:37 284 packets transmitted, 284 received, 0% packet loss, time 84919347ms
+2021-12-01 00:00:37 rtt min/avg/max/mdev = 29.428/46.058/362.154/22.872 ms
+
+############## carina - 12/01/21 00:25:18 EST -0500 ##############
+
+2021-12-02 00:00:38 284 packets transmitted, 284 received, 0% packet loss, time 84920247ms
+2021-12-02 00:00:38 rtt min/avg/max/mdev = 28.223/52.613/255.251/26.995 ms
+
+############## carina - 12/02/21 00:25:18 EST -0500 ##############
+
+2021-12-03 00:00:37 284 packets transmitted, 284 received, 0% packet loss, time 84919192ms
+2021-12-03 00:00:37 rtt min/avg/max/mdev = 29.872/52.797/317.089/28.401 ms
+
+############## carina - 12/03/21 00:25:19 EST -0500 ##############
+
+2021-12-04 00:00:38 284 packets transmitted, 284 received, 0% packet loss, time 84919265ms
+2021-12-04 00:00:38 rtt min/avg/max/mdev = 32.674/49.345/246.840/20.521 ms
+
+############## carina - 12/04/21 00:25:20 EST -0500 ##############
+
+2021-12-05 00:00:39 284 packets transmitted, 284 received, 0% packet loss, time 84918536ms
+2021-12-05 00:00:39 rtt min/avg/max/mdev = 32.861/48.062/126.321/15.647 ms
+
+############## carina - 12/05/21 00:25:19 EST -0500 ##############
+
+2021-12-06 00:00:38 284 packets transmitted, 284 received, 0% packet loss, time 84918673ms
+2021-12-06 00:00:38 rtt min/avg/max/mdev = 29.123/46.778/133.052/15.151 ms
+
+############## carina - 12/06/21 00:25:21 EST -0500 ##############
+
+2021-12-07 00:00:41 284 packets transmitted, 284 received, 0% packet loss, time 84919430ms
+2021-12-07 00:00:41 rtt min/avg/max/mdev = 28.919/48.151/212.958/18.808 ms
+
+############## carina - 12/07/21 00:25:20 EST -0500 ##############
+
+2021-12-08 00:00:40 284 packets transmitted, 284 received, 0% packet loss, time 84920082ms
+2021-12-08 00:00:40 rtt min/avg/max/mdev = 30.146/48.622/132.048/19.163 ms
+
+############## carina - 12/08/21 00:25:22 EST -0500 ##############
+
+2021-12-09 00:00:41 284 packets transmitted, 284 received, 0% packet loss, time 84918632ms
+2021-12-09 00:00:41 rtt min/avg/max/mdev = 30.843/48.212/128.589/16.079 ms
+
+############## carina - 12/09/21 00:25:23 EST -0500 ##############
+
+2021-12-10 00:00:42 284 packets transmitted, 284 received, 0% packet loss, time 84919342ms
+2021-12-10 00:00:42 rtt min/avg/max/mdev = 29.871/47.517/381.073/24.739 ms
+
+############## carina - 12/10/21 00:25:24 EST -0500 ##############
+
+2021-12-11 00:00:44 284 packets transmitted, 284 received, 0% packet loss, time 84919601ms
+2021-12-11 00:00:44 rtt min/avg/max/mdev = 31.022/48.421/516.173/31.277 ms
+
+############## carina - 12/11/21 00:25:25 EST -0500 ##############
+
+2021-12-12 00:00:44 284 packets transmitted, 284 received, 0% packet loss, time 84919598ms
+2021-12-12 00:00:44 rtt min/avg/max/mdev = 31.502/47.863/130.685/16.218 ms
+
+############## carina - 12/12/21 00:25:26 EST -0500 ##############
+
+2021-12-13 00:00:45 284 packets transmitted, 284 received, 0% packet loss, time 84918708ms
+2021-12-13 00:00:45 rtt min/avg/max/mdev = 30.734/45.486/130.734/14.289 ms
+
+############## carina - 12/13/21 00:25:27 EST -0500 ##############
+
+2021-12-14 00:00:46 284 packets transmitted, 284 received, 0% packet loss, time 84919223ms
+2021-12-14 00:00:46 rtt min/avg/max/mdev = 29.529/45.124/155.516/13.729 ms
+
+############## carina - 12/14/21 00:25:27 EST -0500 ##############
+
+2021-12-15 00:00:46 284 packets transmitted, 284 received, 0% packet loss, time 84919594ms
+2021-12-15 00:00:46 rtt min/avg/max/mdev = 30.651/48.746/150.042/18.319 ms
+
+############## carina - 12/15/21 00:25:28 EST -0500 ##############
+
+2021-12-16 00:00:48 284 packets transmitted, 284 received, 0% packet loss, time 84919692ms
+2021-12-16 00:00:48 rtt min/avg/max/mdev = 31.528/46.902/135.360/13.806 ms
+
+############## carina - 12/16/21 00:25:29 EST -0500 ##############
+
+2021-12-17 00:00:48 284 packets transmitted, 284 received, 0% packet loss, time 84918724ms
+2021-12-17 00:00:48 rtt min/avg/max/mdev = 31.074/51.325/127.213/16.223 ms
+
+############## carina - 12/17/21 00:25:29 EST -0500 ##############
+
+2021-12-18 00:00:48 284 packets transmitted, 284 received, 0% packet loss, time 84919095ms
+2021-12-18 00:00:48 rtt min/avg/max/mdev = 31.226/46.681/197.735/18.496 ms
+
+############## carina - 12/18/21 00:25:29 EST -0500 ##############
+
+2021-12-19 00:00:48 284 packets transmitted, 284 received, 0% packet loss, time 84919289ms
+2021-12-19 00:00:48 rtt min/avg/max/mdev = 29.674/45.060/128.001/13.881 ms
+
+############## carina - 12/19/21 00:25:29 EST -0500 ##############
+
+2021-12-20 00:00:49 284 packets transmitted, 284 received, 0% packet loss, time 84919269ms
+2021-12-20 00:00:49 rtt min/avg/max/mdev = 28.667/45.926/152.418/15.727 ms
+
+############## carina - 12/20/21 00:25:32 EST -0500 ##############
+
+2021-12-21 00:00:51 284 packets transmitted, 284 received, 0% packet loss, time 84918657ms
+2021-12-21 00:00:51 rtt min/avg/max/mdev = 30.125/48.262/125.022/14.633 ms
+
+############## carina - 12/21/21 00:25:32 EST -0500 ##############
+
+2021-12-22 00:05:56 284 packets transmitted, 283 received, 0% packet loss, time 84923926ms
+2021-12-22 00:05:56 rtt min/avg/max/mdev = 30.131/44.498/124.668/12.619 ms
+
+############## carina - 12/22/21 00:25:34 EST -0500 ##############
+
+2021-12-23 00:00:54 284 packets transmitted, 284 received, 0% packet loss, time 84920000ms
+2021-12-23 00:00:54 rtt min/avg/max/mdev = 32.030/45.820/288.034/20.847 ms
+
+############## carina - 12/23/21 00:25:34 EST -0500 ##############
+
+2021-12-24 00:00:53 284 packets transmitted, 284 received, 0% packet loss, time 84918979ms
+2021-12-24 00:00:53 rtt min/avg/max/mdev = 33.509/46.179/124.768/13.900 ms
+
+############## carina - 12/24/21 00:25:37 EST -0500 ##############
+
+2021-12-25 00:00:56 284 packets transmitted, 284 received, 0% packet loss, time 84918759ms
+2021-12-25 00:00:56 rtt min/avg/max/mdev = 31.453/49.014/135.559/16.554 ms
+
+############## carina - 12/25/21 00:25:35 EST -0500 ##############
+
+2021-12-26 00:00:54 284 packets transmitted, 284 received, 0% packet loss, time 84919091ms
+2021-12-26 00:00:54 rtt min/avg/max/mdev = 30.353/48.673/493.385/29.959 ms
+
+############## carina - 12/26/21 00:25:35 EST -0500 ##############
+
+2021-12-27 00:00:55 284 packets transmitted, 284 received, 0% packet loss, time 84919185ms
+2021-12-27 00:00:55 rtt min/avg/max/mdev = 34.016/51.036/126.451/15.637 ms
+
+############## carina - 12/27/21 00:25:36 EST -0500 ##############
+
+2021-12-28 00:05:56 284 packets transmitted, 283 received, 0% packet loss, time 84920278ms
+2021-12-28 00:05:56 rtt min/avg/max/mdev = 28.631/45.192/113.846/12.449 ms
+
+############## carina - 12/28/21 00:25:36 EST -0500 ##############
+
+2021-12-29 00:00:56 284 packets transmitted, 284 received, 0% packet loss, time 84919568ms
+2021-12-29 00:00:56 rtt min/avg/max/mdev = 30.559/46.352/117.515/14.543 ms
+
+############## carina - 12/29/21 00:25:37 EST -0500 ##############
+
+2021-12-30 00:00:57 284 packets transmitted, 284 received, 0% packet loss, time 84920060ms
+2021-12-30 00:00:57 rtt min/avg/max/mdev = 31.227/51.125/252.563/22.140 ms
+
+############## carina - 12/30/21 00:25:37 EST -0500 ##############
+
+2021-12-31 00:00:56 284 packets transmitted, 284 received, 0% packet loss, time 84919077ms
+2021-12-31 00:00:56 rtt min/avg/max/mdev = 29.082/49.272/115.710/15.358 ms
+
+############## carina - 12/31/21 00:25:38 EST -0500 ##############
+
+2022-01-01 00:00:57 284 packets transmitted, 284 received, 0% packet loss, time 84918770ms
+2022-01-01 00:00:57 rtt min/avg/max/mdev = 32.771/45.626/166.107/16.162 ms
+
+############## carina - 01/01/22 00:25:38 EST -0500 ##############
+
+2022-01-02 00:00:56 284 packets transmitted, 284 received, 0% packet loss, time 84918314ms
+2022-01-02 00:00:56 rtt min/avg/max/mdev = 28.433/46.233/123.612/14.142 ms
+
+############## carina - 01/02/22 00:25:39 EST -0500 ##############
+
+2022-01-03 00:00:57 284 packets transmitted, 284 received, 0% packet loss, time 84918239ms
+2022-01-03 00:00:57 rtt min/avg/max/mdev = 31.904/48.470/244.127/19.790 ms
+
+############## carina - 01/03/22 00:25:38 EST -0500 ##############
+
+2022-01-04 00:05:46 284 packets transmitted, 283 received, 0% packet loss, time 84908245ms
+2022-01-04 00:05:46 rtt min/avg/max/mdev = 32.991/53.757/154.665/19.237 ms
+
+############## carina - 01/04/22 00:25:39 EST -0500 ##############
+
+2022-01-05 00:00:59 284 packets transmitted, 284 received, 0% packet loss, time 84920002ms
+2022-01-05 00:00:59 rtt min/avg/max/mdev = 30.128/43.391/92.114/8.374 ms
+
+############## carina - 01/05/22 00:25:42 EST -0500 ##############
+
+2022-01-06 00:00:52 284 packets transmitted, 284 received, 0% packet loss, time 84910001ms
+2022-01-06 00:00:52 rtt min/avg/max/mdev = 30.008/55.989/707.647/42.714 ms
+
+############## carina - 01/06/22 00:25:42 EST -0500 ##############
+
+2022-01-07 00:00:51 284 packets transmitted, 284 received, 0% packet loss, time 84908888ms
+2022-01-07 00:00:51 rtt min/avg/max/mdev = 31.142/53.304/512.364/34.566 ms
+
+############## carina - 01/07/22 00:25:43 EST -0500 ##############
+
+2022-01-08 00:01:01 284 packets transmitted, 284 received, 0% packet loss, time 84918471ms
+2022-01-08 00:01:01 rtt min/avg/max/mdev = 30.628/47.389/135.692/14.985 ms
+
+############## carina - 01/08/22 00:25:44 EST -0500 ##############
+
+2022-01-09 00:01:04 284 packets transmitted, 284 received, 0% packet loss, time 84919522ms
+2022-01-09 00:01:04 rtt min/avg/max/mdev = 33.724/58.288/175.884/20.841 ms
+
+############## carina - 01/09/22 00:25:46 EST -0500 ##############
+
+2022-01-10 00:01:05 284 packets transmitted, 284 received, 0% packet loss, time 84918556ms
+2022-01-10 00:01:05 rtt min/avg/max/mdev = 28.822/50.512/385.304/32.698 ms
+
+############## carina - 01/10/22 00:25:47 EST -0500 ##############
+
+2022-01-11 00:01:06 284 packets transmitted, 284 received, 0% packet loss, time 84918731ms
+2022-01-11 00:01:06 rtt min/avg/max/mdev = 30.550/51.914/163.235/21.603 ms
+
+############## carina - 01/11/22 00:25:49 EST -0500 ##############
+
+2022-01-12 00:06:27 284 packets transmitted, 281 received, 1% packet loss, time 84937544ms
+2022-01-12 00:06:27 rtt min/avg/max/mdev = 32.228/49.583/152.627/17.958 ms
+
+############## carina - 01/12/22 00:25:51 EST -0500 ##############
+
+2022-01-13 00:01:10 284 packets transmitted, 284 received, 0% packet loss, time 84918944ms
+2022-01-13 00:01:10 rtt min/avg/max/mdev = 28.117/45.057/113.253/12.160 ms
+
+############## carina - 01/13/22 00:25:53 EST -0500 ##############
+
+2022-01-14 00:01:13 284 packets transmitted, 284 received, 0% packet loss, time 84919963ms
+2022-01-14 00:01:13 rtt min/avg/max/mdev = 30.558/56.203/270.048/26.936 ms
+
+############## carina - 01/14/22 00:25:56 EST -0500 ##############
+
+2022-01-15 00:01:15 284 packets transmitted, 284 received, 0% packet loss, time 84918986ms
+2022-01-15 00:01:15 rtt min/avg/max/mdev = 32.728/46.339/131.934/15.179 ms
+
+############## carina - 01/15/22 00:25:54 EST -0500 ##############
+
+2022-01-16 00:01:14 284 packets transmitted, 284 received, 0% packet loss, time 84919372ms
+2022-01-16 00:01:14 rtt min/avg/max/mdev = 29.415/49.440/240.635/23.031 ms
+
+############## carina - 01/16/22 00:25:55 EST -0500 ##############
+
+2022-01-17 00:01:15 284 packets transmitted, 284 received, 0% packet loss, time 84920065ms
+2022-01-17 00:01:15 rtt min/avg/max/mdev = 28.622/51.771/208.593/23.004 ms
+
+############## carina - 01/17/22 00:25:57 EST -0500 ##############
+
+2022-01-18 00:01:16 284 packets transmitted, 284 received, 0% packet loss, time 84918964ms
+2022-01-18 00:01:16 rtt min/avg/max/mdev = 29.757/55.921/319.036/25.419 ms
+
+############## carina - 01/18/22 00:25:59 EST -0500 ##############
+
+2022-01-19 00:06:20 284 packets transmitted, 283 received, 0% packet loss, time 84920822ms
+2022-01-19 00:06:20 rtt min/avg/max/mdev = 29.531/50.420/176.153/21.159 ms
+
+############## carina - 01/19/22 00:26:00 EST -0500 ##############
+
+2022-01-20 00:01:20 284 packets transmitted, 284 received, 0% packet loss, time 84919819ms
+2022-01-20 00:01:20 rtt min/avg/max/mdev = 27.676/47.783/151.897/17.943 ms
+
+############## carina - 01/20/22 00:26:01 EST -0500 ##############
+
+2022-01-21 00:01:21 284 packets transmitted, 284 received, 0% packet loss, time 84919027ms
+2022-01-21 00:01:21 rtt min/avg/max/mdev = 33.123/47.704/124.205/14.477 ms
+
+############## carina - 01/21/22 00:26:03 EST -0500 ##############
+
+2022-01-22 00:06:31 284 packets transmitted, 283 received, 0% packet loss, time 84928429ms
+2022-01-22 00:06:31 rtt min/avg/max/mdev = 30.311/44.898/120.684/13.755 ms
+
+############## carina - 01/22/22 00:26:04 EST -0500 ##############
+
+2022-01-23 00:01:24 284 packets transmitted, 284 received, 0% packet loss, time 84919552ms
+2022-01-23 00:01:24 rtt min/avg/max/mdev = 32.208/49.318/124.294/18.290 ms
+
+############## carina - 01/23/22 00:26:08 EST -0500 ##############
+
+2022-01-24 00:01:27 284 packets transmitted, 284 received, 0% packet loss, time 84918985ms
+2022-01-24 00:01:27 rtt min/avg/max/mdev = 28.545/50.267/136.979/20.094 ms
+
+############## carina - 01/24/22 00:26:09 EST -0500 ##############
+
+2022-01-25 00:01:29 284 packets transmitted, 284 received, 0% packet loss, time 84919714ms
+2022-01-25 00:01:29 rtt min/avg/max/mdev = 33.684/53.008/399.620/26.125 ms
+
+############## carina - 01/25/22 00:26:09 EST -0500 ##############
+
+2022-01-26 00:06:48 284 packets transmitted, 282 received, 0% packet loss, time 84938512ms
+2022-01-26 00:06:48 rtt min/avg/max/mdev = 33.756/61.304/191.173/25.734 ms
+
+############## carina - 01/26/22 00:26:10 EST -0500 ##############
+
+2022-01-27 00:01:29 284 packets transmitted, 284 received, 0% packet loss, time 84918709ms
+2022-01-27 00:01:29 rtt min/avg/max/mdev = 33.847/54.027/144.942/18.514 ms
+
+############## carina - 01/27/22 00:26:12 EST -0500 ##############
+
+2022-01-28 00:01:31 284 packets transmitted, 284 received, 0% packet loss, time 84919201ms
+2022-01-28 00:01:31 rtt min/avg/max/mdev = 28.586/51.848/212.443/17.334 ms
+
+############## carina - 01/28/22 00:26:14 EST -0500 ##############
+
+2022-01-29 00:06:41 284 packets transmitted, 283 received, 0% packet loss, time 84926685ms
+2022-01-29 00:06:41 rtt min/avg/max/mdev = 31.932/50.654/128.953/18.151 ms
+
+############## carina - 01/29/22 00:26:17 EST -0500 ##############
+
+2022-01-30 00:06:43 284 packets transmitted, 283 received, 0% packet loss, time 84926339ms
+2022-01-30 00:06:43 rtt min/avg/max/mdev = 31.148/62.308/225.842/25.799 ms
+
+############## carina - 01/30/22 00:26:18 EST -0500 ##############
+
+2022-01-31 00:01:38 284 packets transmitted, 284 received, 0% packet loss, time 84919642ms
+2022-01-31 00:01:38 rtt min/avg/max/mdev = 34.632/65.194/563.479/45.311 ms
+
+############## carina - 01/31/22 00:26:20 EST -0500 ##############
+
+2022-02-01 00:01:40 284 packets transmitted, 284 received, 0% packet loss, time 84919622ms
+2022-02-01 00:01:40 rtt min/avg/max/mdev = 31.624/51.085/326.544/22.367 ms
+
+############## carina - 02/02/22 00:26:21 EST -0500 ##############
+
+2022-02-03 00:01:41 284 packets transmitted, 284 received, 0% packet loss, time 84919659ms
+2022-02-03 00:01:41 rtt min/avg/max/mdev = 29.238/49.483/120.849/17.515 ms
+
+############## carina - 02/03/22 00:26:23 EST -0500 ##############
+
+2022-02-04 00:01:42 284 packets transmitted, 284 received, 0% packet loss, time 84918641ms
+2022-02-04 00:01:42 rtt min/avg/max/mdev = 29.892/54.843/267.767/26.795 ms
+
+############## carina - 02/04/22 00:26:24 EST -0500 ##############
+
+2022-02-05 00:01:43 284 packets transmitted, 284 received, 0% packet loss, time 84919323ms
+2022-02-05 00:01:43 rtt min/avg/max/mdev = 29.109/46.641/124.027/14.740 ms
+
+############## carina - 02/05/22 00:26:24 EST -0500 ##############
+
+2022-02-06 00:01:43 284 packets transmitted, 284 received, 0% packet loss, time 84918892ms
+2022-02-06 00:01:43 rtt min/avg/max/mdev = 30.151/47.027/125.511/17.605 ms
+
+############## carina - 02/06/22 00:26:27 EST -0500 ##############
+
+2022-02-07 00:01:46 284 packets transmitted, 284 received, 0% packet loss, time 84919349ms
+2022-02-07 00:01:46 rtt min/avg/max/mdev = 29.301/47.202/152.156/16.605 ms
+
+############## carina - 02/07/22 00:26:28 EST -0500 ##############
+
+2022-02-08 00:01:48 284 packets transmitted, 284 received, 0% packet loss, time 84919552ms
+2022-02-08 00:01:48 rtt min/avg/max/mdev = 26.929/47.644/150.741/17.042 ms
+
+############## carina - 02/08/22 00:26:29 EST -0500 ##############
+
+2022-02-09 00:01:49 284 packets transmitted, 284 received, 0% packet loss, time 84919824ms
+2022-02-09 00:01:49 rtt min/avg/max/mdev = 30.125/46.095/152.876/16.078 ms
+
+############## carina - 02/09/22 00:26:31 EST -0500 ##############
+
+2022-02-10 00:01:51 284 packets transmitted, 284 received, 0% packet loss, time 84919516ms
+2022-02-10 00:01:51 rtt min/avg/max/mdev = 29.420/46.003/151.216/15.384 ms
+
+############## carina - 02/10/22 00:26:31 EST -0500 ##############
+
+2022-02-11 00:06:59 284 packets transmitted, 283 received, 0% packet loss, time 84927911ms
+2022-02-11 00:06:59 rtt min/avg/max/mdev = 30.721/60.463/317.295/43.263 ms
+
+############## carina - 02/11/22 00:26:32 EST -0500 ##############
+
+2022-02-12 00:01:52 284 packets transmitted, 284 received, 0% packet loss, time 84920007ms
+2022-02-12 00:01:52 rtt min/avg/max/mdev = 32.531/46.797/156.291/15.997 ms
+
+############## carina - 02/12/22 00:26:33 EST -0500 ##############
+
+2022-02-13 00:01:54 284 packets transmitted, 284 received, 0% packet loss, time 84920605ms
+2022-02-13 00:01:54 rtt min/avg/max/mdev = 29.144/51.035/133.402/21.452 ms
+
+############## carina - 02/13/22 00:26:33 EST -0500 ##############
+
+2022-02-14 00:01:51 284 packets transmitted, 284 received, 0% packet loss, time 84918255ms
+2022-02-14 00:01:51 rtt min/avg/max/mdev = 31.316/48.108/130.474/16.241 ms
+
+############## carina - 02/14/22 00:26:34 EST -0500 ##############
+
+2022-02-15 00:01:54 284 packets transmitted, 284 received, 0% packet loss, time 84919403ms
+2022-02-15 00:01:54 rtt min/avg/max/mdev = 29.992/53.632/302.117/25.193 ms
+
+############## carina - 02/15/22 00:26:36 EST -0500 ##############
+
+2022-02-16 00:01:56 284 packets transmitted, 284 received, 0% packet loss, time 84919486ms
+2022-02-16 00:01:56 rtt min/avg/max/mdev = 29.310/45.321/118.492/13.543 ms
+
+############## carina - 02/16/22 00:26:37 EST -0500 ##############
+
+2022-02-17 00:01:58 284 packets transmitted, 284 received, 0% packet loss, time 84920102ms
+2022-02-17 00:01:58 rtt min/avg/max/mdev = 32.570/47.971/491.994/29.570 ms
+
+############## carina - 02/17/22 00:26:40 EST -0500 ##############
+
+2022-02-18 00:01:59 284 packets transmitted, 284 received, 0% packet loss, time 84919391ms
+2022-02-18 00:01:59 rtt min/avg/max/mdev = 29.454/47.382/118.672/14.060 ms
+
+############## carina - 02/18/22 00:26:39 EST -0500 ##############
+
+2022-02-19 00:01:59 284 packets transmitted, 284 received, 0% packet loss, time 84919787ms
+2022-02-19 00:01:59 rtt min/avg/max/mdev = 29.006/49.093/445.224/27.402 ms
+
+############## carina - 02/19/22 00:26:39 EST -0500 ##############
+
+2022-02-20 00:01:58 284 packets transmitted, 284 received, 0% packet loss, time 84918623ms
+2022-02-20 00:01:58 rtt min/avg/max/mdev = 31.428/48.398/127.018/16.815 ms
+
+############## carina - 02/20/22 00:26:42 EST -0500 ##############
+
+2022-02-21 00:02:01 284 packets transmitted, 284 received, 0% packet loss, time 84918778ms
+2022-02-21 00:02:01 rtt min/avg/max/mdev = 29.185/48.683/136.891/15.181 ms
+
+############## carina - 02/21/22 00:26:43 EST -0500 ##############
+
+2022-02-22 00:02:02 284 packets transmitted, 284 received, 0% packet loss, time 84919151ms
+2022-02-22 00:02:02 rtt min/avg/max/mdev = 31.787/52.139/231.995/21.343 ms
+
+############## carina - 02/22/22 00:26:43 EST -0500 ##############
+
+2022-02-23 00:02:02 284 packets transmitted, 284 received, 0% packet loss, time 84918635ms
+2022-02-23 00:02:02 rtt min/avg/max/mdev = 28.938/47.279/213.591/18.042 ms
+
+############## carina - 02/23/22 00:26:43 EST -0500 ##############
+
+2022-02-24 00:02:01 284 packets transmitted, 284 received, 0% packet loss, time 84918333ms
+2022-02-24 00:02:01 rtt min/avg/max/mdev = 31.193/45.868/125.954/14.357 ms
+
+############## carina - 02/26/22 00:26:47 EST -0500 ##############
+
+2022-02-27 00:07:06 284 packets transmitted, 283 received, 0% packet loss, time 84919269ms
+2022-02-27 00:07:06 rtt min/avg/max/mdev = 34.482/64.649/182.086/24.343 ms
+
+############## carina - 02/27/22 00:26:46 EST -0500 ##############
+
+2022-02-28 00:07:21 284 packets transmitted, 282 received, 0% packet loss, time 84935296ms
+2022-02-28 00:07:21 rtt min/avg/max/mdev = 30.319/73.213/1234.599/78.866 ms
+
+############## carina - 02/28/22 00:26:47 EST -0500 ##############
+
+2022-03-01 00:07:07 284 packets transmitted, 283 received, 0% packet loss, time 84919698ms
+2022-03-01 00:07:07 rtt min/avg/max/mdev = 34.358/61.765/315.560/26.407 ms
+
+############## carina - 03/02/22 00:26:49 EST -0500 ##############
+
+2022-03-03 00:02:07 284 packets transmitted, 284 received, 0% packet loss, time 84918537ms
+2022-03-03 00:02:07 rtt min/avg/max/mdev = 35.544/63.267/518.669/38.901 ms
+
+############## carina - 03/03/22 00:26:48 EST -0500 ##############
+
+2022-03-04 00:07:07 284 packets transmitted, 283 received, 0% packet loss, time 84918915ms
+2022-03-04 00:07:07 rtt min/avg/max/mdev = 30.585/90.028/3919.784/288.139 ms
+
+############## carina - 03/04/22 00:26:49 EST -0500 ##############
+
+2022-03-05 00:07:09 284 packets transmitted, 282 received, 0% packet loss, time 84919412ms
+2022-03-05 00:07:09 rtt min/avg/max/mdev = 34.461/68.255/1476.342/93.783 ms
+
+############## carina - 03/05/22 00:26:50 EST -0500 ##############
+
+2022-03-06 00:07:19 284 packets transmitted, 279 received, 1% packet loss, time 84928702ms
+2022-03-06 00:07:19 rtt min/avg/max/mdev = 29.870/76.331/4326.626/258.560 ms
+
+############## carina - 03/06/22 00:26:50 EST -0500 ##############
+
+2022-03-07 00:07:09 284 packets transmitted, 283 received, 0% packet loss, time 84919479ms
+2022-03-07 00:07:09 rtt min/avg/max/mdev = 32.034/82.803/1762.382/142.797 ms
+
+############## carina - 03/07/22 00:26:51 EST -0500 ##############
+
+2022-03-08 00:02:10 284 packets transmitted, 284 received, 0% packet loss, time 84918848ms
+2022-03-08 00:02:10 rtt min/avg/max/mdev = 33.214/68.248/768.001/73.240 ms
+
+############## carina - 03/08/22 00:26:50 EST -0500 ##############
+
+2022-03-09 00:07:09 284 packets transmitted, 278 received, 2% packet loss, time 84918883ms
+2022-03-09 00:07:09 rtt min/avg/max/mdev = 34.380/278.702/33255.944/2423.693 ms
+
+############## carina - 03/09/22 00:26:50 EST -0500 ##############
+
+2022-03-10 00:07:08 284 packets transmitted, 283 received, 0% packet loss, time 84917699ms
+2022-03-10 00:07:08 rtt min/avg/max/mdev = 30.614/82.390/2440.891/174.237 ms
+
+############## carina - 03/10/22 00:26:51 EST -0500 ##############
+
+2022-03-11 00:07:10 284 packets transmitted, 282 received, 0% packet loss, time 84918604ms
+2022-03-11 00:07:10 rtt min/avg/max/mdev = 33.626/86.955/1343.042/143.487 ms
+
+############## carina - 03/11/22 00:26:53 EST -0500 ##############
+
+2022-03-12 00:07:26 284 packets transmitted, 281 received, 1% packet loss, time 84932591ms
+2022-03-12 00:07:26 rtt min/avg/max/mdev = 29.536/95.262/4875.491/307.813 ms
+
+############## carina - 03/12/22 00:26:53 EST -0500 ##############
+
+2022-03-13 00:07:15 284 packets transmitted, 283 received, 0% packet loss, time 84922028ms
+2022-03-13 00:07:15 rtt min/avg/max/mdev = 35.116/121.658/15984.637/945.135 ms
+
+############## carina - 03/13/22 00:26:55 EST -0500 ##############
+
+2022-03-14 00:07:13 284 packets transmitted, 282 received, 0% packet loss, time 84918789ms
+2022-03-14 00:07:13 rtt min/avg/max/mdev = 33.975/70.643/2723.119/161.599 ms
+
+############## carina - 03/14/22 00:26:56 EST -0500 ##############
+
+2022-03-15 00:07:15 284 packets transmitted, 282 received, 0% packet loss, time 84918792ms
+2022-03-15 00:07:15 rtt min/avg/max/mdev = 34.115/185.388/31173.251/1856.373 ms
+
+############## carina - 03/15/22 00:26:57 EST -0500 ##############
+
+2022-03-16 00:07:17 284 packets transmitted, 282 received, 0% packet loss, time 84919366ms
+2022-03-16 00:07:17 rtt min/avg/max/mdev = 32.754/64.310/1450.262/87.107 ms
+
+############## carina - 03/16/22 00:27:02 EST -0500 ##############
+
+2022-03-17 00:07:21 284 packets transmitted, 281 received, 1% packet loss, time 84918866ms
+2022-03-17 00:07:21 rtt min/avg/max/mdev = 34.412/61.301/268.564/27.023 ms
+
+############## carina - 03/17/22 00:27:01 EST -0500 ##############
+
+2022-03-18 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84918432ms
+2022-03-18 00:02:19 rtt min/avg/max/mdev = 30.495/62.401/271.380/25.182 ms
+
+############## carina - 03/18/22 00:26:57 EST -0500 ##############
+
+2022-03-19 00:02:16 284 packets transmitted, 284 received, 0% packet loss, time 84918911ms
+2022-03-19 00:02:16 rtt min/avg/max/mdev = 29.486/47.790/255.756/19.270 ms
+
+############## carina - 03/19/22 00:26:57 EST -0500 ##############
+
+2022-03-20 00:02:17 284 packets transmitted, 284 received, 0% packet loss, time 84920234ms
+2022-03-20 00:02:17 rtt min/avg/max/mdev = 30.344/54.017/176.019/23.421 ms
+
+############## carina - 03/20/22 00:27:00 EST -0500 ##############
+
+2022-03-21 00:07:21 284 packets transmitted, 282 received, 0% packet loss, time 84921396ms
+2022-03-21 00:07:21 rtt min/avg/max/mdev = 33.742/55.663/180.845/24.722 ms
+
+############## carina - 03/21/22 00:26:59 EST -0500 ##############
+
+2022-03-22 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84919494ms
+2022-03-22 00:02:19 rtt min/avg/max/mdev = 31.284/46.589/261.134/17.506 ms
+
+############## carina - 03/22/22 00:26:57 EST -0500 ##############
+
+2022-03-23 00:02:17 284 packets transmitted, 284 received, 0% packet loss, time 84919222ms
+2022-03-23 00:02:17 rtt min/avg/max/mdev = 28.398/46.658/274.549/19.018 ms
+
+############## carina - 03/23/22 00:26:59 EST -0500 ##############
+
+2022-03-24 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84919114ms
+2022-03-24 00:02:19 rtt min/avg/max/mdev = 30.307/48.810/429.720/28.601 ms
+
+############## carina - 03/24/22 00:27:00 EST -0500 ##############
+
+2022-03-25 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84919619ms
+2022-03-25 00:02:19 rtt min/avg/max/mdev = 27.882/46.676/158.227/16.365 ms
+
+############## carina - 03/25/22 00:27:00 EST -0500 ##############
+
+2022-03-26 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84919922ms
+2022-03-26 00:02:20 rtt min/avg/max/mdev = 29.346/48.535/170.830/16.789 ms
+
+############## carina - 03/26/22 00:27:00 EST -0500 ##############
+
+2022-03-27 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84920560ms
+2022-03-27 00:02:21 rtt min/avg/max/mdev = 31.614/51.886/180.031/21.037 ms
+
+############## carina - 03/27/22 00:27:01 EST -0500 ##############
+
+2022-03-28 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84918589ms
+2022-03-28 00:02:20 rtt min/avg/max/mdev = 29.265/47.332/138.462/18.311 ms
+
+############## carina - 03/28/22 00:27:01 EST -0500 ##############
+
+2022-03-29 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84919504ms
+2022-03-29 00:02:21 rtt min/avg/max/mdev = 30.894/51.748/134.952/17.126 ms
+
+############## carina - 03/29/22 00:27:02 EST -0500 ##############
+
+2022-03-30 00:08:53 284 packets transmitted, 272 received, 4% packet loss, time 85010826ms
+2022-03-30 00:08:53 rtt min/avg/max/mdev = 34.456/63.673/775.890/57.866 ms
+
+############## carina - 03/30/22 00:27:04 EST -0500 ##############
+
+2022-03-31 00:02:23 284 packets transmitted, 284 received, 0% packet loss, time 84918881ms
+2022-03-31 00:02:23 rtt min/avg/max/mdev = 28.960/47.707/150.907/15.410 ms
+
+############## carina - 03/31/22 00:27:04 EST -0500 ##############
+
+2022-04-01 00:02:23 284 packets transmitted, 284 received, 0% packet loss, time 84918211ms
+2022-04-01 00:02:23 rtt min/avg/max/mdev = 32.218/48.997/132.390/16.556 ms
+
+############## carina - 04/01/22 00:27:04 EST -0500 ##############
+
+2022-04-02 00:07:26 284 packets transmitted, 283 received, 0% packet loss, time 84921568ms
+2022-04-02 00:07:26 rtt min/avg/max/mdev = 31.508/48.338/244.508/21.751 ms
+
+############## carina - 04/02/22 00:27:04 EST -0500 ##############
+
+2022-04-03 00:02:23 284 packets transmitted, 284 received, 0% packet loss, time 84918807ms
+2022-04-03 00:02:23 rtt min/avg/max/mdev = 29.239/48.622/131.462/16.716 ms
+
+############## carina - 04/03/22 00:27:05 EST -0500 ##############
+
+2022-04-04 00:02:25 284 packets transmitted, 284 received, 0% packet loss, time 84919500ms
+2022-04-04 00:02:25 rtt min/avg/max/mdev = 30.590/51.919/289.934/22.168 ms
+
+############## carina - 04/04/22 00:27:05 EST -0500 ##############
+
+2022-04-05 00:02:25 284 packets transmitted, 284 received, 0% packet loss, time 84919693ms
+2022-04-05 00:02:25 rtt min/avg/max/mdev = 30.104/48.056/500.839/31.568 ms
+
+############## carina - 04/06/22 00:27:06 EST -0500 ##############
+
+2022-04-07 00:02:26 284 packets transmitted, 284 received, 0% packet loss, time 84919568ms
+2022-04-07 00:02:26 rtt min/avg/max/mdev = 30.223/46.205/178.085/15.580 ms
+
+############## carina - 04/07/22 00:27:06 EST -0500 ##############
+
+2022-04-08 00:02:26 284 packets transmitted, 284 received, 0% packet loss, time 84919275ms
+2022-04-08 00:02:26 rtt min/avg/max/mdev = 32.112/50.912/126.381/17.458 ms
+
+############## carina - 04/08/22 00:27:10 EST -0500 ##############
+
+2022-04-09 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84920607ms
+2022-04-09 00:02:31 rtt min/avg/max/mdev = 33.183/47.286/122.437/13.489 ms
+
+############## carina - 04/09/22 00:27:08 EST -0500 ##############
+
+2022-04-10 00:02:27 284 packets transmitted, 284 received, 0% packet loss, time 84919207ms
+2022-04-10 00:02:27 rtt min/avg/max/mdev = 29.390/50.365/140.031/16.685 ms
+
+############## carina - 04/10/22 00:27:09 EST -0500 ##############
+
+2022-04-11 00:02:28 284 packets transmitted, 284 received, 0% packet loss, time 84918999ms
+2022-04-11 00:02:28 rtt min/avg/max/mdev = 30.654/49.622/183.660/19.248 ms
+
+############## carina - 04/11/22 00:27:10 EST -0500 ##############
+
+2022-04-12 00:02:30 284 packets transmitted, 284 received, 0% packet loss, time 84919381ms
+2022-04-12 00:02:30 rtt min/avg/max/mdev = 30.016/50.441/196.003/16.028 ms
+
+############## carina - 04/12/22 00:27:10 EST -0500 ##############
+
+2022-04-13 00:02:29 284 packets transmitted, 284 received, 0% packet loss, time 84919340ms
+2022-04-13 00:02:29 rtt min/avg/max/mdev = 30.474/46.227/118.814/13.878 ms
+
+############## carina - 04/13/22 00:27:10 EST -0500 ##############
+
+2022-04-14 00:02:30 284 packets transmitted, 284 received, 0% packet loss, time 84920049ms
+2022-04-14 00:02:30 rtt min/avg/max/mdev = 31.950/53.354/267.688/24.470 ms
+
+############## carina - 04/14/22 00:27:09 EST -0500 ##############
+
+2022-04-15 00:07:31 284 packets transmitted, 282 received, 0% packet loss, time 84921656ms
+2022-04-15 00:07:31 rtt min/avg/max/mdev = 34.531/59.850/244.170/23.654 ms
+
+############## carina - 04/15/22 00:27:09 EST -0500 ##############
+
+2022-04-16 00:07:38 284 packets transmitted, 283 received, 0% packet loss, time 84929479ms
+2022-04-16 00:07:38 rtt min/avg/max/mdev = 32.835/52.124/271.411/25.323 ms
+
+############## carina - 04/16/22 00:27:09 EST -0500 ##############
+
+2022-04-17 00:02:28 284 packets transmitted, 284 received, 0% packet loss, time 84919006ms
+2022-04-17 00:02:28 rtt min/avg/max/mdev = 29.754/52.352/497.207/32.547 ms
+
+############## carina - 04/17/22 00:27:10 EST -0500 ##############
+
+2022-04-18 00:07:29 284 packets transmitted, 283 received, 0% packet loss, time 84919235ms
+2022-04-18 00:07:29 rtt min/avg/max/mdev = 31.313/52.018/247.647/23.088 ms
+
+############## carina - 04/18/22 00:27:11 EST -0500 ##############
+
+2022-04-19 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84919612ms
+2022-04-19 00:02:31 rtt min/avg/max/mdev = 30.296/55.493/157.432/25.712 ms
+
+############## carina - 04/19/22 00:27:12 EST -0500 ##############
+
+2022-04-20 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84918984ms
+2022-04-20 00:02:31 rtt min/avg/max/mdev = 31.776/52.950/329.156/27.078 ms
+
+############## carina - 04/20/22 00:27:14 EST -0500 ##############
+
+2022-04-21 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84918294ms
+2022-04-21 00:02:33 rtt min/avg/max/mdev = 30.371/61.267/1463.764/86.053 ms
+
+############## carina - 04/21/22 00:27:13 EST -0500 ##############
+
+2022-04-22 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84920012ms
+2022-04-22 00:02:33 rtt min/avg/max/mdev = 33.823/56.581/164.648/19.539 ms
+
+############## carina - 04/22/22 00:27:12 EST -0500 ##############
+
+2022-04-23 00:02:32 284 packets transmitted, 284 received, 0% packet loss, time 84919017ms
+2022-04-23 00:02:32 rtt min/avg/max/mdev = 30.376/47.642/124.203/13.777 ms
+
+############## carina - 04/23/22 00:27:13 EST -0500 ##############
+
+2022-04-24 00:02:32 284 packets transmitted, 284 received, 0% packet loss, time 84919256ms
+2022-04-24 00:02:32 rtt min/avg/max/mdev = 32.260/48.775/206.397/18.254 ms
+
+############## carina - 04/24/22 00:27:13 EST -0500 ##############
+
+2022-04-25 00:07:47 284 packets transmitted, 283 received, 0% packet loss, time 84934619ms
+2022-04-25 00:07:47 rtt min/avg/max/mdev = 33.088/52.359/143.138/20.945 ms
+
+############## carina - 04/26/22 00:27:13 EST -0500 ##############
+
+2022-04-27 00:02:32 284 packets transmitted, 284 received, 0% packet loss, time 84918704ms
+2022-04-27 00:02:32 rtt min/avg/max/mdev = 30.094/47.744/213.942/18.224 ms
+
+############## carina - 04/27/22 00:27:14 EST -0500 ##############
+
+2022-04-28 00:02:35 284 packets transmitted, 284 received, 0% packet loss, time 84920357ms
+2022-04-28 00:02:35 rtt min/avg/max/mdev = 29.477/48.719/152.777/12.777 ms
+
+############## carina - 04/28/22 00:27:13 EST -0500 ##############
+
+2022-04-29 00:02:32 284 packets transmitted, 284 received, 0% packet loss, time 84918800ms
+2022-04-29 00:02:32 rtt min/avg/max/mdev = 32.399/50.061/198.063/17.434 ms
+
+############## carina - 04/29/22 00:27:15 EST -0500 ##############
+
+2022-04-30 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84918344ms
+2022-04-30 00:02:33 rtt min/avg/max/mdev = 28.854/49.461/128.836/16.366 ms
+
+############## carina - 04/30/22 00:27:15 EST -0500 ##############
+
+2022-05-01 00:02:35 284 packets transmitted, 284 received, 0% packet loss, time 84919452ms
+2022-05-01 00:02:35 rtt min/avg/max/mdev = 33.671/66.195/601.476/65.647 ms
+
+############## carina - 05/01/22 00:27:14 EST -0500 ##############
+
+2022-05-02 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84918702ms
+2022-05-02 00:02:33 rtt min/avg/max/mdev = 29.424/54.090/295.320/25.358 ms
+
+############## carina - 05/02/22 00:27:15 EST -0500 ##############
+
+2022-05-03 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84918314ms
+2022-05-03 00:02:33 rtt min/avg/max/mdev = 30.384/46.608/133.574/13.167 ms
+
+############## carina - 05/03/22 00:27:15 EST -0500 ##############
+
+2022-05-04 00:02:34 284 packets transmitted, 284 received, 0% packet loss, time 84919079ms
+2022-05-04 00:02:34 rtt min/avg/max/mdev = 33.065/48.306/124.451/14.700 ms
+
+############## carina - 05/05/22 00:27:16 EST -0500 ##############
+
+2022-05-06 00:02:35 284 packets transmitted, 284 received, 0% packet loss, time 84919803ms
+2022-05-06 00:02:35 rtt min/avg/max/mdev = 30.571/52.420/580.374/35.428 ms
+
+############## carina - 05/07/22 00:27:15 EST -0500 ##############
+
+2022-05-08 00:07:43 284 packets transmitted, 281 received, 1% packet loss, time 84928516ms
+2022-05-08 00:07:43 rtt min/avg/max/mdev = 28.917/50.073/133.416/18.101 ms
+
+############## carina - 05/08/22 00:27:16 EST -0500 ##############
+
+2022-05-09 00:02:37 284 packets transmitted, 284 received, 0% packet loss, time 84920444ms
+2022-05-09 00:02:37 rtt min/avg/max/mdev = 28.485/47.742/123.968/15.770 ms
+
+############## carina - 05/09/22 00:27:16 EST -0500 ##############
+
+2022-05-10 00:02:36 284 packets transmitted, 284 received, 0% packet loss, time 84919650ms
+2022-05-10 00:02:36 rtt min/avg/max/mdev = 29.416/49.360/154.050/18.650 ms
+
+############## carina - 05/11/22 00:27:17 EST -0500 ##############
+
+2022-05-12 00:02:18 284 packets transmitted, 284 received, 0% packet loss, time 84900680ms
+2022-05-12 00:02:18 rtt min/avg/max/mdev = 32.977/51.193/249.394/20.394 ms
+
+############## carina - 05/12/22 00:27:18 EST -0500 ##############
+
+2022-05-13 00:02:18 284 packets transmitted, 284 received, 0% packet loss, time 84900453ms
+2022-05-13 00:02:18 rtt min/avg/max/mdev = 31.917/60.733/3147.252/184.597 ms
+
+############## carina - 05/13/22 00:27:19 EST -0500 ##############
+
+2022-05-14 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84900708ms
+2022-05-14 00:02:20 rtt min/avg/max/mdev = 30.780/54.960/452.326/36.790 ms
+
+############## carina - 05/14/22 00:27:18 EST -0500 ##############
+
+2022-05-15 00:02:18 284 packets transmitted, 284 received, 0% packet loss, time 84900601ms
+2022-05-15 00:02:18 rtt min/avg/max/mdev = 31.427/58.429/2982.773/174.318 ms
+
+############## carina - 05/15/22 00:27:19 EST -0500 ##############
+
+2022-05-16 00:07:19 284 packets transmitted, 282 received, 0% packet loss, time 84900578ms
+2022-05-16 00:07:19 rtt min/avg/max/mdev = 33.170/50.538/145.908/17.861 ms
+
+############## carina - 05/16/22 00:27:18 EST -0500 ##############
+
+2022-05-17 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84900462ms
+2022-05-17 00:02:19 rtt min/avg/max/mdev = 31.304/54.579/201.954/22.586 ms
+
+############## carina - 05/17/22 00:27:19 EST -0500 ##############
+
+2022-05-18 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84900552ms
+2022-05-18 00:02:19 rtt min/avg/max/mdev = 31.596/73.119/6758.325/397.706 ms
+
+############## carina - 05/18/22 00:27:18 EST -0500 ##############
+
+2022-05-19 00:07:19 284 packets transmitted, 281 received, 1% packet loss, time 84900597ms
+2022-05-19 00:07:19 rtt min/avg/max/mdev = 29.843/53.355/144.258/21.022 ms
+
+############## carina - 05/19/22 00:27:19 EST -0500 ##############
+
+2022-05-20 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84900348ms
+2022-05-20 00:02:19 rtt min/avg/max/mdev = 36.084/56.237/262.072/23.106 ms
+
+############## carina - 05/20/22 00:27:20 EST -0500 ##############
+
+2022-05-21 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84900411ms
+2022-05-21 00:02:20 rtt min/avg/max/mdev = 35.854/56.676/244.426/23.405 ms
+
+############## carina - 05/21/22 00:27:20 EST -0500 ##############
+
+2022-05-22 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84900996ms
+2022-05-22 00:02:21 rtt min/avg/max/mdev = 35.391/53.613/169.522/19.104 ms
+
+############## carina - 05/22/22 00:27:20 EST -0500 ##############
+
+2022-05-23 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84900762ms
+2022-05-23 00:02:20 rtt min/avg/max/mdev = 32.257/49.782/123.106/16.089 ms
+
+############## carina - 05/23/22 00:27:20 EST -0500 ##############
+
+2022-05-24 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84900509ms
+2022-05-24 00:02:20 rtt min/avg/max/mdev = 31.872/49.795/641.450/37.804 ms
+
+############## carina - 05/24/22 00:27:21 EST -0500 ##############
+
+2022-05-25 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84900456ms
+2022-05-25 00:02:21 rtt min/avg/max/mdev = 28.988/55.165/967.446/64.553 ms
+
+############## carina - 05/25/22 00:27:20 EST -0500 ##############
+
+2022-05-26 00:07:21 284 packets transmitted, 283 received, 0% packet loss, time 84900547ms
+2022-05-26 00:07:21 rtt min/avg/max/mdev = 32.045/48.410/144.515/16.410 ms
+
+############## carina - 05/26/22 00:27:20 EST -0500 ##############
+
+2022-05-27 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84900475ms
+2022-05-27 00:02:21 rtt min/avg/max/mdev = 29.710/47.939/133.024/16.175 ms
+
+############## carina - 05/27/22 00:27:22 EST -0500 ##############
+
+2022-05-28 00:02:22 284 packets transmitted, 284 received, 0% packet loss, time 84900426ms
+2022-05-28 00:02:22 rtt min/avg/max/mdev = 28.638/47.679/127.117/16.315 ms
+
+############## carina - 05/28/22 00:27:21 EST -0500 ##############
+
+2022-05-29 00:07:23 284 packets transmitted, 283 received, 0% packet loss, time 84900344ms
+2022-05-29 00:07:23 rtt min/avg/max/mdev = 30.756/49.178/187.430/17.474 ms
+
+############## carina - 05/29/22 00:27:20 EST -0500 ##############
+
+2022-05-30 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84900467ms
+2022-05-30 00:02:21 rtt min/avg/max/mdev = 29.963/47.378/251.517/18.809 ms
+
+############## carina - 05/30/22 00:27:21 EST -0500 ##############
+
+2022-05-31 00:02:22 284 packets transmitted, 284 received, 0% packet loss, time 84900505ms
+2022-05-31 00:02:22 rtt min/avg/max/mdev = 30.914/51.950/415.814/35.129 ms
+
+############## carina - 05/31/22 00:27:20 EST -0500 ##############
+
+2022-06-01 00:07:21 284 packets transmitted, 282 received, 0% packet loss, time 84900635ms
+2022-06-01 00:07:21 rtt min/avg/max/mdev = 31.880/52.306/157.582/20.887 ms
+
+############## carina - 06/01/22 00:27:21 EST -0500 ##############
+
+2022-06-02 00:02:22 284 packets transmitted, 284 received, 0% packet loss, time 84900408ms
+2022-06-02 00:02:22 rtt min/avg/max/mdev = 31.904/50.917/241.964/20.216 ms
+
+############## carina - 06/02/22 00:27:21 EST -0500 ##############
+
+2022-06-03 00:02:21 284 packets transmitted, 284 received, 0% packet loss, time 84900394ms
+2022-06-03 00:02:21 rtt min/avg/max/mdev = 31.975/54.611/329.671/27.451 ms
+
+############## carina - 06/03/22 00:27:22 EST -0500 ##############
+
+2022-06-04 00:02:23 284 packets transmitted, 284 received, 0% packet loss, time 84900702ms
+2022-06-04 00:02:23 rtt min/avg/max/mdev = 30.558/51.775/142.589/20.822 ms
+
+############## carina - 06/04/22 00:27:21 EST -0500 ##############
+
+2022-06-05 00:07:22 284 packets transmitted, 280 received, 1% packet loss, time 84900771ms
+2022-06-05 00:07:22 rtt min/avg/max/mdev = 32.805/58.391/1029.177/66.688 ms
+
+############## carina - 06/05/22 00:27:23 EST -0500 ##############
+
+2022-06-06 00:02:23 284 packets transmitted, 284 received, 0% packet loss, time 84900480ms
+2022-06-06 00:02:23 rtt min/avg/max/mdev = 30.956/57.242/137.983/24.887 ms
+
+############## carina - 06/06/22 00:27:23 EST -0500 ##############
+
+2022-06-07 00:02:24 284 packets transmitted, 284 received, 0% packet loss, time 84900420ms
+2022-06-07 00:02:24 rtt min/avg/max/mdev = 31.217/56.449/418.396/30.391 ms
+
+############## carina - 06/07/22 00:27:23 EST -0500 ##############
+
+2022-06-08 00:02:24 284 packets transmitted, 284 received, 0% packet loss, time 84900703ms
+2022-06-08 00:02:24 rtt min/avg/max/mdev = 31.815/52.530/440.224/29.400 ms
+
+############## carina - 06/08/22 00:27:25 EST -0500 ##############
+
+2022-06-09 00:02:26 284 packets transmitted, 284 received, 0% packet loss, time 84900621ms
+2022-06-09 00:02:26 rtt min/avg/max/mdev = 29.057/54.190/1051.381/64.777 ms
+
+############## carina - 06/09/22 00:27:22 EST -0500 ##############
+
+2022-06-10 00:02:23 284 packets transmitted, 284 received, 0% packet loss, time 84900493ms
+2022-06-10 00:02:23 rtt min/avg/max/mdev = 28.774/54.736/556.475/45.776 ms
+
+############## carina - 06/11/22 00:27:22 EST -0500 ##############
+
+2022-06-12 00:07:23 284 packets transmitted, 283 received, 0% packet loss, time 84900712ms
+2022-06-12 00:07:23 rtt min/avg/max/mdev = 29.673/52.085/127.043/20.763 ms
+
+############## carina - 06/12/22 00:27:24 EST -0500 ##############
+
+2022-06-13 00:02:24 284 packets transmitted, 284 received, 0% packet loss, time 84900501ms
+2022-06-13 00:02:24 rtt min/avg/max/mdev = 31.901/49.184/130.986/18.844 ms
+
+############## carina - 06/13/22 00:27:23 EST -0500 ##############
+
+2022-06-14 00:02:24 284 packets transmitted, 284 received, 0% packet loss, time 84900486ms
+2022-06-14 00:02:24 rtt min/avg/max/mdev = 27.554/46.413/120.076/13.992 ms
+
+############## carina - 06/15/22 00:27:23 EST -0500 ##############
+
+2022-06-16 00:07:24 284 packets transmitted, 278 received, 2% packet loss, time 84900473ms
+2022-06-16 00:07:24 rtt min/avg/max/mdev = 32.081/47.185/121.500/13.161 ms
+
+############## carina - 06/18/22 00:27:26 EST -0500 ##############
+
+2022-06-19 00:02:26 284 packets transmitted, 284 received, 0% packet loss, time 84900462ms
+2022-06-19 00:02:26 rtt min/avg/max/mdev = 32.828/68.361/760.669/68.771 ms
+
+############## carina - 06/19/22 00:27:25 EST -0500 ##############
+
+2022-06-20 00:02:25 284 packets transmitted, 284 received, 0% packet loss, time 84900692ms
+2022-06-20 00:02:25 rtt min/avg/max/mdev = 32.129/71.935/711.498/61.591 ms
+
+############## carina - 06/20/22 00:27:26 EST -0500 ##############
+
+2022-06-21 00:07:27 284 packets transmitted, 283 received, 0% packet loss, time 84900582ms
+2022-06-21 00:07:27 rtt min/avg/max/mdev = 29.907/67.112/1530.638/95.272 ms
+
+############## carina - 06/21/22 00:27:26 EST -0500 ##############
+
+2022-06-22 00:07:27 284 packets transmitted, 280 received, 1% packet loss, time 84900665ms
+2022-06-22 00:07:27 rtt min/avg/max/mdev = 30.581/53.855/966.797/77.449 ms
+
+############## carina - 06/22/22 00:27:26 EST -0500 ##############
+
+2022-06-23 00:02:26 284 packets transmitted, 284 received, 0% packet loss, time 84900467ms
+2022-06-23 00:02:26 rtt min/avg/max/mdev = 30.712/53.930/826.590/48.984 ms
+
+############## carina - 06/23/22 00:27:25 EST -0500 ##############
+
+2022-06-24 00:02:26 284 packets transmitted, 284 received, 0% packet loss, time 84900626ms
+2022-06-24 00:02:26 rtt min/avg/max/mdev = 31.736/54.717/445.298/30.520 ms
+
+############## carina - 06/24/22 00:27:25 EST -0500 ##############
+
+2022-06-25 00:07:26 284 packets transmitted, 283 received, 0% packet loss, time 84900735ms
+2022-06-25 00:07:26 rtt min/avg/max/mdev = 32.960/53.303/620.301/36.445 ms
+
+############## carina - 06/25/22 00:27:27 EST -0500 ##############
+
+2022-06-26 00:07:27 284 packets transmitted, 283 received, 0% packet loss, time 84900690ms
+2022-06-26 00:07:28 rtt min/avg/max/mdev = 31.836/53.542/133.502/18.475 ms
+
+############## carina - 06/26/22 00:27:26 EST -0500 ##############
+
+2022-06-27 00:02:27 284 packets transmitted, 284 received, 0% packet loss, time 84900604ms
+2022-06-27 00:02:27 rtt min/avg/max/mdev = 31.184/50.509/246.084/19.955 ms
+
+############## carina - 06/27/22 00:27:28 EST -0500 ##############
+
+2022-06-28 00:02:28 284 packets transmitted, 284 received, 0% packet loss, time 84900499ms
+2022-06-28 00:02:28 rtt min/avg/max/mdev = 32.805/60.235/1515.326/101.231 ms
+
+############## carina - 06/28/22 00:27:27 EST -0500 ##############
+
+2022-06-29 00:02:28 284 packets transmitted, 284 received, 0% packet loss, time 84900580ms
+2022-06-29 00:02:28 rtt min/avg/max/mdev = 32.032/49.772/132.297/17.318 ms
+
+############## carina - 06/29/22 00:27:27 EST -0500 ##############
+
+2022-06-30 00:02:27 284 packets transmitted, 284 received, 0% packet loss, time 84900451ms
+2022-06-30 00:02:27 rtt min/avg/max/mdev = 32.420/59.463/762.996/67.730 ms
+
+############## carina - 06/30/22 00:27:28 EST -0500 ##############
+
+2022-07-01 00:02:28 284 packets transmitted, 284 received, 0% packet loss, time 84900517ms
+2022-07-01 00:02:28 rtt min/avg/max/mdev = 32.170/53.410/152.039/21.733 ms
+
+############## carina - 07/01/22 00:27:28 EST -0500 ##############
+
+2022-07-02 00:07:29 284 packets transmitted, 280 received, 1% packet loss, time 84900390ms
+2022-07-02 00:07:29 rtt min/avg/max/mdev = 28.545/52.115/821.349/53.336 ms
+
+############## carina - 07/02/22 00:27:27 EST -0500 ##############
+
+2022-07-03 00:07:28 284 packets transmitted, 283 received, 0% packet loss, time 84900577ms
+2022-07-03 00:07:28 rtt min/avg/max/mdev = 27.721/48.190/218.036/20.548 ms
+
+############## carina - 07/03/22 00:27:28 EST -0500 ##############
+
+2022-07-04 00:02:28 284 packets transmitted, 284 received, 0% packet loss, time 84900544ms
+2022-07-04 00:02:28 rtt min/avg/max/mdev = 30.924/45.187/135.354/15.699 ms
+
+############## carina - 07/04/22 00:27:29 EST -0500 ##############
+
+2022-07-05 00:02:29 284 packets transmitted, 284 received, 0% packet loss, time 84900430ms
+2022-07-05 00:02:29 rtt min/avg/max/mdev = 31.462/48.264/116.956/16.442 ms
+
+############## carina - 07/05/22 00:27:29 EST -0500 ##############
+
+2022-07-06 00:02:30 284 packets transmitted, 284 received, 0% packet loss, time 84900510ms
+2022-07-06 00:02:30 rtt min/avg/max/mdev = 31.762/50.013/225.588/21.855 ms
+
+############## carina - 07/06/22 00:27:28 EST -0500 ##############
+
+2022-07-07 00:02:29 284 packets transmitted, 284 received, 0% packet loss, time 84900581ms
+2022-07-07 00:02:29 rtt min/avg/max/mdev = 31.891/49.567/435.253/29.698 ms
+
+############## carina - 07/07/22 00:27:30 EST -0500 ##############
+
+2022-07-08 00:07:31 284 packets transmitted, 283 received, 0% packet loss, time 84900539ms
+2022-07-08 00:07:31 rtt min/avg/max/mdev = 28.595/48.724/125.043/15.137 ms
+
+############## carina - 07/08/22 00:27:29 EST -0500 ##############
+
+2022-07-09 00:07:29 284 packets transmitted, 282 received, 0% packet loss, time 84900529ms
+2022-07-09 00:07:29 rtt min/avg/max/mdev = 30.765/47.516/219.150/14.874 ms
+
+############## carina - 07/09/22 00:27:28 EST -0500 ##############
+
+2022-07-10 00:02:29 284 packets transmitted, 284 received, 0% packet loss, time 84900549ms
+2022-07-10 00:02:29 rtt min/avg/max/mdev = 30.854/48.163/137.640/13.296 ms
+
+############## carina - 07/10/22 00:27:31 EST -0500 ##############
+
+2022-07-11 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84900456ms
+2022-07-11 00:02:31 rtt min/avg/max/mdev = 29.832/47.472/229.216/16.718 ms
+
+############## carina - 07/11/22 00:27:30 EST -0500 ##############
+
+2022-07-12 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84901261ms
+2022-07-12 00:02:31 rtt min/avg/max/mdev = 30.978/47.824/177.189/14.637 ms
+
+############## carina - 07/12/22 00:27:28 EST -0500 ##############
+
+2022-07-13 00:02:29 284 packets transmitted, 284 received, 0% packet loss, time 84900518ms
+2022-07-13 00:02:29 rtt min/avg/max/mdev = 33.216/47.338/110.548/10.803 ms
+
+############## carina - 07/13/22 00:27:29 EST -0500 ##############
+
+2022-07-14 00:07:30 284 packets transmitted, 281 received, 1% packet loss, time 84900599ms
+2022-07-14 00:07:30 rtt min/avg/max/mdev = 31.903/46.969/133.965/13.598 ms
+
+############## carina - 07/14/22 00:27:29 EST -0500 ##############
+
+############## carina - 07/14/22 00:27:29 EST -0500 ##############
+
+
+############## carina - 07/15/22 00:27:30 EST -0500 ##############
+
+2022-07-16 00:02:30 284 packets transmitted, 284 received, 0% packet loss, time 84900459ms
+2022-07-16 00:02:30 rtt min/avg/max/mdev = 29.619/46.809/130.885/13.604 ms
+
+############## carina - 07/16/22 00:27:29 EST -0500 ##############
+
+2022-07-17 00:07:30 284 packets transmitted, 283 received, 0% packet loss, time 84900474ms
+2022-07-17 00:07:30 rtt min/avg/max/mdev = 33.269/47.729/150.230/17.335 ms
+
+############## carina - 07/17/22 00:27:30 EST -0500 ##############
+
+2022-07-18 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84900344ms
+2022-07-18 00:02:31 rtt min/avg/max/mdev = 35.174/47.321/105.136/11.838 ms
+
+############## carina - 07/18/22 00:27:29 EST -0500 ##############
+
+2022-07-19 00:02:30 284 packets transmitted, 284 received, 0% packet loss, time 84900581ms
+2022-07-19 00:02:30 rtt min/avg/max/mdev = 34.180/51.065/797.473/46.004 ms
+
+############## carina - 07/19/22 00:27:31 EST -0500 ##############
+
+2022-07-20 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84900515ms
+2022-07-20 00:02:31 rtt min/avg/max/mdev = 29.691/46.755/124.097/17.336 ms
+
+############## carina - 07/20/22 00:27:30 EST -0500 ##############
+
+2022-07-21 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84900309ms
+2022-07-21 00:02:31 rtt min/avg/max/mdev = 29.743/43.963/255.417/17.594 ms
+
+############## carina - 07/21/22 00:27:32 EST -0500 ##############
+
+2022-07-22 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84900752ms
+2022-07-22 00:02:33 rtt min/avg/max/mdev = 27.685/44.050/117.506/10.863 ms
+
+############## carina - 07/22/22 00:27:31 EST -0500 ##############
+
+2022-07-23 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84900536ms
+2022-07-23 00:02:31 rtt min/avg/max/mdev = 28.146/44.585/256.651/17.434 ms
+
+############## carina - 07/23/22 00:27:31 EST -0500 ##############
+
+2022-07-24 00:02:31 284 packets transmitted, 284 received, 0% packet loss, time 84900470ms
+2022-07-24 00:02:31 rtt min/avg/max/mdev = 27.069/46.892/291.086/23.324 ms
+
+############## carina - 07/24/22 00:27:32 EST -0500 ##############
+
+2022-07-25 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84900810ms
+2022-07-25 00:02:33 rtt min/avg/max/mdev = 29.269/44.634/133.166/14.039 ms
+
+############## carina - 07/25/22 00:27:32 EST -0500 ##############
+
+2022-07-26 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84900331ms
+2022-07-26 00:02:33 rtt min/avg/max/mdev = 31.839/45.250/118.842/13.873 ms
+
+############## carina - 07/26/22 00:27:32 EST -0500 ##############
+
+2022-07-27 00:02:33 284 packets transmitted, 284 received, 0% packet loss, time 84900475ms
+2022-07-27 00:02:33 rtt min/avg/max/mdev = 28.553/43.330/106.803/10.508 ms
+
+############## carina - 07/27/22 00:27:33 EST -0500 ##############
+
+2022-07-28 00:02:34 284 packets transmitted, 284 received, 0% packet loss, time 84900484ms
+2022-07-28 00:02:34 rtt min/avg/max/mdev = 29.059/44.457/389.187/28.714 ms
+
+############## carina - 07/28/22 00:27:32 EST -0500 ##############
+
+2022-07-29 00:02:53 284 packets transmitted, 284 received, 0% packet loss, time 84920786ms
+2022-07-29 00:02:53 rtt min/avg/max/mdev = 30.108/44.904/275.654/19.579 ms
+
+############## carina - 07/29/22 00:27:35 EST -0500 ##############
+
+2022-07-30 00:02:54 284 packets transmitted, 284 received, 0% packet loss, time 84919342ms
+2022-07-30 00:02:54 rtt min/avg/max/mdev = 30.551/54.114/156.418/25.001 ms
+
+############## carina - 07/30/22 00:27:32 EST -0500 ##############
+
+2022-07-31 00:02:53 284 packets transmitted, 284 received, 0% packet loss, time 84920407ms
+2022-07-31 00:02:53 rtt min/avg/max/mdev = 31.985/46.329/124.386/10.963 ms
+
+############## carina - 07/31/22 00:27:32 EST -0500 ##############
+
+2022-08-01 00:02:53 284 packets transmitted, 284 received, 0% packet loss, time 84920906ms
+2022-08-01 00:02:53 rtt min/avg/max/mdev = 30.930/48.843/147.142/16.328 ms
