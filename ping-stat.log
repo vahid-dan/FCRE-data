@@ -1,0 +1,1508 @@
+
+############## mia - 03/29/21 00:25:38 EST -0500 ##############
+
+2021-03-30 00:05:49 284 packets transmitted, 282 received, 0% packet loss, time 84911163ms
+2021-03-30 00:05:49 rtt min/avg/max/mdev = 38.872/63.406/499.389/39.310 ms
+
+############## mia - 03/30/21 00:25:38 EST -0500 ##############
+
+2021-03-31 00:05:47 284 packets transmitted, 270 received, 4% packet loss, time 84909679ms
+2021-03-31 00:05:47 rtt min/avg/max/mdev = 37.659/117.970/15327.399/928.241 ms
+
+############## mia - 04/01/21 00:25:40 EST -0500 ##############
+
+2021-04-02 00:00:52 284 packets transmitted, 284 received, 0% packet loss, time 84911709ms
+2021-04-02 00:00:52 rtt min/avg/max/mdev = 29.237/47.115/127.342/13.987 ms
+
+############## mia - 04/02/21 00:25:44 EST -0500 ##############
+
+2021-04-03 00:00:56 284 packets transmitted, 284 received, 0% packet loss, time 84911717ms
+2021-04-03 00:00:56 rtt min/avg/max/mdev = 31.791/55.819/473.682/29.118 ms
+
+############## mia - 04/03/21 00:25:44 EST -0500 ##############
+
+2021-04-04 00:00:56 284 packets transmitted, 284 received, 0% packet loss, time 84911582ms
+2021-04-04 00:00:56 rtt min/avg/max/mdev = 31.801/41.588/102.310/8.937 ms
+
+############## mia - 04/04/21 00:25:46 EST -0500 ##############
+
+2021-04-05 00:00:57 284 packets transmitted, 284 received, 0% packet loss, time 84910968ms
+2021-04-05 00:00:57 rtt min/avg/max/mdev = 31.767/48.909/241.980/16.793 ms
+
+############## mia - 04/05/21 00:25:46 EST -0500 ##############
+
+2021-04-06 00:00:57 284 packets transmitted, 284 received, 0% packet loss, time 84910792ms
+2021-04-06 00:00:57 rtt min/avg/max/mdev = 27.825/42.697/95.397/8.496 ms
+
+############## mia - 04/06/21 00:25:48 EST -0500 ##############
+
+2021-04-07 00:01:00 284 packets transmitted, 284 received, 0% packet loss, time 84912392ms
+2021-04-07 00:01:00 rtt min/avg/max/mdev = 29.768/44.658/246.171/19.775 ms
+
+############## mia - 04/07/21 00:25:48 EST -0500 ##############
+
+2021-04-08 00:01:00 284 packets transmitted, 284 received, 0% packet loss, time 84912230ms
+2021-04-08 00:01:00 rtt min/avg/max/mdev = 28.431/44.211/247.058/15.936 ms
+
+############## mia - 04/09/21 00:25:49 EST -0500 ##############
+
+2021-04-10 00:01:02 284 packets transmitted, 284 received, 0% packet loss, time 84912098ms
+2021-04-10 00:01:02 rtt min/avg/max/mdev = 29.104/42.822/107.830/10.614 ms
+
+############## mia - 04/10/21 00:25:51 EST -0500 ##############
+
+2021-04-11 00:01:02 284 packets transmitted, 284 received, 0% packet loss, time 84911081ms
+2021-04-11 00:01:02 rtt min/avg/max/mdev = 31.523/42.354/98.611/9.400 ms
+
+############## mia - 04/11/21 00:25:53 EST -0500 ##############
+
+2021-04-12 00:01:06 284 packets transmitted, 284 received, 0% packet loss, time 84912589ms
+2021-04-12 00:01:06 rtt min/avg/max/mdev = 28.381/43.297/236.788/15.676 ms
+
+############## mia - 04/12/21 00:25:55 EST -0500 ##############
+
+2021-04-13 00:01:07 284 packets transmitted, 284 received, 0% packet loss, time 84911357ms
+2021-04-13 00:01:07 rtt min/avg/max/mdev = 33.551/58.319/121.407/14.760 ms
+
+############## mia - 04/13/21 00:25:54 EST -0500 ##############
+
+2021-04-14 00:01:05 284 packets transmitted, 284 received, 0% packet loss, time 84911318ms
+2021-04-14 00:01:05 rtt min/avg/max/mdev = 30.026/42.195/111.259/9.781 ms
+
+############## mia - 04/14/21 00:25:55 EST -0500 ##############
+
+2021-04-15 00:01:06 284 packets transmitted, 284 received, 0% packet loss, time 84911464ms
+2021-04-15 00:01:06 rtt min/avg/max/mdev = 29.840/43.819/129.779/12.387 ms
+
+############## mia - 04/15/21 00:25:57 EST -0500 ##############
+
+2021-04-16 00:01:08 284 packets transmitted, 284 received, 0% packet loss, time 84911410ms
+2021-04-16 00:01:08 rtt min/avg/max/mdev = 29.270/44.136/232.529/16.188 ms
+
+############## mia - 04/16/21 00:25:58 EST -0500 ##############
+
+2021-04-17 00:01:08 284 packets transmitted, 284 received, 0% packet loss, time 84910295ms
+2021-04-17 00:01:08 rtt min/avg/max/mdev = 28.975/48.619/126.384/13.760 ms
+
+############## mia - 04/17/21 00:25:59 EST -0500 ##############
+
+2021-04-18 00:01:11 284 packets transmitted, 284 received, 0% packet loss, time 84911852ms
+2021-04-18 00:01:11 rtt min/avg/max/mdev = 29.245/46.864/493.768/29.866 ms
+
+############## mia - 04/18/21 00:25:58 EST -0500 ##############
+
+2021-04-19 00:01:10 284 packets transmitted, 284 received, 0% packet loss, time 84911382ms
+2021-04-19 00:01:10 rtt min/avg/max/mdev = 32.047/49.167/289.046/20.576 ms
+
+############## mia - 04/19/21 00:26:00 EST -0500 ##############
+
+2021-04-20 00:01:12 284 packets transmitted, 284 received, 0% packet loss, time 84911724ms
+2021-04-20 00:01:12 rtt min/avg/max/mdev = 30.474/44.507/111.750/12.651 ms
+
+############## mia - 04/20/21 00:26:05 EST -0500 ##############
+
+2021-04-21 00:01:16 284 packets transmitted, 284 received, 0% packet loss, time 84911466ms
+2021-04-21 00:01:16 rtt min/avg/max/mdev = 29.796/45.029/123.936/14.481 ms
+
+############## mia - 04/21/21 00:26:04 EST -0500 ##############
+
+2021-04-22 00:06:15 284 packets transmitted, 283 received, 0% packet loss, time 84911098ms
+2021-04-22 00:06:15 rtt min/avg/max/mdev = 31.830/46.884/119.010/12.229 ms
+
+############## mia - 04/22/21 00:26:04 EST -0500 ##############
+
+2021-04-23 00:01:16 284 packets transmitted, 284 received, 0% packet loss, time 84911154ms
+2021-04-23 00:01:16 rtt min/avg/max/mdev = 30.893/45.365/114.843/12.483 ms
+
+############## mia - 04/23/21 00:26:06 EST -0500 ##############
+
+2021-04-24 00:01:18 284 packets transmitted, 284 received, 0% packet loss, time 84912439ms
+2021-04-24 00:01:18 rtt min/avg/max/mdev = 28.932/48.652/185.353/14.452 ms
+
+############## mia - 04/24/21 00:26:07 EST -0500 ##############
+
+2021-04-25 00:01:19 284 packets transmitted, 284 received, 0% packet loss, time 84911793ms
+2021-04-25 00:01:19 rtt min/avg/max/mdev = 27.504/44.640/114.912/12.950 ms
+
+############## mia - 04/25/21 00:26:07 EST -0500 ##############
+
+2021-04-26 00:01:17 284 packets transmitted, 284 received, 0% packet loss, time 84910559ms
+2021-04-26 00:01:17 rtt min/avg/max/mdev = 28.987/43.840/109.321/11.813 ms
+
+############## mia - 04/26/21 00:26:10 EST -0500 ##############
+
+2021-04-27 00:01:20 284 packets transmitted, 284 received, 0% packet loss, time 84910404ms
+2021-04-27 00:01:20 rtt min/avg/max/mdev = 29.664/42.877/87.145/8.616 ms
+
+############## mia - 04/27/21 00:26:13 EST -0500 ##############
+
+2021-04-28 00:01:24 284 packets transmitted, 284 received, 0% packet loss, time 84910938ms
+2021-04-28 00:01:24 rtt min/avg/max/mdev = 31.567/44.226/132.403/12.627 ms
+
+############## mia - 04/28/21 00:26:10 EST -0500 ##############
+
+2021-04-29 00:01:21 284 packets transmitted, 284 received, 0% packet loss, time 84911477ms
+2021-04-29 00:01:22 rtt min/avg/max/mdev = 30.951/43.660/93.898/8.270 ms
+
+############## mia - 04/30/21 00:26:13 EST -0500 ##############
+
+2021-05-01 00:01:25 284 packets transmitted, 284 received, 0% packet loss, time 84911323ms
+2021-05-01 00:01:25 rtt min/avg/max/mdev = 29.526/45.209/131.379/11.659 ms
+
+############## mia - 05/01/21 00:26:13 EST -0500 ##############
+
+2021-05-02 00:01:26 284 packets transmitted, 284 received, 0% packet loss, time 84912486ms
+2021-05-02 00:01:26 rtt min/avg/max/mdev = 31.132/46.628/285.783/21.699 ms
+
+############## mia - 06/24/21 00:27:06 EST -0500 ##############
+
+tail: cannot open '/data/mia-logs/ping-full.log' for reading: No such file or directory
+
+############## mia - 06/25/21 00:27:06 EST -0500 ##############
+
+2021-06-26 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84912744ms
+2021-06-26 00:02:19 rtt min/avg/max/mdev = 30.405/45.164/106.111/10.178 ms
+
+############## mia - 06/26/21 00:27:08 EST -0500 ##############
+
+2021-06-27 00:02:20 284 packets transmitted, 284 received, 0% packet loss, time 84911743ms
+2021-06-27 00:02:20 rtt min/avg/max/mdev = 30.112/52.155/738.753/42.655 ms
+
+############## mia - 06/27/21 00:27:08 EST -0500 ##############
+
+2021-06-28 00:02:19 284 packets transmitted, 284 received, 0% packet loss, time 84911151ms
+2021-06-28 00:02:19 rtt min/avg/max/mdev = 31.389/49.124/139.462/12.745 ms
+
+############## mia - 07/03/21 00:27:14 EST -0500 ##############
+
+2021-07-04 00:08:49 284 packets transmitted, 270 received, 4% packet loss, time 84995471ms
+2021-07-04 00:08:49 rtt min/avg/max/mdev = 42.922/412.205/5265.913/606.429 ms
+
+############## mia - 07/04/21 00:27:15 EST -0500 ##############
+
+2021-07-05 00:08:40 284 packets transmitted, 254 received, 10% packet loss, time 84985082ms
+2021-07-05 00:08:40 rtt min/avg/max/mdev = 43.294/620.855/11607.720/1037.334 ms
+
+############## mia - 07/05/21 00:27:18 EST -0500 ##############
+
+2021-07-06 00:08:08 284 packets transmitted, 275 received, 3% packet loss, time 84949443ms
+2021-07-06 00:08:08 rtt min/avg/max/mdev = 52.275/489.713/16729.358/1347.254 ms
+
+############## mia - 07/06/21 00:27:17 EST -0500 ##############
+
+2021-07-07 00:07:41 284 packets transmitted, 273 received, 3% packet loss, time 84923872ms
+2021-07-07 00:07:41 rtt min/avg/max/mdev = 44.838/338.707/3559.144/471.555 ms
+
+############## mia - 07/10/21 00:27:22 EST -0500 ##############
+
+2021-07-11 00:08:01 284 packets transmitted, 269 received, +1 errors, 5% packet loss, time 84939205ms
+2021-07-11 00:08:01 rtt min/avg/max/mdev = 33.036/253.818/8992.777/854.306 ms
+
+############## mia - 07/11/21 00:27:23 EST -0500 ##############
+
+2021-07-12 00:07:57 284 packets transmitted, 279 received, 1% packet loss, time 84933770ms
+2021-07-12 00:07:57 rtt min/avg/max/mdev = 33.938/206.139/10306.776/840.538 ms
+
+############## mia - 07/12/21 08:15:42 EST -0500 ##############
+
+############## mia - 07/12/21 08:15:42 EST -0500 ##############
+
+
+############## mia - 07/13/21 00:27:25 EST -0500 ##############
+
+2021-07-14 00:07:43 284 packets transmitted, 281 received, 1% packet loss, time 84917793ms
+2021-07-14 00:07:43 rtt min/avg/max/mdev = 33.916/71.595/806.317/72.156 ms
+
+############## mia - 07/14/21 00:27:29 EST -0500 ##############
+
+2021-07-15 00:07:56 284 packets transmitted, 282 received, +1 errors, 0% packet loss, time 84927088ms
+2021-07-15 00:07:56 rtt min/avg/max/mdev = 33.579/100.769/1438.493/167.049 ms
+
+############## mia - 07/15/21 00:27:27 EST -0500 ##############
+
+2021-07-16 00:07:46 284 packets transmitted, 282 received, 0% packet loss, time 84918299ms
+2021-07-16 00:07:46 rtt min/avg/max/mdev = 35.091/97.518/1465.046/130.422 ms
+
+############## mia - 07/17/21 00:27:29 EST -0500 ##############
+
+2021-07-18 00:07:53 284 packets transmitted, 280 received, 1% packet loss, time 84924143ms
+2021-07-18 00:07:53 rtt min/avg/max/mdev = 31.996/82.046/1045.263/96.606 ms
+
+############## mia - 07/18/21 00:27:30 EST -0500 ##############
+
+2021-07-19 00:07:50 284 packets transmitted, 282 received, 0% packet loss, time 84919084ms
+2021-07-19 00:07:50 rtt min/avg/max/mdev = 34.040/93.326/1096.924/116.039 ms
+
+############## mia - 07/19/21 00:27:31 EST -0500 ##############
+
+2021-07-20 00:02:50 284 packets transmitted, 284 received, 0% packet loss, time 84918879ms
+2021-07-20 00:02:50 rtt min/avg/max/mdev = 33.313/80.419/786.775/86.935 ms
+
+############## mia - 07/20/21 00:27:33 EST -0500 ##############
+
+2021-07-21 00:02:52 284 packets transmitted, 284 received, 0% packet loss, time 84919036ms
+2021-07-21 00:02:52 rtt min/avg/max/mdev = 36.056/86.795/1171.237/105.017 ms
+
+############## mia - 07/21/21 00:27:34 EST -0500 ##############
+
+2021-07-22 00:08:13 284 packets transmitted, 281 received, 1% packet loss, time 84939566ms
+2021-07-22 00:08:13 rtt min/avg/max/mdev = 34.685/115.837/1723.626/230.912 ms
+
+############## mia - 07/22/21 00:27:37 EST -0500 ##############
+
+2021-07-23 00:08:08 284 packets transmitted, 283 received, 0% packet loss, time 84931206ms
+2021-07-23 00:08:08 rtt min/avg/max/mdev = 42.985/113.753/1478.854/182.491 ms
+
+############## mia - 07/23/21 00:27:34 EST -0500 ##############
+
+2021-07-24 00:08:08 284 packets transmitted, 283 received, 0% packet loss, time 84933907ms
+2021-07-24 00:08:08 rtt min/avg/max/mdev = 36.562/87.381/1416.132/123.148 ms
+
+############## mia - 07/24/21 00:27:38 EST -0500 ##############
+
+2021-07-25 00:08:06 284 packets transmitted, 283 received, 0% packet loss, time 84928028ms
+2021-07-25 00:08:06 rtt min/avg/max/mdev = 35.020/105.976/1484.724/151.341 ms
+
+############## mia - 07/25/21 00:27:37 EST -0500 ##############
+
+2021-07-26 00:08:06 284 packets transmitted, 283 received, 0% packet loss, time 84928525ms
+2021-07-26 00:08:06 rtt min/avg/max/mdev = 41.086/123.044/8428.789/508.600 ms
+
+############## mia - 07/27/21 00:27:40 EST -0500 ##############
+
+2021-07-28 00:08:08 284 packets transmitted, 282 received, 0% packet loss, time 84928480ms
+2021-07-28 00:08:08 rtt min/avg/max/mdev = 36.826/144.142/1539.185/210.393 ms
+
+############## mia - 07/28/21 00:27:40 EST -0500 ##############
+
+2021-07-29 00:08:14 284 packets transmitted, 283 received, 0% packet loss, time 84933312ms
+2021-07-29 00:08:14 rtt min/avg/max/mdev = 41.178/137.714/1919.509/196.142 ms
+
+############## mia - 07/29/21 00:27:42 EST -0500 ##############
+
+2021-07-30 00:08:09 284 packets transmitted, 283 received, 0% packet loss, time 84926203ms
+2021-07-30 00:08:09 rtt min/avg/max/mdev = 42.188/122.792/1100.699/151.797 ms
+
+############## mia - 07/30/21 00:27:43 EST -0500 ##############
+
+2021-07-31 00:08:18 284 packets transmitted, 283 received, 0% packet loss, time 84934521ms
+2021-07-31 00:08:18 rtt min/avg/max/mdev = 40.936/104.339/1489.356/112.300 ms
+
+############## mia - 07/31/21 00:27:44 EST -0500 ##############
+
+2021-08-01 00:03:03 284 packets transmitted, 284 received, 0% packet loss, time 84919113ms
+2021-08-01 00:03:03 rtt min/avg/max/mdev = 39.672/133.328/1438.098/172.843 ms
+
+############## mia - 08/01/21 00:27:44 EST -0500 ##############
+
+2021-08-02 00:03:04 284 packets transmitted, 284 received, 0% packet loss, time 84919838ms
+2021-08-02 00:03:04 rtt min/avg/max/mdev = 38.982/123.806/1320.603/150.196 ms
+
+############## mia - 08/02/21 00:27:46 EST -0500 ##############
+
+2021-08-03 00:03:06 284 packets transmitted, 284 received, 0% packet loss, time 84919939ms
+2021-08-03 00:03:06 rtt min/avg/max/mdev = 39.206/110.388/704.407/101.900 ms
+
+############## mia - 08/03/21 00:27:45 EST -0500 ##############
+
+2021-08-04 00:03:05 284 packets transmitted, 284 received, 0% packet loss, time 84919872ms
+2021-08-04 00:03:05 rtt min/avg/max/mdev = 42.384/133.489/1276.779/160.354 ms
+
+############## mia - 08/04/21 00:27:49 EST -0500 ##############
+
+2021-08-05 00:03:08 284 packets transmitted, 284 received, 0% packet loss, time 84919219ms
+2021-08-05 00:03:08 rtt min/avg/max/mdev = 42.348/118.199/1602.892/166.096 ms
+
+############## mia - 08/05/21 00:27:47 EST -0500 ##############
+
+2021-08-06 00:03:07 284 packets transmitted, 284 received, 0% packet loss, time 84919894ms
+2021-08-06 00:03:07 rtt min/avg/max/mdev = 40.296/109.881/1261.195/148.311 ms
+
+############## mia - 08/06/21 00:27:50 EST -0500 ##############
+
+2021-08-07 00:03:09 284 packets transmitted, 284 received, 0% packet loss, time 84919155ms
+2021-08-07 00:03:09 rtt min/avg/max/mdev = 34.366/102.016/1258.834/117.291 ms
+
+############## mia - 08/07/21 00:27:50 EST -0500 ##############
+
+2021-08-08 00:08:22 284 packets transmitted, 283 received, 0% packet loss, time 84932141ms
+2021-08-08 00:08:22 rtt min/avg/max/mdev = 36.781/83.796/339.919/47.019 ms
+
+############## mia - 08/08/21 00:27:56 EST -0500 ##############
+
+2021-08-09 00:03:15 284 packets transmitted, 284 received, 0% packet loss, time 84919491ms
+2021-08-09 00:03:15 rtt min/avg/max/mdev = 33.276/87.503/1011.422/72.897 ms
+
+############## mia - 08/18/21 00:28:01 EST -0500 ##############
+
+2021-08-19 00:03:20 284 packets transmitted, 284 received, 0% packet loss, time 84918560ms
+2021-08-19 00:03:20 rtt min/avg/max/mdev = 40.750/80.725/566.772/45.817 ms
+
+############## mia - 08/19/21 00:28:05 EST -0500 ##############
+
+2021-08-20 00:03:24 284 packets transmitted, 284 received, 0% packet loss, time 84919447ms
+2021-08-20 00:03:24 rtt min/avg/max/mdev = 40.853/82.958/808.188/61.439 ms
+
+############## mia - 08/20/21 00:28:03 EST -0500 ##############
+
+2021-08-21 00:03:24 284 packets transmitted, 284 received, 0% packet loss, time 84920254ms
+2021-08-21 00:03:24 rtt min/avg/max/mdev = 44.200/82.007/529.936/47.997 ms
+
+############## mia - 08/21/21 00:28:07 EST -0500 ##############
+
+2021-08-22 00:03:26 284 packets transmitted, 284 received, 0% packet loss, time 84919693ms
+2021-08-22 00:03:26 rtt min/avg/max/mdev = 46.100/85.199/1170.437/75.874 ms
+
+############## mia - 08/22/21 00:28:05 EST -0500 ##############
+
+2021-08-23 00:03:24 284 packets transmitted, 284 received, 0% packet loss, time 84918949ms
+2021-08-23 00:03:24 rtt min/avg/max/mdev = 42.108/75.231/589.364/42.636 ms
+
+############## mia - 08/23/21 00:28:07 EST -0500 ##############
+
+2021-08-24 00:03:27 284 packets transmitted, 284 received, 0% packet loss, time 84919292ms
+2021-08-24 00:03:27 rtt min/avg/max/mdev = 44.802/83.248/825.920/65.752 ms
+
+############## mia - 08/24/21 00:28:07 EST -0500 ##############
+
+2021-08-25 00:03:26 284 packets transmitted, 284 received, 0% packet loss, time 84918754ms
+2021-08-25 00:03:26 rtt min/avg/max/mdev = 47.674/81.105/1088.985/78.453 ms
+
+############## mia - 08/25/21 00:28:08 EST -0500 ##############
+
+2021-08-26 00:03:27 284 packets transmitted, 284 received, 0% packet loss, time 84919134ms
+2021-08-26 00:03:27 rtt min/avg/max/mdev = 44.434/84.398/739.443/66.125 ms
+
+############## mia - 08/26/21 00:28:11 EST -0500 ##############
+
+2021-08-27 00:08:38 284 packets transmitted, 283 received, 0% packet loss, time 84927112ms
+2021-08-27 00:08:38 rtt min/avg/max/mdev = 42.233/78.943/807.229/69.107 ms
+
+############## mia - 08/27/21 00:28:13 EST -0500 ##############
+
+2021-08-28 00:08:56 284 packets transmitted, 282 received, 0% packet loss, time 84943867ms
+2021-08-28 00:08:56 rtt min/avg/max/mdev = 40.612/93.303/1345.754/126.399 ms
+
+############## mia - 08/28/21 00:28:12 EST -0500 ##############
+
+2021-08-29 00:03:32 284 packets transmitted, 284 received, 0% packet loss, time 84919177ms
+2021-08-29 00:03:32 rtt min/avg/max/mdev = 42.689/88.914/948.833/78.217 ms
+
+############## mia - 08/29/21 00:28:14 EST -0500 ##############
+
+2021-08-30 00:08:36 284 packets transmitted, 283 received, 0% packet loss, time 84922711ms
+2021-08-30 00:08:36 rtt min/avg/max/mdev = 42.644/90.855/1383.205/100.244 ms
+
+############## mia - 08/30/21 00:28:14 EST -0500 ##############
+
+2021-08-31 00:03:33 284 packets transmitted, 284 received, 0% packet loss, time 84919439ms
+2021-08-31 00:03:33 rtt min/avg/max/mdev = 44.184/86.696/1327.852/107.952 ms
+
+############## mia - 08/31/21 00:28:14 EST -0500 ##############
+
+2021-09-01 00:03:35 284 packets transmitted, 284 received, 0% packet loss, time 84920637ms
+2021-09-01 00:03:35 rtt min/avg/max/mdev = 45.533/85.592/991.215/71.444 ms
+
+############## mia - 09/01/21 00:28:17 EST -0500 ##############
+
+2021-09-02 00:03:37 284 packets transmitted, 284 received, 0% packet loss, time 84919717ms
+2021-09-02 00:03:37 rtt min/avg/max/mdev = 43.872/88.920/1088.837/82.364 ms
+
+############## mia - 09/02/21 00:28:16 EST -0500 ##############
+
+2021-09-03 00:03:35 284 packets transmitted, 284 received, 0% packet loss, time 84918971ms
+2021-09-03 00:03:35 rtt min/avg/max/mdev = 42.612/87.762/1282.484/100.624 ms
+
+############## mia - 09/03/21 00:28:18 EST -0500 ##############
+
+2021-09-04 00:08:37 284 packets transmitted, 283 received, 0% packet loss, time 84919717ms
+2021-09-04 00:08:37 rtt min/avg/max/mdev = 42.520/80.785/321.281/46.770 ms
+
+############## mia - 09/04/21 00:28:19 EST -0500 ##############
+
+2021-09-05 00:03:39 284 packets transmitted, 284 received, 0% packet loss, time 84919167ms
+2021-09-05 00:03:39 rtt min/avg/max/mdev = 41.622/88.318/1428.355/96.746 ms
+
+############## mia - 09/05/21 00:28:21 EST -0500 ##############
+
+2021-09-06 00:03:40 284 packets transmitted, 284 received, 0% packet loss, time 84918817ms
+2021-09-06 00:03:40 rtt min/avg/max/mdev = 40.454/86.467/418.205/56.966 ms
+
+############## mia - 09/06/21 00:28:23 EST -0500 ##############
+
+2021-09-07 00:09:07 284 packets transmitted, 282 received, 0% packet loss, time 84944061ms
+2021-09-07 00:09:07 rtt min/avg/max/mdev = 47.471/86.645/1533.447/108.131 ms
+
+############## mia - 09/07/21 00:28:21 EST -0500 ##############
+
+2021-09-08 00:08:48 284 packets transmitted, 283 received, 0% packet loss, time 84926290ms
+2021-09-08 00:08:48 rtt min/avg/max/mdev = 42.831/90.724/1399.581/125.989 ms
+
+############## mia - 09/08/21 00:28:23 EST -0500 ##############
+
+2021-09-09 00:08:56 284 packets transmitted, 283 received, 0% packet loss, time 84932754ms
+2021-09-09 00:08:56 rtt min/avg/max/mdev = 42.799/93.808/1550.686/135.007 ms
+
+############## mia - 09/09/21 00:28:23 EST -0500 ##############
+
+2021-09-10 00:08:54 284 packets transmitted, 283 received, 0% packet loss, time 84930439ms
+2021-09-10 00:08:54 rtt min/avg/max/mdev = 41.837/95.596/1468.558/128.869 ms
+
+############## mia - 09/10/21 00:28:28 EST -0500 ##############
+
+2021-09-11 00:03:47 284 packets transmitted, 284 received, 0% packet loss, time 84918521ms
+2021-09-11 00:03:47 rtt min/avg/max/mdev = 48.647/93.268/1362.944/98.308 ms
+
+############## mia - 09/11/21 00:28:24 EST -0500 ##############
+
+2021-09-12 00:03:44 284 packets transmitted, 284 received, 0% packet loss, time 84919648ms
+2021-09-12 00:03:44 rtt min/avg/max/mdev = 37.218/79.056/563.434/50.704 ms
+
+############## mia - 09/12/21 00:28:26 EST -0500 ##############
+
+2021-09-13 00:08:55 284 packets transmitted, 283 received, 0% packet loss, time 84927596ms
+2021-09-13 00:08:55 rtt min/avg/max/mdev = 43.657/109.360/1409.384/141.253 ms
+
+############## mia - 09/13/21 00:28:29 EST -0500 ##############
+
+2021-09-14 00:03:48 284 packets transmitted, 284 received, 0% packet loss, time 84919349ms
+2021-09-14 00:03:48 rtt min/avg/max/mdev = 36.281/81.729/1045.753/70.467 ms
+
+############## mia - 09/14/21 00:28:31 EST -0500 ##############
+
+2021-09-15 00:03:51 284 packets transmitted, 284 received, 0% packet loss, time 84919983ms
+2021-09-15 00:03:51 rtt min/avg/max/mdev = 37.217/100.484/1304.186/123.730 ms
+
+############## mia - 09/15/21 00:28:31 EST -0500 ##############
+
+2021-09-16 00:03:50 284 packets transmitted, 284 received, 0% packet loss, time 84918606ms
+2021-09-16 00:03:50 rtt min/avg/max/mdev = 41.254/74.230/684.127/53.998 ms
+
+############## mia - 09/16/21 00:28:30 EST -0500 ##############
+
+2021-09-17 00:03:49 284 packets transmitted, 284 received, 0% packet loss, time 84919035ms
+2021-09-17 00:03:49 rtt min/avg/max/mdev = 36.103/83.466/854.979/74.790 ms
+
+############## mia - 09/17/21 00:28:32 EST -0500 ##############
+
+2021-09-18 00:03:52 284 packets transmitted, 284 received, 0% packet loss, time 84919458ms
+2021-09-18 00:03:52 rtt min/avg/max/mdev = 44.280/91.531/994.180/87.887 ms
+
+############## mia - 09/18/21 00:28:31 EST -0500 ##############
+
+2021-09-19 00:08:58 284 packets transmitted, 277 received, 2% packet loss, time 84926913ms
+2021-09-19 00:08:58 rtt min/avg/max/mdev = 41.054/96.480/1502.012/129.682 ms
+
+############## mia - 09/19/21 00:28:34 EST -0500 ##############
+
+2021-09-20 00:09:04 284 packets transmitted, 283 received, 0% packet loss, time 84930088ms
+2021-09-20 00:09:04 rtt min/avg/max/mdev = 41.118/83.891/1418.002/120.977 ms
+
+############## mia - 09/20/21 00:28:35 EST -0500 ##############
+
+2021-09-21 00:09:08 284 packets transmitted, 280 received, 1% packet loss, time 84933286ms
+2021-09-21 00:09:08 rtt min/avg/max/mdev = 42.181/77.016/1478.323/94.889 ms
+
+############## mia - 09/21/21 00:28:35 EST -0500 ##############
+
+2021-09-22 00:09:11 284 packets transmitted, 283 received, 0% packet loss, time 84935818ms
+2021-09-22 00:09:11 rtt min/avg/max/mdev = 46.474/69.975/636.683/40.645 ms
+
+############## mia - 09/22/21 00:28:40 EST -0500 ##############
+
+2021-09-23 00:09:10 284 packets transmitted, 281 received, 1% packet loss, time 84929724ms
+2021-09-23 00:09:10 rtt min/avg/max/mdev = 33.278/90.205/1326.569/108.998 ms
+
+############## mia - 09/23/21 00:28:37 EST -0500 ##############
+
+2021-09-24 00:03:57 284 packets transmitted, 284 received, 0% packet loss, time 84919637ms
+2021-09-24 00:03:57 rtt min/avg/max/mdev = 38.045/73.075/662.595/41.216 ms
+
+############## mia - 09/24/21 00:28:39 EST -0500 ##############
+
+2021-09-25 00:03:58 284 packets transmitted, 284 received, 0% packet loss, time 84919596ms
+2021-09-25 00:03:58 rtt min/avg/max/mdev = 51.171/80.274/300.264/26.126 ms
+
+############## mia - 09/25/21 00:28:41 EST -0500 ##############
+
+2021-09-26 00:04:00 284 packets transmitted, 284 received, 0% packet loss, time 84918733ms
+2021-09-26 00:04:00 rtt min/avg/max/mdev = 37.228/72.914/379.084/35.768 ms
+
+############## mia - 09/26/21 00:28:41 EST -0500 ##############
+
+2021-09-27 00:04:01 284 packets transmitted, 284 received, 0% packet loss, time 84919680ms
+2021-09-27 00:04:01 rtt min/avg/max/mdev = 39.714/67.430/250.184/22.572 ms
+
+############## mia - 09/27/21 00:28:44 EST -0500 ##############
+
+2021-09-28 00:09:19 284 packets transmitted, 283 received, 0% packet loss, time 84935382ms
+2021-09-28 00:09:19 rtt min/avg/max/mdev = 36.103/66.102/1241.110/72.937 ms
+
+############## mia - 09/28/21 00:28:49 EST -0500 ##############
+
+2021-09-29 00:04:08 284 packets transmitted, 284 received, 0% packet loss, time 84919340ms
+2021-09-29 00:04:08 rtt min/avg/max/mdev = 39.503/66.359/701.492/45.349 ms
+
+############## mia - 10/01/21 00:28:46 EST -0500 ##############
+
+2021-10-02 00:04:07 284 packets transmitted, 284 received, 0% packet loss, time 84920115ms
+2021-10-02 00:04:07 rtt min/avg/max/mdev = 40.411/67.072/277.296/24.099 ms
+
+############## mia - 10/02/21 00:28:47 EST -0500 ##############
+
+2021-10-03 00:04:08 284 packets transmitted, 284 received, 0% packet loss, time 84920681ms
+2021-10-03 00:04:08 rtt min/avg/max/mdev = 39.737/70.460/483.487/44.967 ms
+
+############## mia - 10/03/21 00:28:48 EST -0500 ##############
+
+2021-10-04 00:04:07 284 packets transmitted, 284 received, 0% packet loss, time 84919611ms
+2021-10-04 00:04:07 rtt min/avg/max/mdev = 37.949/66.422/265.574/28.835 ms
+
+############## mia - 10/04/21 00:28:48 EST -0500 ##############
+
+2021-10-05 00:04:03 284 packets transmitted, 284 received, 0% packet loss, time 84914192ms
+2021-10-05 00:04:03 rtt min/avg/max/mdev = 37.573/75.933/640.940/62.425 ms
+
+############## mia - 10/05/21 00:28:51 EST -0500 ##############
+
+2021-10-06 00:04:06 284 packets transmitted, 284 received, 0% packet loss, time 84914540ms
+2021-10-06 00:04:06 rtt min/avg/max/mdev = 41.567/64.859/191.981/16.001 ms
+
+############## mia - 10/06/21 00:28:49 EST -0500 ##############
+
+2021-10-07 00:09:09 284 packets transmitted, 283 received, 0% packet loss, time 84919767ms
+2021-10-07 00:09:09 rtt min/avg/max/mdev = 37.984/66.046/239.276/21.541 ms
+
+############## mia - 10/07/21 00:28:52 EST -0500 ##############
+
+2021-10-08 00:04:12 284 packets transmitted, 284 received, 0% packet loss, time 84920280ms
+2021-10-08 00:04:12 rtt min/avg/max/mdev = 48.713/63.893/118.287/9.353 ms
+
+############## mia - 10/08/21 00:28:52 EST -0500 ##############
+
+2021-10-09 00:04:12 284 packets transmitted, 284 received, 0% packet loss, time 84920287ms
+2021-10-09 00:04:12 rtt min/avg/max/mdev = 49.556/76.090/773.463/51.722 ms
+
+############## mia - 10/09/21 00:28:54 EST -0500 ##############
+
+2021-10-10 00:04:02 284 packets transmitted, 284 received, 0% packet loss, time 84907803ms
+2021-10-10 00:04:02 rtt min/avg/max/mdev = 48.020/72.538/538.957/39.210 ms
+
+############## mia - 10/10/21 00:28:54 EST -0500 ##############
+
+2021-10-11 00:04:14 284 packets transmitted, 284 received, 0% packet loss, time 84919521ms
+2021-10-11 00:04:14 rtt min/avg/max/mdev = 41.725/67.764/236.350/20.054 ms
+
+############## mia - 10/11/21 00:28:54 EST -0500 ##############
+
+2021-10-12 00:04:16 284 packets transmitted, 284 received, 0% packet loss, time 84921454ms
+2021-10-12 00:04:16 rtt min/avg/max/mdev = 48.451/81.796/1344.899/116.716 ms
+
+############## mia - 10/12/21 00:28:58 EST -0500 ##############
+
+2021-10-13 00:04:18 284 packets transmitted, 284 received, 0% packet loss, time 84919427ms
+2021-10-13 00:04:18 rtt min/avg/max/mdev = 40.332/75.216/2050.592/129.794 ms
+
+############## mia - 10/13/21 00:28:56 EST -0500 ##############
+
+2021-10-14 00:04:17 284 packets transmitted, 284 received, 0% packet loss, time 84920248ms
+2021-10-14 00:04:17 rtt min/avg/max/mdev = 39.407/71.439/340.597/31.145 ms
+
+############## mia - 10/14/21 00:28:59 EST -0500 ##############
+
+2021-10-15 00:04:19 284 packets transmitted, 284 received, 0% packet loss, time 84920065ms
+2021-10-15 00:04:19 rtt min/avg/max/mdev = 35.163/71.823/528.947/42.532 ms
+
+############## mia - 10/15/21 00:28:59 EST -0500 ##############
+
+2021-10-16 00:04:19 284 packets transmitted, 284 received, 0% packet loss, time 84919983ms
+2021-10-16 00:04:19 rtt min/avg/max/mdev = 49.536/74.409/535.717/43.070 ms
+
+############## mia - 10/16/21 00:29:00 EST -0500 ##############
+
+2021-10-17 00:04:19 284 packets transmitted, 284 received, 0% packet loss, time 84919177ms
+2021-10-17 00:04:19 rtt min/avg/max/mdev = 38.311/65.028/283.211/22.305 ms
+
+############## mia - 10/17/21 00:29:01 EST -0500 ##############
+
+2021-10-18 00:04:20 284 packets transmitted, 284 received, 0% packet loss, time 84919549ms
+2021-10-18 00:04:20 rtt min/avg/max/mdev = 41.974/67.468/457.505/29.188 ms
+
+############## mia - 10/18/21 00:29:03 EST -0500 ##############
+
+2021-10-19 00:04:23 284 packets transmitted, 284 received, 0% packet loss, time 84920167ms
+2021-10-19 00:04:23 rtt min/avg/max/mdev = 42.531/70.456/332.192/23.679 ms
+
+############## mia - 10/19/21 00:29:02 EST -0500 ##############
+
+2021-10-20 00:04:22 284 packets transmitted, 284 received, 0% packet loss, time 84919656ms
+2021-10-20 00:04:22 rtt min/avg/max/mdev = 43.102/84.784/1313.325/93.291 ms
+
+############## mia - 10/20/21 00:29:05 EST -0500 ##############
+
+2021-10-21 00:04:25 284 packets transmitted, 284 received, 0% packet loss, time 84919887ms
+2021-10-21 00:04:25 rtt min/avg/max/mdev = 43.077/83.816/1533.316/93.653 ms
+
+############## mia - 10/21/21 00:29:05 EST -0500 ##############
+
+2021-10-22 00:04:16 284 packets transmitted, 284 received, 0% packet loss, time 84911201ms
+2021-10-22 00:04:16 rtt min/avg/max/mdev = 43.274/80.701/664.936/58.263 ms
+
+############## mia - 10/22/21 00:29:06 EST -0500 ##############
+
+2021-10-23 00:04:25 284 packets transmitted, 284 received, 0% packet loss, time 84919366ms
+2021-10-23 00:04:25 rtt min/avg/max/mdev = 41.653/73.529/539.784/36.723 ms
+
+############## mia - 10/23/21 00:29:11 EST -0500 ##############
+
+2021-10-24 00:04:14 284 packets transmitted, 284 received, 0% packet loss, time 84902662ms
+2021-10-24 00:04:14 rtt min/avg/max/mdev = 43.826/110.520/8644.297/509.430 ms
+
+############## mia - 10/24/21 00:29:08 EST -0500 ##############
+
+2021-10-25 00:04:29 284 packets transmitted, 284 received, 0% packet loss, time 84920488ms
+2021-10-25 00:04:29 rtt min/avg/max/mdev = 40.424/73.170/294.408/35.438 ms
+
+############## mia - 10/25/21 00:29:11 EST -0500 ##############
+
+2021-10-26 00:09:43 284 packets transmitted, 283 received, 0% packet loss, time 84931430ms
+2021-10-26 00:09:43 rtt min/avg/max/mdev = 41.374/93.006/1442.000/143.330 ms
+
+############## mia - 10/26/21 00:29:11 EST -0500 ##############
+
+2021-10-27 00:09:51 284 packets transmitted, 282 received, 0% packet loss, time 84940392ms
+2021-10-27 00:09:51 rtt min/avg/max/mdev = 38.174/90.453/1525.482/152.722 ms
+
+############## mia - 10/27/21 00:29:14 EST -0500 ##############
+
+2021-10-28 00:04:21 284 packets transmitted, 284 received, 0% packet loss, time 84907688ms
+2021-10-28 00:04:21 rtt min/avg/max/mdev = 36.057/68.404/842.824/60.585 ms
+
+############## mia - 10/28/21 00:29:12 EST -0500 ##############
+
+2021-10-29 00:04:14 284 packets transmitted, 284 received, 0% packet loss, time 84902079ms
+2021-10-29 00:04:14 rtt min/avg/max/mdev = 38.640/66.199/543.387/35.865 ms
+
+############## mia - 10/29/21 00:29:14 EST -0500 ##############
+
+2021-10-30 00:04:16 284 packets transmitted, 284 received, 0% packet loss, time 84902053ms
+2021-10-30 00:04:16 rtt min/avg/max/mdev = 38.533/73.665/653.601/58.175 ms
+
+############## mia - 10/31/21 00:29:17 EST -0500 ##############
+
+tail: cannot open '/data/mia-logs/ping-full.log' for reading: No such file or directory
+
+############## mia - 11/01/21 00:29:17 EST -0500 ##############
+
+2021-11-02 00:04:36 284 packets transmitted, 284 received, 0% packet loss, time 84919452ms
+2021-11-02 00:04:36 rtt min/avg/max/mdev = 35.758/62.143/274.935/30.060 ms
+
+############## mia - 11/02/21 00:29:19 EST -0500 ##############
+
+2021-11-03 00:04:39 284 packets transmitted, 284 received, 0% packet loss, time 84920078ms
+2021-11-03 00:04:39 rtt min/avg/max/mdev = 37.913/76.540/2227.016/134.448 ms
+
+############## mia - 11/03/21 00:29:19 EST -0500 ##############
+
+2021-11-04 00:04:38 284 packets transmitted, 284 received, 0% packet loss, time 84919315ms
+2021-11-04 00:04:38 rtt min/avg/max/mdev = 38.810/70.038/862.705/71.752 ms
+
+############## mia - 11/04/21 00:29:20 EST -0500 ##############
+
+2021-11-05 00:04:39 284 packets transmitted, 284 received, 0% packet loss, time 84918974ms
+2021-11-05 00:04:39 rtt min/avg/max/mdev = 34.538/64.270/463.527/36.126 ms
+
+############## mia - 11/05/21 00:29:22 EST -0500 ##############
+
+2021-11-06 00:04:42 284 packets transmitted, 284 received, 0% packet loss, time 84918994ms
+2021-11-06 00:04:42 rtt min/avg/max/mdev = 38.727/78.593/516.743/61.804 ms
+
+############## mia - 11/06/21 00:29:25 EST -0500 ##############
+
+2021-11-07 00:04:44 284 packets transmitted, 284 received, 0% packet loss, time 84919279ms
+2021-11-07 00:04:44 rtt min/avg/max/mdev = 38.762/64.417/485.367/32.739 ms
+
+############## mia - 11/07/21 00:29:26 EST -0500 ##############
+
+2021-11-08 00:04:45 284 packets transmitted, 284 received, 0% packet loss, time 84919274ms
+2021-11-08 00:04:45 rtt min/avg/max/mdev = 36.757/67.276/469.072/42.832 ms
+
+############## mia - 11/08/21 00:29:32 EST -0500 ##############
+
+2021-11-09 00:04:51 284 packets transmitted, 284 received, 0% packet loss, time 84919560ms
+2021-11-09 00:04:51 rtt min/avg/max/mdev = 41.208/78.346/1332.602/104.847 ms
+
+############## mia - 11/09/21 00:29:28 EST -0500 ##############
+
+2021-11-10 00:09:48 284 packets transmitted, 283 received, 0% packet loss, time 84919564ms
+2021-11-10 00:09:48 rtt min/avg/max/mdev = 36.018/85.379/2011.854/175.173 ms
+
+############## mia - 11/10/21 00:29:30 EST -0500 ##############
+
+2021-11-11 00:10:01 284 packets transmitted, 283 received, 0% packet loss, time 84930818ms
+2021-11-11 00:10:01 rtt min/avg/max/mdev = 37.439/70.671/1331.527/79.339 ms
+
+############## mia - 11/11/21 00:29:31 EST -0500 ##############
+
+2021-11-12 00:04:50 284 packets transmitted, 284 received, 0% packet loss, time 84919381ms
+2021-11-12 00:04:50 rtt min/avg/max/mdev = 38.232/70.103/1500.361/88.986 ms
+
+############## mia - 11/12/21 00:29:30 EST -0500 ##############
+
+2021-11-13 00:09:50 284 packets transmitted, 283 received, 0% packet loss, time 84920199ms
+2021-11-13 00:09:50 rtt min/avg/max/mdev = 35.418/76.120/1316.891/106.295 ms
+
+############## mia - 11/13/21 00:29:33 EST -0500 ##############
+
+2021-11-14 00:04:52 284 packets transmitted, 284 received, 0% packet loss, time 84919058ms
+2021-11-14 00:04:52 rtt min/avg/max/mdev = 28.723/54.279/287.698/20.097 ms
+
+############## mia - 11/14/21 00:29:35 EST -0500 ##############
+
+2021-11-15 00:04:56 284 packets transmitted, 284 received, 0% packet loss, time 84921010ms
+2021-11-15 00:04:56 rtt min/avg/max/mdev = 34.255/55.619/250.011/20.181 ms
+
+############## mia - 11/15/21 00:29:36 EST -0500 ##############
+
+2021-11-16 00:04:54 284 packets transmitted, 284 received, 0% packet loss, time 84918206ms
+2021-11-16 00:04:54 rtt min/avg/max/mdev = 32.177/55.188/616.902/36.125 ms
+
+############## mia - 11/16/21 00:29:39 EST -0500 ##############
+
+2021-11-17 00:04:58 284 packets transmitted, 284 received, 0% packet loss, time 84919214ms
+2021-11-17 00:04:58 rtt min/avg/max/mdev = 30.760/59.191/172.412/18.142 ms
+
+############## mia - 11/17/21 00:29:40 EST -0500 ##############
+
+2021-11-18 00:05:00 284 packets transmitted, 284 received, 0% packet loss, time 84920258ms
+2021-11-18 00:05:00 rtt min/avg/max/mdev = 36.457/56.039/149.737/15.640 ms
+
+############## mia - 11/18/21 00:29:41 EST -0500 ##############
+
+2021-11-19 00:05:00 284 packets transmitted, 284 received, 0% packet loss, time 84919073ms
+2021-11-19 00:05:00 rtt min/avg/max/mdev = 37.111/60.031/978.942/61.352 ms
+
+############## mia - 11/19/21 00:29:42 EST -0500 ##############
+
+2021-11-20 00:10:03 284 packets transmitted, 283 received, 0% packet loss, time 84921148ms
+2021-11-20 00:10:03 rtt min/avg/max/mdev = 37.462/58.324/232.630/22.961 ms
+
+############## mia - 11/20/21 00:29:44 EST -0500 ##############
+
+2021-11-21 00:05:04 284 packets transmitted, 284 received, 0% packet loss, time 84920156ms
+2021-11-21 00:05:04 rtt min/avg/max/mdev = 33.492/54.417/175.894/17.047 ms
+
+############## mia - 11/21/21 00:29:46 EST -0500 ##############
+
+2021-11-22 00:05:06 284 packets transmitted, 284 received, 0% packet loss, time 84920224ms
+2021-11-22 00:05:06 rtt min/avg/max/mdev = 35.922/62.735/1314.301/80.697 ms
+
+############## mia - 11/22/21 00:29:46 EST -0500 ##############
+
+2021-11-23 00:05:07 284 packets transmitted, 284 received, 0% packet loss, time 84920776ms
+2021-11-23 00:05:07 rtt min/avg/max/mdev = 34.536/63.598/738.170/63.657 ms
+
+############## mia - 11/23/21 00:29:49 EST -0500 ##############
+
+2021-11-24 00:05:10 284 packets transmitted, 284 received, 0% packet loss, time 84920512ms
+2021-11-24 00:05:10 rtt min/avg/max/mdev = 36.979/55.040/132.419/14.950 ms
+
+############## mia - 11/24/21 00:29:51 EST -0500 ##############
+
+2021-11-25 00:05:10 284 packets transmitted, 284 received, 0% packet loss, time 84919799ms
+2021-11-25 00:05:10 rtt min/avg/max/mdev = 32.147/59.599/404.187/26.441 ms
+
+############## mia - 11/25/21 00:29:55 EST -0500 ##############
+
+2021-11-26 00:05:15 284 packets transmitted, 284 received, 0% packet loss, time 84920068ms
+2021-11-26 00:05:15 rtt min/avg/max/mdev = 34.504/61.967/275.935/24.286 ms
+
+############## mia - 11/26/21 00:29:59 EST -0500 ##############
+
+2021-11-27 00:05:18 284 packets transmitted, 284 received, 0% packet loss, time 84918786ms
+2021-11-27 00:05:18 rtt min/avg/max/mdev = 38.812/58.821/357.668/25.033 ms
+
+############## mia - 11/27/21 00:29:54 EST -0500 ##############
+
+2021-11-28 00:05:14 284 packets transmitted, 284 received, 0% packet loss, time 84919717ms
+2021-11-28 00:05:14 rtt min/avg/max/mdev = 31.802/63.414/407.077/35.437 ms
+
+############## mia - 11/28/21 00:29:55 EST -0500 ##############
+
+2021-11-29 00:05:15 284 packets transmitted, 284 received, 0% packet loss, time 84919843ms
+2021-11-29 00:05:15 rtt min/avg/max/mdev = 34.089/58.993/150.942/20.544 ms
+
+############## mia - 12/01/21 00:30:02 EST -0500 ##############
+
+2021-12-02 00:05:22 284 packets transmitted, 284 received, 0% packet loss, time 84919608ms
+2021-12-02 00:05:22 rtt min/avg/max/mdev = 39.955/63.063/467.839/30.193 ms
+
+############## mia - 12/02/21 00:30:02 EST -0500 ##############
+
+2021-12-03 00:05:22 284 packets transmitted, 284 received, 0% packet loss, time 84919717ms
+2021-12-03 00:05:22 rtt min/avg/max/mdev = 31.822/83.295/803.571/82.935 ms
+
+############## mia - 12/03/21 00:30:03 EST -0500 ##############
+
+2021-12-04 00:05:22 284 packets transmitted, 284 received, 0% packet loss, time 84919543ms
+2021-12-04 00:05:22 rtt min/avg/max/mdev = 34.520/58.021/189.561/18.345 ms
+
+############## mia - 12/04/21 00:30:04 EST -0500 ##############
+
+2021-12-05 00:05:23 284 packets transmitted, 284 received, 0% packet loss, time 84919615ms
+2021-12-05 00:05:23 rtt min/avg/max/mdev = 33.394/57.640/315.403/22.825 ms
+
+############## mia - 12/05/21 00:30:07 EST -0500 ##############
+
+2021-12-06 00:05:26 284 packets transmitted, 284 received, 0% packet loss, time 84919263ms
+2021-12-06 00:05:26 rtt min/avg/max/mdev = 32.475/54.822/132.158/15.987 ms
+
+############## mia - 12/06/21 00:30:07 EST -0500 ##############
+
+2021-12-07 00:05:27 284 packets transmitted, 284 received, 0% packet loss, time 84919851ms
+2021-12-07 00:05:27 rtt min/avg/max/mdev = 36.813/71.629/857.179/65.427 ms
+
+############## mia - 12/07/21 00:30:10 EST -0500 ##############
+
+2021-12-08 00:05:29 284 packets transmitted, 284 received, 0% packet loss, time 84919061ms
+2021-12-08 00:05:29 rtt min/avg/max/mdev = 35.324/60.897/442.776/28.214 ms
+
+############## mia - 12/08/21 00:30:11 EST -0500 ##############
+
+2021-12-09 00:05:30 284 packets transmitted, 284 received, 0% packet loss, time 84919583ms
+2021-12-09 00:05:30 rtt min/avg/max/mdev = 34.699/55.263/523.478/34.487 ms
+
+############## mia - 12/10/21 00:30:16 EST -0500 ##############
+
+2021-12-11 00:05:36 284 packets transmitted, 284 received, 0% packet loss, time 84920116ms
+2021-12-11 00:05:36 rtt min/avg/max/mdev = 38.501/61.869/178.089/19.235 ms
+
+############## mia - 12/11/21 00:30:14 EST -0500 ##############
+
+2021-12-12 00:05:34 284 packets transmitted, 284 received, 0% packet loss, time 84919585ms
+2021-12-12 00:05:34 rtt min/avg/max/mdev = 39.325/72.719/1173.192/87.644 ms
+
+############## mia - 12/12/21 00:30:15 EST -0500 ##############
+
+2021-12-13 00:05:35 284 packets transmitted, 284 received, 0% packet loss, time 84919555ms
+2021-12-13 00:05:35 rtt min/avg/max/mdev = 32.778/55.765/138.107/16.947 ms
+
+############## mia - 12/13/21 00:30:17 EST -0500 ##############
+
+2021-12-14 00:05:38 284 packets transmitted, 284 received, 0% packet loss, time 84920447ms
+2021-12-14 00:05:38 rtt min/avg/max/mdev = 31.269/64.763/1452.723/113.002 ms
+
+############## mia - 12/14/21 00:30:18 EST -0500 ##############
+
+2021-12-15 00:05:39 284 packets transmitted, 284 received, 0% packet loss, time 84920142ms
+2021-12-15 00:05:39 rtt min/avg/max/mdev = 31.588/55.020/137.955/16.903 ms
+
+############## mia - 12/15/21 00:30:23 EST -0500 ##############
+
+2021-12-16 00:05:43 284 packets transmitted, 284 received, 0% packet loss, time 84919522ms
+2021-12-16 00:05:43 rtt min/avg/max/mdev = 33.031/64.855/866.622/67.744 ms
+
+############## mia - 12/16/21 00:30:22 EST -0500 ##############
+
+2021-12-17 00:05:42 284 packets transmitted, 284 received, 0% packet loss, time 84919345ms
+2021-12-17 00:05:42 rtt min/avg/max/mdev = 29.450/50.547/132.196/13.757 ms
+
+############## mia - 12/17/21 00:30:25 EST -0500 ##############
+
+2021-12-18 00:05:45 284 packets transmitted, 284 received, 0% packet loss, time 84919269ms
+2021-12-18 00:05:45 rtt min/avg/max/mdev = 35.929/55.455/524.332/31.544 ms
+
+############## mia - 12/18/21 00:30:25 EST -0500 ##############
+
+2021-12-19 00:05:45 284 packets transmitted, 284 received, 0% packet loss, time 84919855ms
+2021-12-19 00:05:45 rtt min/avg/max/mdev = 32.377/51.557/136.116/13.132 ms
+
+############## mia - 12/19/21 00:30:26 EST -0500 ##############
+
+2021-12-20 00:05:46 284 packets transmitted, 284 received, 0% packet loss, time 84920100ms
+2021-12-20 00:05:46 rtt min/avg/max/mdev = 30.889/50.897/126.707/13.764 ms
+
+############## mia - 12/20/21 00:30:28 EST -0500 ##############
+
+2021-12-21 00:05:47 284 packets transmitted, 284 received, 0% packet loss, time 84919253ms
+2021-12-21 00:05:47 rtt min/avg/max/mdev = 32.372/50.724/126.418/15.385 ms
+
+############## mia - 12/21/21 00:30:31 EST -0500 ##############
+
+2021-12-22 00:05:50 284 packets transmitted, 284 received, 0% packet loss, time 84918700ms
+2021-12-22 00:05:50 rtt min/avg/max/mdev = 32.091/50.987/128.831/15.361 ms
+
+############## mia - 12/22/21 00:30:31 EST -0500 ##############
+
+2021-12-23 00:05:50 284 packets transmitted, 284 received, 0% packet loss, time 84918997ms
+2021-12-23 00:05:50 rtt min/avg/max/mdev = 32.735/55.142/263.138/22.372 ms
+
+############## mia - 12/23/21 00:30:34 EST -0500 ##############
+
+2021-12-24 00:05:53 284 packets transmitted, 284 received, 0% packet loss, time 84919502ms
+2021-12-24 00:05:53 rtt min/avg/max/mdev = 29.301/52.529/236.610/18.706 ms
+
+############## mia - 12/24/21 00:30:34 EST -0500 ##############
+
+2021-12-25 00:05:54 284 packets transmitted, 284 received, 0% packet loss, time 84919761ms
+2021-12-25 00:05:54 rtt min/avg/max/mdev = 33.260/55.081/283.561/21.779 ms
+
+############## mia - 12/25/21 00:30:37 EST -0500 ##############
+
+2021-12-26 00:05:56 284 packets transmitted, 284 received, 0% packet loss, time 84919703ms
+2021-12-26 00:05:56 rtt min/avg/max/mdev = 30.855/59.318/460.241/30.938 ms
+
+############## mia - 12/26/21 00:30:35 EST -0500 ##############
+
+2021-12-27 00:05:56 284 packets transmitted, 284 received, 0% packet loss, time 84920504ms
+2021-12-27 00:05:56 rtt min/avg/max/mdev = 33.533/58.820/260.674/29.655 ms
+
+############## mia - 12/27/21 00:30:40 EST -0500 ##############
+
+2021-12-28 00:06:01 284 packets transmitted, 284 received, 0% packet loss, time 84920030ms
+2021-12-28 00:06:01 rtt min/avg/max/mdev = 32.948/55.969/293.161/22.208 ms
+
+############## mia - 12/28/21 00:30:42 EST -0500 ##############
+
+2021-12-29 00:06:02 284 packets transmitted, 284 received, 0% packet loss, time 84919703ms
+2021-12-29 00:06:02 rtt min/avg/max/mdev = 33.926/59.157/808.345/53.700 ms
+
+############## mia - 12/30/21 00:30:42 EST -0500 ##############
+
+2021-12-31 00:06:02 284 packets transmitted, 284 received, 0% packet loss, time 84919738ms
+2021-12-31 00:06:02 rtt min/avg/max/mdev = 38.041/57.581/519.528/31.496 ms
+
+############## mia - 12/31/21 00:30:52 EST -0500 ##############
+
+2022-01-01 00:06:12 284 packets transmitted, 284 received, 0% packet loss, time 84919587ms
+2022-01-01 00:06:12 rtt min/avg/max/mdev = 32.620/55.075/158.743/17.360 ms
+
+############## mia - 01/02/22 00:30:44 EST -0500 ##############
+
+2022-01-03 00:05:47 284 packets transmitted, 284 received, 0% packet loss, time 84903480ms
+2022-01-03 00:05:47 rtt min/avg/max/mdev = 38.534/143.290/2414.113/252.911 ms
+
+############## mia - 01/03/22 00:30:50 EST -0500 ##############
+
+2022-01-04 00:06:00 284 packets transmitted, 284 received, 0% packet loss, time 84909477ms
+2022-01-04 00:06:00 rtt min/avg/max/mdev = 31.842/58.447/256.927/23.150 ms
+
+############## mia - 01/04/22 00:30:47 EST -0500 ##############
+
+2022-01-05 00:05:59 284 packets transmitted, 284 received, 0% packet loss, time 84912456ms
+2022-01-05 00:05:59 rtt min/avg/max/mdev = 30.951/63.957/768.314/68.517 ms
+
+############## mia - 01/05/22 00:30:54 EST -0500 ##############
+
+2022-01-06 00:06:04 284 packets transmitted, 284 received, 0% packet loss, time 84909525ms
+2022-01-06 00:06:04 rtt min/avg/max/mdev = 32.433/93.225/1414.231/147.438 ms
+
+############## mia - 01/06/22 00:30:51 EST -0500 ##############
+
+2022-01-07 00:06:01 284 packets transmitted, 284 received, 0% packet loss, time 84909735ms
+2022-01-07 00:06:01 rtt min/avg/max/mdev = 31.692/74.628/1210.495/110.977 ms
+
+############## mia - 01/07/22 00:30:53 EST -0500 ##############
+
+2022-01-08 00:06:12 284 packets transmitted, 284 received, 0% packet loss, time 84918730ms
+2022-01-08 00:06:12 rtt min/avg/max/mdev = 31.985/45.903/127.188/14.659 ms
+
+############## mia - 01/08/22 00:30:58 EST -0500 ##############
+
+2022-01-09 00:06:19 284 packets transmitted, 284 received, 0% packet loss, time 84920382ms
+2022-01-09 00:06:19 rtt min/avg/max/mdev = 30.938/53.565/176.209/19.120 ms
+
+############## mia - 01/09/22 00:31:01 EST -0500 ##############
+
+2022-01-10 00:06:20 284 packets transmitted, 284 received, 0% packet loss, time 84919072ms
+2022-01-10 00:06:20 rtt min/avg/max/mdev = 29.195/52.737/307.057/26.651 ms
+
+############## mia - 01/10/22 00:31:01 EST -0500 ##############
+
+2022-01-11 00:06:21 284 packets transmitted, 284 received, 0% packet loss, time 84920386ms
+2022-01-11 00:06:21 rtt min/avg/max/mdev = 29.684/59.559/259.094/28.132 ms
+
+############## mia - 01/11/22 00:31:03 EST -0500 ##############
+
+2022-01-12 00:06:22 284 packets transmitted, 284 received, 0% packet loss, time 84919647ms
+2022-01-12 00:06:22 rtt min/avg/max/mdev = 27.315/53.510/551.667/40.780 ms
+
+############## mia - 01/12/22 00:31:09 EST -0500 ##############
+
+2022-01-13 00:06:28 284 packets transmitted, 284 received, 0% packet loss, time 84918847ms
+2022-01-13 00:06:28 rtt min/avg/max/mdev = 31.852/50.798/120.051/14.893 ms
+
+############## mia - 01/14/22 00:31:10 EST -0500 ##############
+
+2022-01-15 00:06:29 284 packets transmitted, 284 received, 0% packet loss, time 84919634ms
+2022-01-15 00:06:29 rtt min/avg/max/mdev = 32.106/56.590/137.815/16.729 ms
+
+############## mia - 01/15/22 00:31:11 EST -0500 ##############
+
+2022-01-16 00:06:31 284 packets transmitted, 284 received, 0% packet loss, time 84919730ms
+2022-01-16 00:06:31 rtt min/avg/max/mdev = 35.847/54.842/247.555/19.558 ms
+
+############## mia - 01/16/22 00:31:13 EST -0500 ##############
+
+2022-01-17 00:06:32 284 packets transmitted, 284 received, 0% packet loss, time 84919246ms
+2022-01-17 00:06:32 rtt min/avg/max/mdev = 31.808/51.280/130.335/21.301 ms
+
+############## mia - 01/18/22 00:31:16 EST -0500 ##############
+
+2022-01-19 00:06:37 284 packets transmitted, 284 received, 0% packet loss, time 84920371ms
+2022-01-19 00:06:37 rtt min/avg/max/mdev = 32.053/49.556/132.549/17.220 ms
+
+############## mia - 01/19/22 00:31:25 EST -0500 ##############
+
+2022-01-20 00:06:44 284 packets transmitted, 284 received, 0% packet loss, time 84919376ms
+2022-01-20 00:06:44 rtt min/avg/max/mdev = 30.621/47.254/389.442/23.233 ms
+
+############## mia - 01/20/22 00:31:21 EST -0500 ##############
+
+2022-01-21 00:06:41 284 packets transmitted, 284 received, 0% packet loss, time 84920035ms
+2022-01-21 00:06:41 rtt min/avg/max/mdev = 30.279/51.252/256.173/19.643 ms
+
+############## mia - 01/21/22 00:31:22 EST -0500 ##############
+
+2022-01-22 00:06:42 284 packets transmitted, 284 received, 0% packet loss, time 84919625ms
+2022-01-22 00:06:42 rtt min/avg/max/mdev = 30.911/45.063/246.635/17.957 ms
+
+############## mia - 01/23/22 00:31:29 EST -0500 ##############
+
+2022-01-24 00:06:49 284 packets transmitted, 284 received, 0% packet loss, time 84919997ms
+2022-01-24 00:06:49 rtt min/avg/max/mdev = 31.446/50.027/144.256/19.932 ms
+
+############## mia - 01/24/22 00:31:30 EST -0500 ##############
+
+2022-01-25 00:06:50 284 packets transmitted, 284 received, 0% packet loss, time 84919964ms
+2022-01-25 00:06:50 rtt min/avg/max/mdev = 32.000/55.724/525.473/46.144 ms
+
+############## mia - 01/25/22 00:31:32 EST -0500 ##############
+
+2022-01-26 00:06:52 284 packets transmitted, 284 received, 0% packet loss, time 84919814ms
+2022-01-26 00:06:52 rtt min/avg/max/mdev = 31.960/53.339/242.384/21.474 ms
+
+############## mia - 01/26/22 00:31:34 EST -0500 ##############
+
+2022-01-27 00:06:54 284 packets transmitted, 284 received, 0% packet loss, time 84920113ms
+2022-01-27 00:06:54 rtt min/avg/max/mdev = 31.036/49.585/513.853/31.648 ms
+
+############## mia - 01/27/22 00:31:36 EST -0500 ##############
+
+2022-01-28 00:06:56 284 packets transmitted, 284 received, 0% packet loss, time 84920166ms
+2022-01-28 00:06:56 rtt min/avg/max/mdev = 29.961/50.879/431.347/36.610 ms
+
+############## mia - 01/29/22 00:31:40 EST -0500 ##############
+
+2022-01-30 00:06:59 284 packets transmitted, 284 received, 0% packet loss, time 84919219ms
+2022-01-30 00:06:59 rtt min/avg/max/mdev = 29.029/43.932/119.195/11.991 ms
+
+############## mia - 01/30/22 00:31:42 EST -0500 ##############
+
+2022-01-31 00:07:04 284 packets transmitted, 284 received, 0% packet loss, time 84921378ms
+2022-01-31 00:07:04 rtt min/avg/max/mdev = 30.461/46.076/127.228/18.037 ms
+
+############## mia - 01/31/22 00:31:46 EST -0500 ##############
+
+2022-02-01 00:07:06 284 packets transmitted, 284 received, 0% packet loss, time 84919393ms
+2022-02-01 00:07:06 rtt min/avg/max/mdev = 30.879/46.191/130.271/15.219 ms
+
+############## mia - 02/02/22 00:31:51 EST -0500 ##############
+
+2022-02-03 00:07:10 284 packets transmitted, 284 received, 0% packet loss, time 84919362ms
+2022-02-03 00:07:10 rtt min/avg/max/mdev = 31.521/55.618/261.699/24.406 ms
+
+############## mia - 02/04/22 00:31:54 EST -0500 ##############
+
+2022-02-05 00:07:14 284 packets transmitted, 284 received, 0% packet loss, time 84919763ms
+2022-02-05 00:07:14 rtt min/avg/max/mdev = 32.977/55.209/146.098/20.152 ms
+
+############## mia - 02/05/22 00:31:57 EST -0500 ##############
+
+2022-02-06 00:07:18 284 packets transmitted, 284 received, 0% packet loss, time 84920274ms
+2022-02-06 00:07:18 rtt min/avg/max/mdev = 28.997/46.290/129.811/15.362 ms
+
+############## mia - 02/06/22 00:31:57 EST -0500 ##############
+
+2022-02-07 00:07:16 284 packets transmitted, 284 received, 0% packet loss, time 84919262ms
+2022-02-07 00:07:16 rtt min/avg/max/mdev = 29.391/54.297/488.694/34.465 ms
+
+############## mia - 02/07/22 00:31:59 EST -0500 ##############
+
+2022-02-08 00:07:19 284 packets transmitted, 284 received, 0% packet loss, time 84919825ms
+2022-02-08 00:07:19 rtt min/avg/max/mdev = 30.937/54.247/494.315/35.193 ms
+
+############## mia - 02/08/22 00:32:01 EST -0500 ##############
+
+2022-02-09 00:07:21 284 packets transmitted, 284 received, 0% packet loss, time 84920363ms
+2022-02-09 00:07:21 rtt min/avg/max/mdev = 28.588/50.969/126.417/18.166 ms
+
+############## mia - 02/09/22 00:32:03 EST -0500 ##############
+
+2022-02-10 00:07:22 284 packets transmitted, 284 received, 0% packet loss, time 84919205ms
+2022-02-10 00:07:22 rtt min/avg/max/mdev = 32.276/53.174/279.472/23.384 ms
+
+############## mia - 02/10/22 00:32:05 EST -0500 ##############
+
+2022-02-11 00:07:25 284 packets transmitted, 284 received, 0% packet loss, time 84920335ms
+2022-02-11 00:07:25 rtt min/avg/max/mdev = 32.152/55.843/694.943/47.069 ms
+
+############## mia - 02/11/22 00:32:05 EST -0500 ##############
+
+2022-02-12 00:07:25 284 packets transmitted, 284 received, 0% packet loss, time 84919120ms
+2022-02-12 00:07:25 rtt min/avg/max/mdev = 31.062/53.730/565.794/35.514 ms
+
+############## mia - 02/12/22 00:32:09 EST -0500 ##############
+
+2022-02-13 00:07:29 284 packets transmitted, 284 received, 0% packet loss, time 84919329ms
+2022-02-13 00:07:29 rtt min/avg/max/mdev = 32.030/55.873/187.180/22.254 ms
+
+############## mia - 02/13/22 00:32:10 EST -0500 ##############
+
+2022-02-14 00:07:29 284 packets transmitted, 284 received, 0% packet loss, time 84918905ms
+2022-02-14 00:07:29 rtt min/avg/max/mdev = 32.737/53.455/133.784/20.758 ms
+
+############## mia - 02/14/22 00:32:15 EST -0500 ##############
+
+2022-02-15 00:07:34 284 packets transmitted, 284 received, 0% packet loss, time 84919485ms
+2022-02-15 00:07:34 rtt min/avg/max/mdev = 29.831/48.257/114.085/14.202 ms
+
+############## mia - 02/15/22 00:32:13 EST -0500 ##############
+
+2022-02-16 00:07:33 284 packets transmitted, 284 received, 0% packet loss, time 84919912ms
+2022-02-16 00:07:33 rtt min/avg/max/mdev = 25.828/47.731/118.795/13.398 ms
+
+############## mia - 02/16/22 00:32:17 EST -0500 ##############
+
+2022-02-17 00:07:37 284 packets transmitted, 284 received, 0% packet loss, time 84919334ms
+2022-02-17 00:07:37 rtt min/avg/max/mdev = 33.015/49.875/119.817/12.279 ms
+
+############## mia - 02/18/22 00:32:20 EST -0500 ##############
+
+2022-02-19 00:07:40 284 packets transmitted, 284 received, 0% packet loss, time 84919271ms
+2022-02-19 00:07:40 rtt min/avg/max/mdev = 33.323/111.219/3635.503/353.751 ms
+
+############## mia - 02/19/22 00:32:20 EST -0500 ##############
+
+2022-02-20 00:07:38 284 packets transmitted, 284 received, 0% packet loss, time 84918632ms
+2022-02-20 00:07:38 rtt min/avg/max/mdev = 32.066/73.066/1179.956/89.888 ms
+
+############## mia - 02/20/22 00:32:24 EST -0500 ##############
+
+2022-02-21 00:07:43 284 packets transmitted, 284 received, 0% packet loss, time 84919243ms
+2022-02-21 00:07:43 rtt min/avg/max/mdev = 31.915/86.846/1418.962/138.074 ms
+
+############## mia - 02/21/22 00:32:23 EST -0500 ##############
+
+2022-02-22 00:07:43 284 packets transmitted, 284 received, 0% packet loss, time 84920276ms
+2022-02-22 00:07:43 rtt min/avg/max/mdev = 32.654/90.926/1988.328/169.971 ms
+
+############## mia - 02/22/22 00:32:28 EST -0500 ##############
+
+2022-02-23 00:07:48 284 packets transmitted, 284 received, 0% packet loss, time 84919378ms
+2022-02-23 00:07:48 rtt min/avg/max/mdev = 31.875/79.682/4534.672/268.204 ms
+
+############## mia - 02/23/22 00:32:24 EST -0500 ##############
+
+2022-02-24 00:07:44 284 packets transmitted, 284 received, 0% packet loss, time 84919618ms
+2022-02-24 00:07:44 rtt min/avg/max/mdev = 34.440/80.336/1262.061/101.185 ms
+
+############## mia - 02/26/22 00:32:30 EST -0500 ##############
+
+2022-02-27 00:07:50 284 packets transmitted, 284 received, 0% packet loss, time 84919884ms
+2022-02-27 00:07:50 rtt min/avg/max/mdev = 39.381/86.989/3056.396/185.875 ms
+
+############## mia - 02/27/22 00:32:32 EST -0500 ##############
+
+2022-02-28 00:07:52 284 packets transmitted, 284 received, 0% packet loss, time 84920122ms
+2022-02-28 00:07:52 rtt min/avg/max/mdev = 37.849/86.985/2562.442/161.153 ms
+
+############## mia - 02/28/22 00:32:32 EST -0500 ##############
+
+2022-03-01 00:07:52 284 packets transmitted, 284 received, 0% packet loss, time 84919682ms
+2022-03-01 00:07:52 rtt min/avg/max/mdev = 38.359/76.356/610.254/53.115 ms
+
+############## mia - 03/04/22 00:32:37 EST -0500 ##############
+
+2022-03-05 00:07:57 284 packets transmitted, 284 received, 0% packet loss, time 84919671ms
+2022-03-05 00:07:57 rtt min/avg/max/mdev = 39.531/86.083/1690.222/133.894 ms
+
+############## mia - 03/05/22 00:32:40 EST -0500 ##############
+
+2022-03-06 00:07:59 284 packets transmitted, 284 received, 0% packet loss, time 84918902ms
+2022-03-06 00:07:59 rtt min/avg/max/mdev = 39.076/81.014/5004.818/294.461 ms
+
+############## mia - 03/07/22 00:32:41 EST -0500 ##############
+
+2022-03-08 00:08:00 284 packets transmitted, 284 received, 0% packet loss, time 84918856ms
+2022-03-08 00:08:00 rtt min/avg/max/mdev = 35.512/96.192/1596.242/124.419 ms
+
+############## mia - 03/08/22 00:32:43 EST -0500 ##############
+
+2022-03-09 00:08:03 284 packets transmitted, 284 received, 0% packet loss, time 84919803ms
+2022-03-09 00:08:03 rtt min/avg/max/mdev = 35.025/63.789/350.234/26.066 ms
+
+############## mia - 03/12/22 00:32:49 EST -0500 ##############
+
+2022-03-13 00:08:09 284 packets transmitted, 284 received, 0% packet loss, time 84920025ms
+2022-03-13 00:08:09 rtt min/avg/max/mdev = 32.999/66.761/2305.302/138.932 ms
+
+############## mia - 03/15/22 00:32:54 EST -0500 ##############
+
+2022-03-16 00:08:13 284 packets transmitted, 284 received, 0% packet loss, time 84919289ms
+2022-03-16 00:08:13 rtt min/avg/max/mdev = 37.855/83.741/1297.279/112.869 ms
+
+############## mia - 03/20/22 00:33:00 EST -0500 ##############
+
+2022-03-21 00:08:19 284 packets transmitted, 284 received, 0% packet loss, time 84919221ms
+2022-03-21 00:08:19 rtt min/avg/max/mdev = 38.854/61.839/477.682/35.684 ms
+
+############## mia - 03/21/22 00:33:01 EST -0500 ##############
+
+2022-03-22 00:08:21 284 packets transmitted, 284 received, 0% packet loss, time 84919555ms
+2022-03-22 00:08:21 rtt min/avg/max/mdev = 36.121/68.097/981.722/61.144 ms
+
+############## mia - 03/24/22 00:33:04 EST -0500 ##############
+
+2022-03-25 00:08:24 284 packets transmitted, 284 received, 0% packet loss, time 84919861ms
+2022-03-25 00:08:24 rtt min/avg/max/mdev = 42.701/76.618/2051.452/120.550 ms
+
+############## mia - 03/25/22 00:33:05 EST -0500 ##############
+
+2022-03-26 00:08:26 284 packets transmitted, 284 received, 0% packet loss, time 84920319ms
+2022-03-26 00:08:26 rtt min/avg/max/mdev = 39.454/70.988/840.699/54.162 ms
+
+############## mia - 03/26/22 00:33:07 EST -0500 ##############
+
+2022-03-27 00:08:28 284 packets transmitted, 284 received, 0% packet loss, time 84920392ms
+2022-03-27 00:08:28 rtt min/avg/max/mdev = 37.342/79.952/886.076/64.674 ms
+
+############## mia - 03/28/22 00:33:11 EST -0500 ##############
+
+2022-03-29 00:08:30 284 packets transmitted, 284 received, 0% packet loss, time 84919393ms
+2022-03-29 00:08:30 rtt min/avg/max/mdev = 41.964/128.894/6510.419/392.954 ms
+
+############## mia - 03/29/22 00:33:12 EST -0500 ##############
+
+2022-03-30 00:08:31 284 packets transmitted, 284 received, 0% packet loss, time 84919075ms
+2022-03-30 00:08:31 rtt min/avg/max/mdev = 39.996/105.831/1544.981/163.787 ms
+
+############## mia - 04/01/22 00:33:14 EST -0500 ##############
+
+2022-04-02 00:08:34 284 packets transmitted, 284 received, 0% packet loss, time 84919327ms
+2022-04-02 00:08:34 rtt min/avg/max/mdev = 39.606/74.996/497.521/46.443 ms
+
+############## mia - 04/02/22 00:33:16 EST -0500 ##############
+
+2022-04-03 00:08:36 284 packets transmitted, 284 received, 0% packet loss, time 84919363ms
+2022-04-03 00:08:36 rtt min/avg/max/mdev = 37.322/78.358/798.806/72.666 ms
+
+############## mia - 04/03/22 00:33:17 EST -0500 ##############
+
+2022-04-04 00:08:37 284 packets transmitted, 284 received, 0% packet loss, time 84919992ms
+2022-04-04 00:08:37 rtt min/avg/max/mdev = 36.920/104.431/941.767/111.421 ms
+
+############## mia - 04/07/22 00:33:23 EST -0500 ##############
+
+2022-04-08 00:08:44 284 packets transmitted, 284 received, 0% packet loss, time 84920040ms
+2022-04-08 00:08:44 rtt min/avg/max/mdev = 41.127/70.520/362.713/33.068 ms
+
+############## mia - 04/08/22 00:33:24 EST -0500 ##############
+
+2022-04-09 00:08:44 284 packets transmitted, 284 received, 0% packet loss, time 84920343ms
+2022-04-09 00:08:44 rtt min/avg/max/mdev = 43.642/84.234/701.380/61.299 ms
+
+############## mia - 04/13/22 00:33:30 EST -0500 ##############
+
+2022-04-14 00:08:50 284 packets transmitted, 284 received, 0% packet loss, time 84919368ms
+2022-04-14 00:08:50 rtt min/avg/max/mdev = 42.857/71.246/265.068/29.356 ms
+
+############## mia - 04/16/22 00:33:31 EST -0500 ##############
+
+2022-04-17 00:08:51 284 packets transmitted, 284 received, 0% packet loss, time 84919527ms
+2022-04-17 00:08:51 rtt min/avg/max/mdev = 41.747/89.428/643.080/63.942 ms
+
+############## mia - 04/18/22 00:33:34 EST -0500 ##############
+
+2022-04-19 00:08:54 284 packets transmitted, 284 received, 0% packet loss, time 84919911ms
+2022-04-19 00:08:54 rtt min/avg/max/mdev = 39.101/110.147/1786.210/150.437 ms
+
+############## mia - 04/30/22 00:33:47 EST -0500 ##############
+
+2022-05-01 00:09:07 284 packets transmitted, 284 received, 0% packet loss, time 84919757ms
+2022-05-01 00:09:07 rtt min/avg/max/mdev = 36.036/70.332/958.512/58.762 ms
+
+############## mia - 05/04/22 00:33:52 EST -0500 ##############
+
+2022-05-05 00:09:11 284 packets transmitted, 284 received, 0% packet loss, time 84919082ms
+2022-05-05 00:09:11 rtt min/avg/max/mdev = 34.153/90.662/811.693/95.061 ms
+
+############## mia - 05/05/22 00:33:54 EST -0500 ##############
+
+2022-05-06 00:09:14 284 packets transmitted, 284 received, 0% packet loss, time 84919950ms
+2022-05-06 00:09:14 rtt min/avg/max/mdev = 32.238/119.211/1472.215/144.103 ms
+
+############## mia - 05/07/22 00:33:54 EST -0500 ##############
+
+2022-05-08 00:09:14 284 packets transmitted, 284 received, 0% packet loss, time 84919755ms
+2022-05-08 00:09:14 rtt min/avg/max/mdev = 52.540/114.847/1594.536/139.069 ms
+
+############## mia - 05/13/22 00:34:01 EST -0500 ##############
+
+2022-05-14 00:09:20 284 packets transmitted, 284 received, 0% packet loss, time 84918659ms
+2022-05-14 00:09:20 rtt min/avg/max/mdev = 35.469/61.028/174.997/15.349 ms
+
+############## mia - 05/14/22 00:34:02 EST -0500 ##############
+
+2022-05-15 00:09:19 284 packets transmitted, 284 received, 0% packet loss, time 84917598ms
+2022-05-15 00:09:19 rtt min/avg/max/mdev = 39.061/64.575/259.310/14.869 ms
+
+############## mia - 05/15/22 00:34:03 EST -0500 ##############
+
+2022-05-16 00:09:20 284 packets transmitted, 284 received, 0% packet loss, time 84916841ms
+2022-05-16 00:09:20 rtt min/avg/max/mdev = 37.399/59.170/189.344/16.572 ms
+
+############## mia - 05/16/22 00:34:05 EST -0500 ##############
+
+2022-05-17 00:09:23 284 packets transmitted, 284 received, 0% packet loss, time 84917865ms
+2022-05-17 00:09:23 rtt min/avg/max/mdev = 35.259/57.899/266.198/20.221 ms
+
+############## mia - 05/17/22 00:34:05 EST -0500 ##############
+
+2022-05-18 00:09:24 284 packets transmitted, 284 received, 0% packet loss, time 84919352ms
+2022-05-18 00:09:24 rtt min/avg/max/mdev = 35.484/78.860/3047.126/185.880 ms
+
+############## mia - 05/18/22 00:34:06 EST -0500 ##############
+
+2022-05-19 00:09:26 284 packets transmitted, 284 received, 0% packet loss, time 84919151ms
+2022-05-19 00:09:26 rtt min/avg/max/mdev = 33.229/56.995/160.951/18.502 ms
+
+############## mia - 05/19/22 00:34:06 EST -0500 ##############
+
+2022-05-20 00:09:26 284 packets transmitted, 284 received, 0% packet loss, time 84919155ms
+2022-05-20 00:09:26 rtt min/avg/max/mdev = 38.399/128.800/7709.475/530.784 ms
+
+############## mia - 05/20/22 00:34:11 EST -0500 ##############
+
+2022-05-21 00:09:30 284 packets transmitted, 284 received, 0% packet loss, time 84919107ms
+2022-05-21 00:09:30 rtt min/avg/max/mdev = 37.331/64.531/483.077/44.300 ms
+
+############## mia - 05/21/22 00:34:09 EST -0500 ##############
+
+2022-05-22 00:09:29 284 packets transmitted, 284 received, 0% packet loss, time 84920310ms
+2022-05-22 00:09:29 rtt min/avg/max/mdev = 37.701/61.577/276.984/24.558 ms
+
+############## mia - 05/22/22 00:34:10 EST -0500 ##############
+
+2022-05-23 00:09:30 284 packets transmitted, 284 received, 0% packet loss, time 84920149ms
+2022-05-23 00:09:30 rtt min/avg/max/mdev = 29.670/110.212/11447.728/675.215 ms
+
+############## mia - 05/23/22 00:34:11 EST -0500 ##############
+
+2022-05-24 00:09:30 284 packets transmitted, 284 received, 0% packet loss, time 84919240ms
+2022-05-24 00:09:30 rtt min/avg/max/mdev = 32.761/61.947/184.531/16.384 ms
+
+############## mia - 05/25/22 00:34:14 EST -0500 ##############
+
+2022-05-26 00:09:35 284 packets transmitted, 284 received, 0% packet loss, time 84920108ms
+2022-05-26 00:09:35 rtt min/avg/max/mdev = 34.807/66.674/904.452/53.719 ms
+
+############## mia - 05/26/22 00:34:14 EST -0500 ##############
+
+2022-05-27 00:09:33 284 packets transmitted, 284 received, 0% packet loss, time 84919071ms
+2022-05-27 00:09:33 rtt min/avg/max/mdev = 39.744/62.927/343.819/26.622 ms
+
+############## mia - 05/27/22 00:34:16 EST -0500 ##############
+
+2022-05-28 00:09:36 284 packets transmitted, 284 received, 0% packet loss, time 84919700ms
+2022-05-28 00:09:36 rtt min/avg/max/mdev = 36.600/71.565/1515.466/94.346 ms
+
+############## mia - 05/28/22 00:34:15 EST -0500 ##############
+
+2022-05-29 00:09:35 284 packets transmitted, 284 received, 0% packet loss, time 84919203ms
+2022-05-29 00:09:35 rtt min/avg/max/mdev = 36.008/65.055/267.278/34.960 ms
+
+############## mia - 05/29/22 00:34:17 EST -0500 ##############
+
+2022-05-30 00:09:37 284 packets transmitted, 284 received, 0% packet loss, time 84919571ms
+2022-05-30 00:09:37 rtt min/avg/max/mdev = 35.510/54.919/267.325/19.965 ms
+
+############## mia - 05/30/22 00:34:18 EST -0500 ##############
+
+2022-05-31 00:09:37 284 packets transmitted, 284 received, 0% packet loss, time 84918740ms
+2022-05-31 00:09:37 rtt min/avg/max/mdev = 36.167/57.097/134.447/18.569 ms
+
+############## mia - 06/01/22 00:34:20 EST -0500 ##############
+
+2022-06-02 00:09:41 284 packets transmitted, 284 received, 0% packet loss, time 84919946ms
+2022-06-02 00:09:41 rtt min/avg/max/mdev = 32.480/57.560/278.885/28.668 ms
+
+############## mia - 06/02/22 00:34:21 EST -0500 ##############
+
+2022-06-03 00:09:40 284 packets transmitted, 284 received, 0% packet loss, time 84918908ms
+2022-06-03 00:09:40 rtt min/avg/max/mdev = 34.898/64.699/681.277/51.297 ms
+
+############## mia - 06/03/22 00:34:22 EST -0500 ##############
+
+2022-06-04 00:09:42 284 packets transmitted, 284 received, 0% packet loss, time 84919977ms
+2022-06-04 00:09:42 rtt min/avg/max/mdev = 33.959/59.255/567.268/44.263 ms
+
+############## mia - 06/05/22 00:34:23 EST -0500 ##############
+
+2022-06-06 00:09:42 284 packets transmitted, 284 received, 0% packet loss, time 84919472ms
+2022-06-06 00:09:42 rtt min/avg/max/mdev = 33.900/67.637/488.177/49.551 ms
+
+############## mia - 06/06/22 00:34:25 EST -0500 ##############
+
+2022-06-07 00:09:44 284 packets transmitted, 284 received, 0% packet loss, time 84919172ms
+2022-06-07 00:09:44 rtt min/avg/max/mdev = 35.752/62.877/539.398/38.564 ms
+
+############## mia - 06/08/22 00:34:27 EST -0500 ##############
+
+2022-06-09 00:09:47 284 packets transmitted, 284 received, 0% packet loss, time 84919457ms
+2022-06-09 00:09:47 rtt min/avg/max/mdev = 36.311/57.712/315.037/27.597 ms
+
+############## mia - 06/09/22 00:34:27 EST -0500 ##############
+
+2022-06-10 00:09:47 284 packets transmitted, 284 received, 0% packet loss, time 84919535ms
+2022-06-10 00:09:47 rtt min/avg/max/mdev = 32.737/56.303/677.847/43.814 ms
+
+############## mia - 06/11/22 00:34:31 EST -0500 ##############
+
+2022-06-12 00:09:50 284 packets transmitted, 284 received, 0% packet loss, time 84919495ms
+2022-06-12 00:09:50 rtt min/avg/max/mdev = 31.250/53.170/169.147/19.989 ms
+
+############## mia - 06/12/22 00:34:33 EST -0500 ##############
+
+2022-06-13 00:09:52 284 packets transmitted, 284 received, 0% packet loss, time 84919371ms
+2022-06-13 00:09:52 rtt min/avg/max/mdev = 31.634/50.033/117.193/12.913 ms
+
+############## mia - 06/13/22 00:34:33 EST -0500 ##############
+
+2022-06-14 00:09:52 284 packets transmitted, 284 received, 0% packet loss, time 84919217ms
+2022-06-14 00:09:52 rtt min/avg/max/mdev = 29.076/51.787/158.709/16.419 ms
+
+############## mia - 06/19/22 00:34:39 EST -0500 ##############
+
+2022-06-20 00:09:59 284 packets transmitted, 284 received, 0% packet loss, time 84919785ms
+2022-06-20 00:09:59 rtt min/avg/max/mdev = 34.239/57.449/168.401/24.537 ms
+
+############## mia - 06/20/22 00:34:42 EST -0500 ##############
+
+2022-06-21 00:10:02 284 packets transmitted, 284 received, 0% packet loss, time 84919587ms
+2022-06-21 00:10:02 rtt min/avg/max/mdev = 34.148/51.696/131.135/15.140 ms
+
+############## mia - 06/21/22 00:34:42 EST -0500 ##############
+
+2022-06-22 00:10:01 284 packets transmitted, 284 received, 0% packet loss, time 84919469ms
+2022-06-22 00:10:01 rtt min/avg/max/mdev = 32.649/50.745/379.477/23.808 ms
+
+############## mia - 06/22/22 00:34:42 EST -0500 ##############
+
+2022-06-23 00:10:02 284 packets transmitted, 284 received, 0% packet loss, time 84919630ms
+2022-06-23 00:10:02 rtt min/avg/max/mdev = 32.979/54.487/131.753/12.619 ms
+
+############## mia - 06/24/22 00:34:44 EST -0500 ##############
+
+2022-06-25 00:10:04 284 packets transmitted, 284 received, 0% packet loss, time 84919654ms
+2022-06-25 00:10:04 rtt min/avg/max/mdev = 32.906/52.571/139.396/16.046 ms
